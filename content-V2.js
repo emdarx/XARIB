@@ -1,9 +1,3 @@
-/*
-* 
-* xarib
-*
-*/
-
 if (typeof game_busted !== "function" || typeof game_waiting !== "function") close();
 
 var _50Flg_ = false;
@@ -11,27 +5,27 @@ var oContainer = [];
 var f_game_busted = game_busted;
 var f_game_waiting = game_waiting;
 
-$('div.user-name').after("<div class='top-link'>XARIB v1.0<h4 id='hadi-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
+$('div.user-name').after("<div class='top-link'>XARIB v1.1<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
 
 game_waiting = (function () {
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var resultUpTo1_80 = getAlgorithmNumberHash(str.md5, 1.05, 2);
-        var resultUpTo5_00 = getAlgorithmNumberHash(str.md5, 5);
+        var Bearish = getAlgorithmNumberHash(str.md5, 1.05, 2);
+        var Bullish = getAlgorithmNumberHash(str.md5, 10);
         
-        var isLowerCoefficient = parseFloat(resultUpTo1_80) < parseFloat(resultUpTo5_00);
-        var isGreaterCoefficient = parseFloat(resultUpTo1_80) > parseFloat(resultUpTo5_00);
+        var isLowerCoefficient = parseFloat(Bearish) < parseFloat(Bullish);
+        var isGreaterCoefficient = parseFloat(Bearish) > parseFloat(Bullish);
         
-        var finalCashout = parseFloat(resultUpTo1_80).toFixed(2);
+        var finalCashout = parseFloat(Bearish).toFixed(2);
         
         if (isLowerCoefficient) {
             var randomPercentage = (Math.random() * (0.75 - 0.40) + 0.40); // Random reduction between 40% and 75%
-            var adjustedCashout = (parseFloat(resultUpTo1_80) * randomPercentage).toFixed(2);
+            var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             finalCashout = Math.max(adjustedCashout, 1.01); // Ensure final cashout is at least 1.01
         } else if (isGreaterCoefficient) {
             var randomPercentage = (Math.random() * (0.75 - 0.40) + 0.40); // Random reduction between 40% and 75%
-            var adjustedCashout = (parseFloat(resultUpTo1_80) * randomPercentage).toFixed(2);
+            var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             finalCashout = Math.max(adjustedCashout, 1.01); // Ensure final cashout is at least 1.01
         }
         
@@ -41,7 +35,7 @@ game_waiting = (function () {
         }
         
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-        $("h4#hadi-box").html("<span style='color: green;'>" + resultUpTo5_00 + "</span><br><span style='color: red;'>" + resultUpTo1_80 + "</span>");
+        $("h4#h-box").html("<span style='color: green;'>" + Bullish + "</span><br><span style='color: red;'>" + Bearish + "</span>");
     };
 })();
 
@@ -51,7 +45,7 @@ game_busted = (function () {
     return function (str) {
         __init50Hss__();
         addToRepository(str);
-        $("h4#hadi-box").html("XARIB Processing");
+        $("h4#h-box").html("Processing ...");
         f_game_busted.apply(this, arguments); 
     };
 })();
@@ -61,9 +55,9 @@ function __init50Hss__() {
         _50Flg_ = true;
         var _50LatestHash_ = document.getElementsByClassName('crash-row');
         for(var i = _50LatestHash_.length-1; i >= 1; i--) {
-            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('h-col-1')[0].textContent) * 200;
-            var md5 = _50LatestHash_[i].getElementsByClassName('h-col-5')[0].textContent;
-            var hash = _50LatestHash_[i].getElementsByClassName('h-col-6')[0].textContent;
+            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('col h-col-1')[0].textContent) * 200;
+            var md5 = _50LatestHash_[i].getElementsByClassName('col h-col-5')[0].textContent;
+            var hash = _50LatestHash_[i].getElementsByClassName('col h-col-6')[0].textContent;
             addToRepository({
                 "amount" : amount,
                 "md5" : md5,
@@ -136,7 +130,16 @@ function getHashObject(md5) {
 		"8b8745f70cc4ad00049c9cb7a0a634fa518a9cc5d8db74a66e5b2dc6f654bbbd",
 		"2f0853d0d1b27ff081c6b858bd88054e94652f0ef7f56746df06353d241152d5",
 		"39a76fd8e180ceb886345ecb63a5cbbb112994d816b3800c306cd029fe3ca16b",
-		"32031addf9459de80d63204ffc0c9cabd87753aae5be501cf633d744e0aa1355"
+		"32031addf9459de80d63204ffc0c9cabd87753aae5be501cf633d744e0aa1355",
+		"26cfd33c9bf34920735bc94e0689a413383cb147fa891ade81b781547ecf143c",
+		"2c32c59a5ab0834e2c5e4b5d576de864a0973298e2831613f94c1775df36b48e",
+		"8cc0d5d49790c107699cd148f19e3645498dd3cdc047c001a75b45a891bd17f2",
+		"b072fa016abdbcf2194f10520b27a3c31413d9f869dbfdb6e7d5455661ac81a3",
+		"9a0a0d9911bf4119708708bab4a0994fa966cbfd81971a2b6b505bc9483440a9",
+		"243e29f7021263aed4aba2f8516b1035b3d63713018267020d6641a49e731826",
+		"df8924c7dfe943808ae8547c70856d3cb2448f40d70e6f9d0199b57349051658",
+		"7032c74ed0e6a698759805eac8d551676992c995e79b75565220eba253c8a410",
+		"aaabc9bc62a34b19418ca900f216e161e180d77cc3b5fbaa858b8823dc50bc5c"
     ];
     var hashValueSum = hashValues.reduce((sum, value) => sum + (1.00 + 0.99 * hashValueNumebr / (100 * getHashValueNumber(value, 13) - hashValueNumebr)), 0);
     
