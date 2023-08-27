@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "XARIB",
+  "version": "4",
+  "description": "《bad az 10 dast bord 20 deyghe az bazi kharj sho》", 
+  "content_scripts": [{
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["background.js"]
+  }],
+  "icons": {                   
+    "19": "xarib.PNG",
+    "38": "xarib.PNG",
+    "48": "xarib.PNG",
+    "128": "xarib.PNG"  
+  }, 
+  "browser_action": {
+    "default_icon": "xarib.PNG",
+    "default_title": "XARIBU"
+  },
+  "web_accessible_resources": [
+    "content.js"
+  ],
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+}
