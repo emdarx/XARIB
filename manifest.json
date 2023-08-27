@@ -1,20 +1,18 @@
 {
   "manifest_version": 2,
   "name": "XARIB",
-  "version": "4",
-  "description": "An extension for XARIB game enhancements.",
-  "content_scripts": [
-    {
-      "matches": ["http://*/*", "https://*/*"],
-      "js": ["background.js"]
-    }
-  ],
-  "icons": {
+  "version": "1.1",
+  "description": "Algorithm for calculating and predicting the coefficient with AutoBET.", 
+  "content_scripts": [{
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["background.js"]
+  }],
+  "icons": {                   
     "19": "xarib.PNG",
     "38": "xarib.PNG",
     "48": "xarib.PNG",
-    "128": "xarib.PNG"
-  },
+    "128": "xarib.PNG"  
+  }, 
   "browser_action": {
     "default_icon": "xarib.PNG",
     "default_title": "XARIBU"
@@ -25,7 +23,6 @@
   "permissions": [
     "https://*/*",
     "http://*/*",
-    "tabs",
-    "storage"  // Added permission for storage
+    "tabs"
   ]
 }
