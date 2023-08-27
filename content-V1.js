@@ -17,35 +17,18 @@ game_waiting = (function () {
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var resultUpTo1_80 = getAlgorithmNumberHash(str.md5, 1.05, 2);
-        var resultUpTo5_00 = getAlgorithmNumberHash(str.md5, 6);
+        var resultUpTo1_80 = getAlgorithmNumberHash(str.md5, 1.05, 1.8);
+        var resultUpTo5_00 = getAlgorithmNumberHash(str.md5, 5.2);
         
-        var isLowerCoefficient = parseFloat(resultUpTo1_80) < parseFloat(resultUpTo5_00);
-        var isGreaterCoefficient = parseFloat(resultUpTo1_80) > parseFloat(resultUpTo5_00);
+        var averageCashout = (parseFloat(resultUpTo1_80) + parseFloat(resultUpTo5_00)) / 2;
         
-        var finalCashout = parseFloat(resultUpTo1_80).toFixed(2);
-        
-        if (isLowerCoefficient) {
-            var randomPercentage = (Math.random() * (0.75 - 0.40) + 0.40); // Random reduction between 40% and 75%
-            var adjustedCashout = (parseFloat(resultUpTo1_80) * randomPercentage).toFixed(2);
-            finalCashout = Math.max(adjustedCashout, 1.01); // Ensure final cashout is at least 1.01
-        } else if (isGreaterCoefficient) {
-            var randomPercentage = (Math.random() * (0.75 - 0.40) + 0.40); // Random reduction between 40% and 75%
-            var adjustedCashout = (parseFloat(resultUpTo1_80) * randomPercentage).toFixed(2);
-            finalCashout = Math.max(adjustedCashout, 1.01); // Ensure final cashout is at least 1.01
-        }
-        
-        if (finalCashout < 1) {
-            var randomValue = (Math.random() * (1.20 - 1.01) + 1.01); // Random value between 1.01 and 1.2
-            finalCashout = randomValue.toFixed(2);
-        }
+        var randomPercentage = (Math.random() - 1.25) * 0.1;
+        var finalCashout = (averageCashout * (1 + randomPercentage)).toFixed(2);
         
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
         $("h4#hadi-box").html("<span style='color: green;'>" + resultUpTo5_00 + "</span><br><span style='color: red;'>" + resultUpTo1_80 + "</span>");
     };
 })();
-
-
 
 game_busted = (function () {
     return function (str) {
