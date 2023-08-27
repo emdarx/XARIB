@@ -18,7 +18,7 @@ game_waiting = (function () {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
         var resultUpTo1_80 = getAlgorithmNumberHash(str.md5, 1.05, 2);
-        var resultUpTo5_00 = getAlgorithmNumberHash(str.md5, 6);
+        var resultUpTo5_00 = getAlgorithmNumberHash(str.md5, 5);
         
         var isLowerCoefficient = parseFloat(resultUpTo1_80) < parseFloat(resultUpTo5_00);
         var isGreaterCoefficient = parseFloat(resultUpTo1_80) > parseFloat(resultUpTo5_00);
@@ -186,7 +186,7 @@ function getCalculatedNum(arr, num) {
 
     var nums = arr.map(item => item.amount);
     var min = Math.min(...nums);
-    var maxCashout = 5.2;
+    var maxCashout = 5;
 
     return (min + (maxCashout - min) * Math.random()).toFixed(2);
 }
