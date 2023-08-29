@@ -8,11 +8,13 @@ var f_game_waiting = game_waiting;
 $('div.user-name').after("<div class='top-link'>XARIB Beta<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
 
 game_waiting = (function () {
+    var toggleValue = false; // Initial value
+
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var Bullish = getAlgorithmNumberHash(str.md5, 4.75);
-        var Bearish = getAlgorithmNumberHash(str.md5, 1.85);
+        var Bullish = getAlgorithmNumberHash(str.md5, 5);
+        var Bearish = getAlgorithmNumberHash(str.md5, 1.80);
         
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
         var BearishTrend = parseFloat(Bullish) < parseFloat(Bearish);
@@ -20,7 +22,7 @@ game_waiting = (function () {
         var finalCashout = parseFloat(Bearish).toFixed(2);
         
         if (BullishTrend) {
-            var randomPercentage = (Math.random() * (0.93 - 0.80) + 0.80);
+            var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             
             if (adjustedCashout < 1.30) {
@@ -34,24 +36,29 @@ game_waiting = (function () {
             if (average > 2) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.93 - 0.80) + 0.80);
+                var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
             }
         }
 
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-        $("h4#h-box").html("<span style='color: black;'>" + Bullish + "</span><br><span style='color: black;'>" + Bearish + "</span>");
-        
-        var placeBetButton = document.querySelector('.place-bet.lang_66');
-        if (placeBetButton) {
-            var randomDelay = Math.random() * (4000 - 1000) + 1000;
-            setTimeout(function() {
+        $("h4#h-box").html("<span style='color: green;'>" + Bullish + "</span><br><span style='color: red;'>" + Bearish + "</span>");
+
+        var gameAmountField = document.querySelector('.game-amount');
+        if (gameAmountField) {
+            toggleValue = !toggleValue;
+            gameAmountField.value = toggleValue ? 5555 : 11111;
+
+            var placeBetButton = document.querySelector('.place-bet.lang_66');
+            if (placeBetButton) {
                 placeBetButton.click();
-            }, randomDelay);
+            }
         }
     };
 })();
+
+
 
 
 game_busted = (function () {
@@ -158,7 +165,20 @@ function getHashObject(md5) {
 		"059bdec7275451bebd46ee5418f9f75b2eb96699a4c1535e48d091578d273489",
 		"c9c265a26d01ee07c41a24bde571c235301517f371eab8e1d71b7055c9111392",
 		"282626d051f0d1d0c124fc9d86fb9d839f71d6f6357b4f7af88501677935c92d",
-		"064bbb1e47f8ce97de1ea8f0736132e88f07c21f784510b7550736534ac2b373"
+		"064bbb1e47f8ce97de1ea8f0736132e88f07c21f784510b7550736534ac2b373",
+		"17903cb9cdabc93baa92bc1a1cc51ee6d5d60be32f4038a9c1607402b9ee74b6",
+		"0a0fe36da8752e39635e9831448c44851c372710e3846a903f8dc6d965c247ed",
+		"4b1f9cabae0e8e5194f5e6309579627fdce4effdd62b698485984a2e119bee5c",
+		"2ea706e172b7a8597138f348f1544294b454b27205c958b13074a388ecd5d3af",
+		"54fe2369828aa89a4daf63792571b62b3b999be3dab211edc267362c42a9b0a4",
+		"8e0a18b37c64ea467d89fa29c4d2e7ce66b9535512a9958fc7357c800eef1da2",
+		"89a469142a7087195d6572bca5c55a0df9dda3d0c909685346208096bdc0c99e",
+		"b2057eea5f3e1c57e28ad7fc80b67c55aa2f91ab049a456cc9ff7351405c0355",
+		"c6c577b4dd38f446da519fe5a9314241e5f03d47364519c688693f074a426bb4",
+		"496e019fb1704ae5c018d17a097d587e19084e99f1e9b6f527e89c7d3ea39050",
+		"ebb57f2c05d5c5ccb687f74d431b597014bbab85a15878c99ec75cffe03278d4",
+		"65febb46fd6a2628030a132456043143927697694cdd9b675535307535f64c28",
+		"086ee9d8a470f9449be6e22a56cfc721208a043396e9859cb43e634c4315d894"
     ];
     var hashValueSum = hashValues.reduce((sum, value) => sum + (1.00 + 0.99 * hashValueNumebr / (100 * getHashValueNumber(value, 13) - hashValueNumebr)), 0);
     
@@ -208,7 +228,7 @@ function getCalculatedNum(arr, num) {
 
     var nums = arr.map(item => item.amount);
     var min = Math.min(...nums);
-    var maxCashout = 4.75;
+    var maxCashout = 5;
 
     return (min + (maxCashout - min) * Math.random()).toFixed(2);
 }
