@@ -11,33 +11,39 @@ game_waiting = (function () {
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var Bearish = getAlgorithmNumberHash(str.md5, 1.75);
         var Bullish = getAlgorithmNumberHash(str.md5, 4.75);
+        var Bearish = getAlgorithmNumberHash(str.md5, 1.85);
         
-        var isLowerCoefficient = parseFloat(Bearish) < parseFloat(Bullish);
-        var isGreaterCoefficient = parseFloat(Bearish) > parseFloat(Bullish);
+        var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
+        var BearishTrend = parseFloat(Bullish) < parseFloat(Bearish);
         
         var finalCashout = parseFloat(Bearish).toFixed(2);
         
-        if (isLowerCoefficient) {
-            var randomPercentage = (Math.random() * (0.80 - 0.55) + 0.55);
+        if (BullishTrend) {
+            var randomPercentage = (Math.random() * (0.85 - 0.75) + 0.75);
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-            finalCashout = Math.max(adjustedCashout, 0);
-        } else if (isGreaterCoefficient) {
-            var randomPercentage = (Math.random() * (0.80 - 0.55) + 0.55);
-            var adjustedCashout = (parseFloat(Bullish) * randomPercentage).toFixed(2);
-            finalCashout = Math.max(adjustedCashout, 0);
+            
+            if (adjustedCashout < 1.30) {
+                finalCashout = 0;
+            } else {
+                finalCashout = adjustedCashout;
+            }
+        } else if (BearishTrend) {
+            var average = (parseFloat(Bullish) + parseFloat(Bearish)) / 2;
+            
+            if (average > 2) {
+                finalCashout = 0;
+            } else {
+                var randomPercentage = (Math.random() * (0.85 - 0.75) + 0.75);
+                var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
+                finalCashout = Math.max(adjustedCashout, 0);
+            }
         }
-        
-		if (finalCashout < 1) {
-		finalCashout = 0;
-			}
 
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
         $("h4#h-box").html("<span style='color: green;'>" + Bullish + "</span><br><span style='color: red;'>" + Bearish + "</span>");
     };
 })();
-
 
 
 game_busted = (function () {
@@ -54,7 +60,7 @@ function __init50Hss__() {
         _50Flg_ = true;
         var _50LatestHash_ = document.getElementsByClassName('crash-row');
         for(var i = _50LatestHash_.length-1; i >= 1; i--) {
-            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('col h-col-1')[0].textContent) * 200;
+            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('col bold h-col-1')[0].textContent) * 100;
             var md5 = _50LatestHash_[i].getElementsByClassName('col h-col-5')[0].textContent;
             var hash = _50LatestHash_[i].getElementsByClassName('col h-col-6')[0].textContent;
             addToRepository({
