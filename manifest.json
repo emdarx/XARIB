@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "XARIB",
   "version": "1.1",
-  "description": "Algorithm for calculating and predicting the coefficient with AutoBET.", 
+  "description": "Algorithm for Enfejar with AutoBET.", 
   "content_scripts": [{
     "matches": ["http://*/*", "https://*/*"],
     "js": ["background.js"]
@@ -15,7 +15,7 @@
   }, 
   "browser_action": {
     "default_icon": "xarib.PNG",
-    "default_title": "XARIBU"
+    "default_title": "XARIB Bot"
   },
   "web_accessible_resources": [
     "content.js"
