@@ -13,7 +13,7 @@ game_waiting = (function () {
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var Bullish = getAlgorithmNumberHash(str.md5, 5);
+        var Bullish = getAlgorithmNumberHash(str.md5, 4.80);
         var Bearish = getAlgorithmNumberHash(str.md5, 1.80);
         
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
@@ -22,7 +22,7 @@ game_waiting = (function () {
         var finalCashout = parseFloat(Bearish).toFixed(2);
         
         if (BullishTrend) {
-            var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
+            var randomPercentage = (Math.random() * (0.90 - 0.85) + 0.85);
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             
             if (adjustedCashout < 1.30) {
@@ -36,7 +36,7 @@ game_waiting = (function () {
             if (average > 2) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
+                var randomPercentage = (Math.random() * (0.90 - 0.85) + 0.85);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
             }
@@ -228,7 +228,7 @@ function getCalculatedNum(arr, num) {
 
     var nums = arr.map(item => item.amount);
     var min = Math.min(...nums);
-    var maxCashout = 5;
+    var maxCashout = 4.80;
 
     return (min + (maxCashout - min) * Math.random()).toFixed(2);
 }
