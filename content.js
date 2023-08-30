@@ -22,7 +22,7 @@ game_waiting = (function () {
         var finalCashout = parseFloat(Bearish).toFixed(2);
 		
 	    if (isNaN(parseFloat(Bullish)) || isNaN(parseFloat(Bearish))) {
-            Bullish = Bearish = 0;
+            finalCashout = 0;
         }
         
 		if (BullishTrend) {
@@ -30,7 +30,7 @@ game_waiting = (function () {
 		var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
 		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
 
-            if (adjustedCashout < 1.25) {
+            if (adjustedCashout < 1.28) {
                 finalCashout = 0;
             } else {
                 finalCashout = adjustedCashout;
@@ -41,7 +41,7 @@ game_waiting = (function () {
             if (average > 2) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
+                var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
 		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
