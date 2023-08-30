@@ -13,18 +13,22 @@ game_waiting = (function () {
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
-        var Bullish = getAlgorithmNumberHash(str.md5, 4.80);
+        var Bullish = getAlgorithmNumberHash(str.md5, 4.70);
         var Bearish = getAlgorithmNumberHash(str.md5, 1.80);
         
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
         var BearishTrend = parseFloat(Bullish) < parseFloat(Bearish);
         
         var finalCashout = parseFloat(Bearish).toFixed(2);
+		
+	    if (isNaN(parseFloat(Bullish)) || isNaN(parseFloat(Bearish))) {
+            Bullish = Bearish = 0;
+        }
         
 		if (BullishTrend) {
 		var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
 		var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.1).toFixed(2);
+		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
 
             if (adjustedCashout < 1.25) {
                 finalCashout = 0;
@@ -39,7 +43,7 @@ game_waiting = (function () {
             } else {
                 var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.1).toFixed(2);
+		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
             }
         }
@@ -50,7 +54,7 @@ game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 2 : 1;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 50 : 100;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
@@ -98,19 +102,19 @@ function addToRepository(str) {
 function getHashObject(md5) {
     var hashValueNumebr = getHashValueNumber(md5, 13);
     var hashValues = [
-        "c0eb05cd3a2272a6a83eb6535b04adc1b9e7359ed2c512c596b2318a2accb0dd",
-        "cb2f85928f18b1c4d6e2daa723fed34fc528caa5c122e6e943b9c500b7c950c8",
-        "413b6ec6df7c77c964b93527246ab853f0e85b8c12834252b0d4f375d913f136",
-        "234d43a15f6691bd7a4a60dde37f04d4bde7cc8c37666f704bfafbdfec3e0c93",
-        "39b9ef839d0168a4e36a17bdc96e49b4041faf2c87a30c1fc39bba697ee5afa3",
-        "bf422072574ec483ef5e420775eefe20cb676112f8dad4e07ce98ef18acfedba",
-        "f79c81d35124d15a0613056c1b40a6c50220a69db471503fda4b1fb48242f2ee",
-        "66b547cdb9377fa4cd3fe2f9fbb1304b70955e4832557e0cd708b96ef23ffc24",
-        "a012cbd25cb6694969d90d95daa0dba75d36a8d0e6ebab11c3e8c61c3327f9bc",
-        "4c4613a24a73cc3e773fcdd2d6a35fc1c64e1e04abb3ae5ef4142c650d0aa6b2",
-        "8b6f83adeed47151a9a22614666432abe6cdaa47d436c83b441aa79de19f548d",
-        "4d231c8f90a14f954f3fe6fd1e609189c51e64258fc5b882f1e494a7bdd19487",
-        "61b4497021d7ba738b19a41a040f12b2b14b7474090d2f571cf95bd26df21a26",
+    "c0eb05cd3a2272a6a83eb6535b04adc1b9e7359ed2c512c596b2318a2accb0dd",
+    "cb2f85928f18b1c4d6e2daa723fed34fc528caa5c122e6e943b9c500b7c950c8",
+    "413b6ec6df7c77c964b93527246ab853f0e85b8c12834252b0d4f375d913f136",
+    "234d43a15f6691bd7a4a60dde37f04d4bde7cc8c37666f704bfafbdfec3e0c93",
+    "39b9ef839d0168a4e36a17bdc96e49b4041faf2c87a30c1fc39bba697ee5afa3",
+    "bf422072574ec483ef5e420775eefe20cb676112f8dad4e07ce98ef18acfedba",
+    "f79c81d35124d15a0613056c1b40a6c50220a69db471503fda4b1fb48242f2ee",
+    "66b547cdb9377fa4cd3fe2f9fbb1304b70955e4832557e0cd708b96ef23ffc24",
+    "a012cbd25cb6694969d90d95daa0dba75d36a8d0e6ebab11c3e8c61c3327f9bc",
+    "4c4613a24a73cc3e773fcdd2d6a35fc1c64e1e04abb3ae5ef4142c650d0aa6b2",
+    "8b6f83adeed47151a9a22614666432abe6cdaa47d436c83b441aa79de19f548d",
+    "4d231c8f90a14f954f3fe6fd1e609189c51e64258fc5b882f1e494a7bdd19487",
+    "61b4497021d7ba738b19a41a040f12b2b14b7474090d2f571cf95bd26df21a26",
 	"46019d4b07e6b5f21729ff748019ac26c5b4932ef0fb0760255419b683a8744d",
 	"3749b4dd94533256eb887565610b06c60fada91ff27475ad6fb9241fb2f2cf3a",
 	"fceea007f1ea03969cb0e8d394b66be4546ce62aa23209a0d183425cdb576769",
@@ -177,7 +181,13 @@ function getHashObject(md5) {
 	"496e019fb1704ae5c018d17a097d587e19084e99f1e9b6f527e89c7d3ea39050",
 	"ebb57f2c05d5c5ccb687f74d431b597014bbab85a15878c99ec75cffe03278d4",
 	"65febb46fd6a2628030a132456043143927697694cdd9b675535307535f64c28",
-	"086ee9d8a470f9449be6e22a56cfc721208a043396e9859cb43e634c4315d894"
+	"086ee9d8a470f9449be6e22a56cfc721208a043396e9859cb43e634c4315d894",
+	"c6f0a169cf30223bd61dc7739cf6c7365f09a3996992e822832b719029a11512",
+	"ee6b55dd3c34e5056fa28ac4981c7f648e00252820e5aa13dd596158ca96607e",
+	"44b3ad3aa90caa392c353d30ee12254d94fea20c546d1bf5e573dcc90b6aa60e",
+	"913d4b819a94768a26d0a3c9c90df535dca9004374b508fb29aaedb31b4c6b2d",
+	"3bdf4addaca6c58b8a00fa7683344c3c86f818b0fb898c6b3bf6195965f06666",
+	"9a342a08a4e5f05d35a35ee41b16ea69e81996a02783b5ca54ae91b95189e744"
     ];
     var hashValueSum = hashValues.reduce((sum, value) => sum + (1.00 + 0.99 * hashValueNumebr / (100 * getHashValueNumber(value, 13) - hashValueNumebr)), 0);
     
@@ -227,7 +237,7 @@ function getCalculatedNum(arr, num) {
 
     var nums = arr.map(item => item.amount);
     var min = Math.min(...nums);
-    var maxCashout = 4.80;
+    var maxCashout = 4.70;
 
     return (min + (maxCashout - min) * Math.random()).toFixed(2);
 }
