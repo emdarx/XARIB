@@ -26,11 +26,11 @@ game_waiting = (function () {
         }
         
 		if (BullishTrend) {
-		var randomPercentage = (Math.random() * (0.93 - 0.83) + 0.83);
+		var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
 		var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
+		adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
 
-            if (adjustedCashout < 1.28) {
+            if (adjustedCashout < 1.35) {
                 finalCashout = 0;
             } else {
                 finalCashout = adjustedCashout;
@@ -43,18 +43,18 @@ game_waiting = (function () {
             } else {
                 var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.12).toFixed(2);
+		adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
             }
         }
 
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-        $("h4#h-box").html("<span style='color: gray;'>" + Bullish + "</span><br><span style='color: gray;'>" + Bearish + "</span>");
+        $("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span>");
 
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 50 : 100;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 500 : 1000;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
