@@ -45,7 +45,7 @@ game_waiting = (function () {
         }
 
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-        $("h4#h-box").html("<span style='color: green;'>" + Bullish + "</span><br><span style='color: red;'>" + Bearish + "</span>");
+        $("h4#h-box").html("<span style='color: gray;'>" + Bullish + "</span><br><span style='color: gray;'>" + Bearish + "</span>");
 
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
