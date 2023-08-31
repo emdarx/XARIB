@@ -54,7 +54,7 @@ game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 1000 : 500;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 10000 : 5000;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
