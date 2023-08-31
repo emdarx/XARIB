@@ -43,7 +43,7 @@ game_waiting = (function () {
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout < 1.50) {
-                finalCashout = 1.15;
+                finalCashout = 1.25;
             } else {
                 finalCashout = adjustedCashout;
             }
@@ -54,7 +54,7 @@ game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 25000 : 50000;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 25000 : 25000;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
