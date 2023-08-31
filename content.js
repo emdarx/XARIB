@@ -32,7 +32,7 @@ game_waiting = (function () {
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout < 1.50) {
-                finalCashout = 0;
+                finalCashout = 1.10;
             } else {
                 finalCashout = adjustedCashout;
             }
@@ -43,7 +43,7 @@ game_waiting = (function () {
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout < 1.50) {
-                finalCashout = 0;
+                finalCashout = 1.10;
             } else {
                 finalCashout = adjustedCashout;
             }
