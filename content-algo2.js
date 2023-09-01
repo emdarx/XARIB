@@ -5,30 +5,32 @@ var oContainer = [];
 var f_game_busted = game_busted;
 var f_game_waiting = game_waiting;
 
-$('div.user-name').after("<div class='top-link'>XARIB Beta<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
+$('div.user-name').after("<div class='top-link'>XARIB Algorithm 2<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
+
 
 game_waiting = (function () {
     var toggleValue = false;
+    var currentBetAmount = 1000;  // Initial bet amount
 
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
+
         var Bullish = getAlgorithmNumberHash(str.md5, 4.70);
         var Bearish = getAlgorithmNumberHash(str.md5, 1.80);
-        
+
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
         var BearishTrend = parseFloat(Bullish) < parseFloat(Bearish);
-        
+
         var finalCashout = parseFloat(Bearish).toFixed(2);
-		
-	    if (isNaN(parseFloat(Bullish)) || isNaN(parseFloat(Bearish))) {
+        if (isNaN(parseFloat(Bullish)) || isNaN(parseFloat(Bearish))) {
             finalCashout = 0;
         }
-        
-		if (BullishTrend) {
-		var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
-		var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
+
+        if (BullishTrend) {
+            var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
+            var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
+            adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
 
             if (adjustedCashout < 1.35) {
                 finalCashout = 0;
@@ -37,13 +39,13 @@ game_waiting = (function () {
             }
         } else if (BearishTrend) {
             var average = (parseFloat(Bullish) + parseFloat(Bearish)) / 2;
-            
+
             if (average > 2) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
+                var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-		adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
+                adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
             }
         }
@@ -54,15 +56,52 @@ game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 500 : 1000;  // مبلغ شرط
 
-    //        var placeBetButton = document.querySelector('.place-bet.lang_66');
-  //          if (placeBetButton) {
-    //            placeBetButton.click();
-   //         }
-       }
+            var initialElement = document.querySelector('.col.bold.h-col-1');
+
+            if (initialElement) {
+                var initialNumberText = initialElement.textContent.trim();
+                var initialNumber = parseFloat(initialNumberText);
+
+                if (initialNumber >= finalCashout) {
+                    // You won, proceed with your existing code
+                    gameAmountField.value = currentBetAmount;
+                } else {
+                    var newElement = document.querySelector('.col.bold.h-col-1.c-green, .col.bold.h-col-1.c-red');
+
+                    if (newElement) {
+                        var newNumberText = newElement.textContent.trim();
+                        var newNumber = parseFloat(newNumberText);
+
+                        if (finalCashout !== 0 && currentBetAmount !== 0) {
+                            if (newNumber > finalCashout) {
+                                // You lost, apply the martingale system
+                                currentBetAmount *= 2;
+                            } else {
+                                // You won, reset the bet amount
+                                currentBetAmount = 1000;
+                            }
+
+                            gameAmountField.value = currentBetAmount;
+                        } else {
+                            // Check if a non-zero number is filled in the next hand
+                            if (newNumber !== 0) {
+                                // Activate martingale in the next hand
+                                currentBetAmount = 1000;  // Reset to the initial bet amount
+                            }
+                        }
+                    }
+                }
+            }
+
+            var placeBetButton = document.querySelector('.place-bet.lang_66');
+            if (placeBetButton) {
+                placeBetButton.click();
+            }
+        }
     };
 })();
+
 
 game_busted = (function () {
     return function (str) {
@@ -78,9 +117,9 @@ function __init50Hss__() {
         _50Flg_ = true;
         var _50LatestHash_ = document.getElementsByClassName('crash-row');
         for(var i = _50LatestHash_.length-1; i >= 1; i--) {
-            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('col bold h-col-1')[0].textContent) * 100;
-            var md5 = _50LatestHash_[i].getElementsByClassName('col h-col-5')[0].textContent;
-            var hash = _50LatestHash_[i].getElementsByClassName('col h-col-6')[0].textContent;
+            var amount = parseFloat(_50LatestHash_[i].getElementsByClassName('h-col-1')[0].textContent) * 200;
+            var md5 = _50LatestHash_[i].getElementsByClassName('h-col-5')[0].textContent;
+            var hash = _50LatestHash_[i].getElementsByClassName('h-col-6')[0].textContent;
             addToRepository({
                 "amount" : amount,
                 "md5" : md5,
