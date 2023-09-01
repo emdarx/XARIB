@@ -8,9 +8,11 @@ var f_game_waiting = game_waiting;
 $('div.user-name').after("<div class='top-link'>XARIB Algorithm 2<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
 
 
-game_waiting = (function () {
-    var toggleValue = false;
-    var currentBetAmount = 1000;  // Initial bet amount
+var game_waiting = (function () {
+	
+	var toggleValue = false;
+    var baseBet = 1000; // Initial bet amount
+    var currentBet = baseBet;
 
     return function (str) {
         f_game_waiting.apply(this, arguments);
@@ -32,7 +34,7 @@ game_waiting = (function () {
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
 
-            if (adjustedCashout < 1.35) {
+            if (adjustedCashout < 1.30) {
                 finalCashout = 0;
             } else {
                 finalCashout = adjustedCashout;
@@ -43,10 +45,25 @@ game_waiting = (function () {
             if (average > 2) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
+                var randomPercentage = (Math.random() * (0.80 - 0.80) + 0.80);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-                adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
+                adjustedCashout = (adjustedCashout - adjustedCashout * 0.15).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
+            }
+        }
+
+        var hColElement = document.querySelector('.col.bold.h-col-1');
+        if (hColElement) {
+            var coefficient = parseFloat(hColElement.textContent); // Get the numeric value inside the element
+            if (!isNaN(coefficient)) {
+                // Compare the coefficient with your martingale logic
+                if (coefficient > finalCashout) {
+                    // Loss, double the bet
+                    currentBet *= 2;
+                } else {
+                    // Win, reset the bet to the base bet
+                    baseBet = currentBet;
+                }
             }
         }
 
@@ -54,45 +71,9 @@ game_waiting = (function () {
         $("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span>");
 
         var gameAmountField = document.querySelector('.game-amount');
-        if (gameAmountField) {
+        if (gameAmountField && finalCashout !== 0) {
             toggleValue = !toggleValue;
-
-            var initialElement = document.querySelector('.col.bold.h-col-1');
-
-            if (initialElement) {
-                var initialNumberText = initialElement.textContent.trim();
-                var initialNumber = parseFloat(initialNumberText);
-
-                if (initialNumber >= finalCashout) {
-                    // You won, proceed with your existing code
-                    gameAmountField.value = currentBetAmount;
-                } else {
-                    var newElement = document.querySelector('.col.bold.h-col-1.c-green, .col.bold.h-col-1.c-red');
-
-                    if (newElement) {
-                        var newNumberText = newElement.textContent.trim();
-                        var newNumber = parseFloat(newNumberText);
-
-                        if (finalCashout !== 0 && currentBetAmount !== 0) {
-                            if (newNumber > finalCashout) {
-                                // You lost, apply the martingale system
-                                currentBetAmount *= 2;
-                            } else {
-                                // You won, reset the bet amount
-                                currentBetAmount = 1000;
-                            }
-
-                            gameAmountField.value = currentBetAmount;
-                        } else {
-                            // Check if a non-zero number is filled in the next hand
-                            if (newNumber !== 0) {
-                                // Activate martingale in the next hand
-                                currentBetAmount = 1000;  // Reset to the initial bet amount
-                            }
-                        }
-                    }
-                }
-            }
+            gameAmountField.value = currentBet; // Set the current bet amount
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
