@@ -11,14 +11,13 @@ $('div.user-name').after("<div class='top-link'>XARIB Algorithm 2<h4 id='h-box' 
 var game_waiting = (function () {
 	
 	var toggleValue = false;
-    var baseBet = 1000; // Initial bet amount
-    var currentBet = baseBet;
-
+    var baseBet = 1000; // رقم شرط
+		
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
 
-        var Bullish = getAlgorithmNumberHash(str.md5, 4.70);
+        var Bullish = getAlgorithmNumberHash(str.md5, 4.50);
         var Bearish = getAlgorithmNumberHash(str.md5, 1.80);
 
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
@@ -34,7 +33,7 @@ var game_waiting = (function () {
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
             adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
 
-            if (adjustedCashout < 1.30) {
+            if (adjustedCashout < 1.50) {
                 finalCashout = 0;
             } else {
                 finalCashout = adjustedCashout;
@@ -42,28 +41,13 @@ var game_waiting = (function () {
         } else if (BearishTrend) {
             var average = (parseFloat(Bullish) + parseFloat(Bearish)) / 2;
 
-            if (average > 2) {
+            if (average > 1.50) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.80 - 0.80) + 0.80);
+                var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
                 var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
                 adjustedCashout = (adjustedCashout - adjustedCashout * 0.15).toFixed(2);
                 finalCashout = Math.max(adjustedCashout, 0);
-            }
-        }
-
-        var hColElement = document.querySelector('.col.bold.h-col-1');
-        if (hColElement) {
-            var coefficient = parseFloat(hColElement.textContent); // Get the numeric value inside the element
-            if (!isNaN(coefficient)) {
-                // Compare the coefficient with your martingale logic
-                if (coefficient > finalCashout) {
-                    // Loss, double the bet
-                    currentBet *= 2;
-                } else {
-                    // Win, reset the bet to the base bet
-                    baseBet = currentBet;
-                }
             }
         }
 
@@ -73,7 +57,7 @@ var game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField && finalCashout !== 0) {
             toggleValue = !toggleValue;
-            gameAmountField.value = currentBet; // Set the current bet amount
+            gameAmountField.value = baseBet;
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
