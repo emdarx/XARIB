@@ -11,13 +11,13 @@ $('div.user-name').after("<div class='top-link'>XARIB Algorithm 2<h4 id='h-box' 
 var game_waiting = (function () {
 	
 	var toggleValue = false;
-    var baseBet = 8888; // رقم شرط
+    var baseBet = 888; // رقم شرط
 		
     return function (str) {
         f_game_waiting.apply(this, arguments);
         __init50Hss__();
 
-        var Bullish = getAlgorithmNumberHash(str.md5, 4.50);
+        var Bullish = getAlgorithmNumberHash(str.md5, 4);
         var Bearish = getAlgorithmNumberHash(str.md5, 1.50);
 
         var BullishTrend = parseFloat(Bullish) > parseFloat(Bearish);
@@ -29,25 +29,24 @@ var game_waiting = (function () {
         }
 
         if (BullishTrend) {
-            var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
+            var randomPercentage = (Math.random() * (0.95 - 0.85) + 0.85);
             var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-            adjustedCashout = (adjustedCashout - adjustedCashout * 0.13).toFixed(2);
+            adjustedCashout = (adjustedCashout - adjustedCashout * 0.15).toFixed(2);
 
-            if (adjustedCashout < 1.50) {
+            if (adjustedCashout < 1.35) {
                 finalCashout = 0;
             } else {
                 finalCashout = adjustedCashout;
             }
         } else if (BearishTrend) {
-            var average = (parseFloat(Bullish) + parseFloat(Bearish)) / 2;
+            var randomPercentage = (Math.random() * (0.95 - 0.90) + 0.90);
+            var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
+            adjustedCashout = (adjustedCashout - adjustedCashout * 0.15).toFixed(2);
 
-            if (average > 1.50) {
+            if (adjustedCashout < 1.35) {
                 finalCashout = 0;
             } else {
-                var randomPercentage = (Math.random() * (0.95 - 0.88) + 0.88);
-                var adjustedCashout = (parseFloat(Bearish) * randomPercentage).toFixed(2);
-                adjustedCashout = (adjustedCashout - adjustedCashout * 0.15).toFixed(2);
-                finalCashout = Math.max(adjustedCashout, 0);
+                finalCashout = adjustedCashout;
             }
         }
 
@@ -222,7 +221,7 @@ function getCalculatedNum(arr, num) {
 
     var nums = arr.map(item => item.amount);
     var min = Math.min(...nums);
-    var maxCashout = 4.50;
+    var maxCashout = 4;
 
     return (min + (maxCashout - min) * Math.random()).toFixed(2);
 }
