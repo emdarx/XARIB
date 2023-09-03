@@ -5,7 +5,7 @@ var oContainer = [];
 var f_game_busted = game_busted;
 var f_game_waiting = game_waiting;
 
-$('div.user-name').after("<div class='top-link'>XARIB Beta<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
+$('div.user-name').after("<div class='top-link'>XARIB Algorithm 3<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
 
 game_waiting = (function () {
     var toggleValue = false;
@@ -28,24 +28,26 @@ game_waiting = (function () {
         if (BullishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.20; // Random between 10% and 25%
+            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
-            if (adjustedCashout < 1.50) {
-                finalCashout = 1.25;
+            if (adjustedCashout > 1.50) {
+			 reductionAmount = adjustedCashout * 0.05;
+			finalCashout = adjustedCashout - reductionAmount;
             } else {
-                finalCashout = adjustedCashout;
+             finalCashout = 1.25;
             }
         } else if (BearishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.20; // Random between 10% and 25%
+            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
-            if (adjustedCashout < 1.50) {
-                finalCashout = 1.25;
+            if (adjustedCashout > 1.50) {
+			 reductionAmount = adjustedCashout * 0.05;
+			finalCashout = adjustedCashout - reductionAmount;
             } else {
-                finalCashout = adjustedCashout;
+                finalCashout = 1.25;
             }
 }
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
@@ -54,13 +56,13 @@ game_waiting = (function () {
         var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 10000 : 5000;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 1111 : 1111;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
-                placeBetButton.click();
+               placeBetButton.click();
             }
-        }
+      }
     };
 })();
 
