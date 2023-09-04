@@ -5,7 +5,7 @@ var oContainer = [];
 var f_game_busted = game_busted;
 var f_game_waiting = game_waiting;
 
-$('div.user-name').after("<div class='top-link'>XARIB Algorithm 3<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
+$('div.user-name').after("<div class='top-link'>XARIB<h4 id='h-box' style='bottom-color: linear-gradient; border-radius: 30px; font-weight: bold; position: fixed;right: 32px; text-shadow: 1px 1px 1px #000; padding: 1px;'></h4></div>");
 
 game_waiting = (function () {
     var toggleValue = false;
@@ -28,35 +28,35 @@ game_waiting = (function () {
         if (BullishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
+            var randomPercentage = Math.random() * 0.30 + 0.22;
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout > 1.50) {
 			 reductionAmount = adjustedCashout * 0.05;
 			finalCashout = adjustedCashout - reductionAmount;
             } else {
-             finalCashout = 1.25;
+             var finalCashout = Math.random() * (1.25 - 1.11) + 1.11;
             }
         } else if (BearishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
+            var randomPercentage = Math.random() * 0.30 + 0.22;
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout > 1.50) {
 			 reductionAmount = adjustedCashout * 0.05;
 			finalCashout = adjustedCashout - reductionAmount;
             } else {
-                finalCashout = 1.25;
+                var finalCashout = Math.random() * (1.25 - 1.11) + 1.11;
             }
 }
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-        $("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span>");
-
-        var gameAmountField = document.querySelector('.game-amount');
+		$("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span><br><span style='color: #e58929;'>" + adjustedCashout + "</span>");
+      
+	  var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 1111 : 1111;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 11111 : 11111;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
