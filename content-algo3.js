@@ -28,35 +28,35 @@ game_waiting = (function () {
         if (BullishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.22;
+            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout > 1.50) {
 			 reductionAmount = adjustedCashout * 0.05;
 			finalCashout = adjustedCashout - reductionAmount;
             } else {
-             var finalCashout = Math.random() * (1.25 - 1.11) + 1.11;
+             finalCashout = 1.25;
             }
         } else if (BearishTrend) {
             var sum = parseFloat(Bullish) + parseFloat(Bearish);
             var dividedByThree = sum / 3;
-            var randomPercentage = Math.random() * 0.30 + 0.22;
+            var randomPercentage = Math.random() * 0.30 + 0.22; // Random between 10% and 25%
             var adjustedCashout = (dividedByThree - dividedByThree * randomPercentage).toFixed(2);
 
             if (adjustedCashout > 1.50) {
 			 reductionAmount = adjustedCashout * 0.05;
 			finalCashout = adjustedCashout - reductionAmount;
             } else {
-                var finalCashout = Math.random() * (1.25 - 1.11) + 1.11;
+                finalCashout = 1.25;
             }
 }
         document.getElementsByClassName('cashout-amount')[0].value = parseFloat(finalCashout);
-		$("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span><br><span style='color: #e58929;'>" + adjustedCashout + "</span>");
-      
-	  var gameAmountField = document.querySelector('.game-amount');
+        $("h4#h-box").html("<span style='color: #e58929;'>" + Bullish + "</span><br><span style='color: #e58929;'>" + Bearish + "</span>");
+
+        var gameAmountField = document.querySelector('.game-amount');
         if (gameAmountField) {
             toggleValue = !toggleValue;
-            gameAmountField.value = toggleValue ? 11111 : 11111;  // مبلغ شرط
+            gameAmountField.value = toggleValue ? 222 : 222;  // مبلغ شرط
 
             var placeBetButton = document.querySelector('.place-bet.lang_66');
             if (placeBetButton) {
