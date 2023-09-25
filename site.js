@@ -1,6 +1,6 @@
 var _0xee46 = ["\x6C\x61\x6E\x67\x75\x61\x67\x65", "\x75\x73\x65\x72\x4C\x61\x6E\x67\x75\x61\x67\x65", "\x6E\x75\x6C\x6C", "", "\x70\x72\x65\x70\x65\x6E\x64", "\x61\x66\x74\x65\x72", "\x20\x3E\x20\x64\x69\x76\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28", "\x29", "\x63\x6F\x6D\x6D\x61\x6E\x64", "\x61\x75\x74\x68", "\x67\x61\x6D\x65\x5F\x73\x74\x61\x74\x75\x73", "\x63\x61\x73\x68\x5F\x6F\x75\x74", "\x65\x72\x72\x6F\x72", "\x62\x72\x6F\x61\x64\x63\x61\x73\x74", "\x6C\x61\x73\x74\x5F\x77\x69\x6E", "\x77\x61\x69\x74\x69\x6E\x67", "\x73\x74\x61\x72\x74\x65\x64", "\x75\x70\x64\x61\x74\x65", "\x62\x75\x73\x74\x65\x64", "\x63\x68\x69\x70\x73", "\x63\x68\x61\x74", "\x70\x6C\x61\x79", "\x66\x69\x6E\x69\x73\x68", "\x63\x61\x6E\x63\x65\x6C", "\x6D\x75\x74\x65", "\x74\x6F\x70\x5F\x77\x69\x6E\x6E\x65\x72\x73", "\x75\x69\x64", "\x63\x61\x73\x68\x69\x6E", "\x61\x6D\x6F\x75\x6E\x74", "\x63\x61\x73\x68\x6F\x75\x74", "\x76\x61\x6C", "\x2E\x67\x61\x6D\x65\x2D\x61\x6D\x6F\x75\x6E\x74", "\x74\x6F\x46\x69\x78\x65\x64", "\x2E\x63\x61\x73\x68\x6F\x75\x74\x2D\x61\x6D\x6F\x75\x6E\x74", "\u221E", "\x69\x6D\x5F\x69\x6E\x5F\x67\x61\x6D\x65", "\x6E\x61\x6D\x65", "\x70\x75\x73\x68", "\x70\x6C\x61\x79\x65\x72\x73", "\x6C\x65\x6E\x67\x74\x68", "\x73\x6F\x72\x74", "\x73\x70\x6C\x69\x63\x65", "\x72\x65\x6D\x6F\x76\x65", "\x2E\x75\x73\x69\x64\x2D", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x2D\x79\x65\x6C\x6C\x6F\x77\x20\x75\x73\x72\x2D\x72\x6F\x77\x20\x75\x73\x69\x64\x2D", "\x22\x20\x64\x61\x74\x61\x3D\x22", "\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x31\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x32\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x33\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x35\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6C\x65\x61\x72\x22\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E", "\x3A\x76\x69\x73\x69\x62\x6C\x65", "\x69\x73", "\x23\x64\x65\x73\x6B\x74\x6F\x70\x2D\x72\x69\x67\x68\x74\x2D\x70\x61\x6E\x65\x6C\x73", "\x63\x68\x69\x6C\x64\x72\x65\x6E", "\x23\x64\x65\x73\x6B\x74\x6F\x70\x2D\x75\x73\x65\x72\x73", "\x23\x6D\x6F\x62\x69\x6C\x65\x2D\x75\x73\x65\x72\x73", "\x2E\x68\x69\x73\x74\x6F\x72\x79\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x74\x61\x62\x6C\x65\x2D\x62\x6F\x64\x79\x20\x2E\x63\x72\x61\x73\x68\x2D\x72\x6F\x77", "\x63\x75\x72\x72\x65\x6E\x74", "\x68\x74\x6D\x6C", "\x2E\x68\x2D\x63\x6F\x6C\x2D\x32", "\x66\x69\x72\x73\x74", "\x2E\x68\x2D\x63\x6F\x6C\x2D\x33", "\x77\x6F\x6E", "\x2E\x68\x2D\x63\x6F\x6C\x2D\x34", "\x77\x69\x6E\x6E\x65\x72\x73", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x2D\x67\x72\x65\x65\x6E\x20\x75\x73\x72\x2D\x72\x6F\x77\x20\x75\x73\x69\x64\x2D", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x32\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x33\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x63\x6F\x6C\x2D\x35\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6C\x65\x61\x72\x22\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E", "\x70\x68\x6F\x74\x6F", "\x63\x75\x72\x72\x65\x6E\x63\x79", "\x61\x64\x6D\x69\x6E", "\x64\x65\x66\x61\x75\x6C\x74\x5F\x61\x6D\x6F\x75\x6E\x74", "\x70\x68\x6F\x74\x6F\x5F\x69\x6D\x61\x67\x65", "\x6F\x6E\x6C\x6F\x61\x64", "\x73\x72\x63", "\x61\x74\x74\x72", "\x2E\x70\x72\x6F\x66\x69\x6C\x65\x5F\x70\x68\x6F\x74\x6F", "\x6F\x6E\x65\x72\x72\x6F\x72", "\x2E\x75\x73\x65\x72\x2D\x6E\x61\x6D\x65", "\x2E\x63\x68\x69\x70\x73\x2D\x61\x6D\x6F\x75\x6E\x74", "\x6C\x6F\x62\x62\x79\x5F\x73\x63\x72\x65\x65\x6E", "\x2E\x74\x6F\x70\x5F\x6C\x65\x66\x74\x5F\x63\x68\x69\x70\x73", "\x64\x65\x73\x6B\x74\x6F\x70", "\x6D\x6F\x62\x69\x6C\x65", "\x67\x61\x6D\x65\x5F\x73\x63\x72\x65\x65\x6E", "\x73\x74\x61\x74\x75\x73", "\x74\x69\x6D\x65", "\x73\x65\x74\x57\x61\x69\x74\x69\x6E\x67", "\x73\x65\x74\x50\x6C\x61\x79\x69\x6E\x67", "\x73\x65\x74\x42\x75\x73\x74\x65\x64", "\x6D\x61\x78\x69\x6D\x75\x6D\x5F\x74\x65\x78\x74", "\x63\x72\x61\x73\x68\x5F\x74\x6F\x70\x5F\x77\x69\x6E\x6E\x65\x72\x73", "\x64\x61\x74\x61", "\x69", "\x77\x69\x6E\x6E\x65\x72\x5F\x74\x65\x78\x74", "\x20\x20\x40", "\x6C\x6F\x73\x65\x72\x5F\x74\x65\x78\x74", "\x6F\x74\x68\x65\x72\x5F\x74\x65\x78\x74", "\x2E\x63\x68\x61\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x2E\x75\x73\x65\x72\x73\x2D\x6C\x69\x73\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x2E\x68\x69\x73\x74\x6F\x72\x79\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x74\x61\x62\x6C\x65\x2D\x62\x6F\x64\x79", "\x63\x68\x61\x74\x73", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x68\x61\x74\x2D\x72\x6F\x77\x22\x3E\x3C\x64\x69\x76\x3E\x3C\x73\x70\x61\x6E\x3E", "\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x74\x78\x74\x22\x3E", "\x74\x65\x78\x74", "\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E", "\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x75\x74\x65\x2D\x75\x73\x65\x72\x2D\x62\x75\x74\x74\x6F\x6E\x22\x20\x64\x61\x74\x61\x3D\x22", "\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x74\x65\x78\x74\x2D\x64\x65\x63\x6F\x72\x61\x74\x69\x6F\x6E\x3A\x20\x6E\x6F\x6E\x65\x3B\x20\x74\x65\x78\x74\x2D\x61\x6C\x69\x67\x6E\x3A\x20\x63\x65\x6E\x74\x65\x72\x3B\x20\x64\x69\x73\x70\x6C\x61\x79\x3A\x69\x6E\x6C\x69\x6E\x65\x2D\x62\x6C\x6F\x63\x6B\x3B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x20\x72\x65\x64\x3B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x66\x66\x66\x3B\x20\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74\x3A\x20\x62\x6F\x6C\x64\x3B\x20\x77\x69\x64\x74\x68\x3A\x20\x31\x36\x70\x78\x3B\x20\x68\x65\x69\x67\x68\x74\x3A\x20\x31\x36\x70\x78\x3B\x20\x62\x6F\x72\x64\x65\x72\x2D\x72\x61\x64\x69\x75\x73\x3A\x20\x38\x70\x78\x3B\x20\x70\x61\x64\x64\x69\x6E\x67\x3A\x20\x32\x70\x78\x3B\x20\x6D\x61\x72\x67\x69\x6E\x3A\x20\x34\x70\x78\x3B\x22\x3E\x78\x3C\x2F\x61\x3E\x3C\x73\x70\x61\x6E\x20\x73\x74\x79\x6C\x65\x3D\x22\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x30\x30\x30\x3B\x22\x3E\x20\x26\x6E\x62\x73\x70\x3B\x20", "\x20\x26\x6E\x62\x73\x70\x3B\x20\x3C\x2F\x73\x70\x61\x6E\x3E", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x68\x61\x74\x2D\x72\x6F\x77\x20\x63\x68\x61\x74\x2D\x75\x69\x64\x2D", "\x22\x3E\x3C\x64\x69\x76\x3E\x3C\x73\x70\x61\x6E\x3E", "\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x74\x78\x74\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x63\x6F\x6C\x6F\x72\x3A\x20\x72\x65\x64\x3B\x20\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x20\x31\x34\x70\x78\x3B\x22\x3E", "\x61\x70\x70\x65\x6E\x64", "\x73\x63\x72\x6F\x6C\x6C\x54\x6F\x70", "\x73\x63\x72\x6F\x6C\x6C\x48\x65\x69\x67\x68\x74", "\x70\x72\x6F\x70", "\x63\x72\x61\x73\x68\x65\x73", "\x63\x72\x61\x73\x68", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x72\x61\x73\x68\x2D\x72\x6F\x77\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x62\x6F\x6C\x64\x20\x68\x2D\x63\x6F\x6C\x2D\x31\x20", "\x63\x2D\x67\x72\x65\x65\x6E", "\x63\x2D\x72\x65\x64", "\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x32\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x33\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x34\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x35\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65\x22\x3E", "\x6D\x64\x35", "\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x36\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65\x22\x3E", "\x68\x61\x73\x68", "\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6C\x65\x61\x72\x22\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E", "\x2E\x63\x72\x61\x73\x68\x2D", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x72\x61\x73\x68\x2D\x72\x6F\x77\x20\x63\x72\x61\x73\x68\x2D", "\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x62\x6F\x6C\x64\x20\x68\x2D\x63\x6F\x6C\x2D\x31\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x32\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x33\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x34\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x35\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65\x22\x3E", "\x3C\x2F\x61\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x36\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6C\x65\x61\x72\x22\x3E\x3C\x2F\x64\x69\x76\x3E\x3C\x2F\x64\x69\x76\x3E", "\x61\x75\x74\x6F\x70\x6C\x61\x79", "\x6A\x6F\x69\x6E", "\x2C", "\x73\x70\x6C\x69\x74", "\x2E", "\x2D", "\x22\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x62\x6F\x6C\x64\x20\x68\x2D\x63\x6F\x6C\x2D\x31\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x32\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x33\x22\x3E", "\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x34\x22\x3E\x2D\x3C\x2F\x64\x69\x76\x3E\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x6F\x6C\x20\x68\x2D\x63\x6F\x6C\x2D\x35\x22\x3E\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65\x22\x3E", "\x20\x2E\x68\x2D\x63\x6F\x6C\x2D\x33", "\x6C\x61\x73\x74", "\x65\x61\x63\x68", "\x2E\x75\x73\x65\x72\x73\x2D\x6C\x69\x73\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x75\x73\x72\x2D\x72\x6F\x77", "\x61\x64\x64\x43\x6C\x61\x73\x73", "\x2E\x75\x73\x65\x72\x73\x2D\x6C\x69\x73\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x63\x2D\x79\x65\x6C\x6C\x6F\x77", "\x63\x2D\x79\x65\x6C\x6C\x6F\x77", "\x72\x65\x6D\x6F\x76\x65\x43\x6C\x61\x73\x73", "\x20\x2E\x68\x2D\x63\x6F\x6C\x2D\x31", "\x3C\x61\x20\x68\x72\x65\x66\x3D\x22\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3A\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65\x22\x3E", "\x3C\x2F\x61\x3E", "\x20\x2E\x68\x2D\x63\x6F\x6C\x2D\x36", "\x2E\x63\x68\x61\x74\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x63\x68\x61\x74\x2D\x72\x6F\x77", "\x68\x65\x69\x67\x68\x74", "\x2E\x63\x68\x61\x74\x2D\x70\x61\x6E\x65\x6C\x20\x2E\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x2E\x63\x68\x61\x74\x2D\x75\x69\x64\x2D", "\x6D\x65\x73\x73\x61\x67\x65", "\x7B\x6E\x61\x6D\x65\x7D", "\x72\x65\x70\x6C\x61\x63\x65", "\x6C\x61\x73\x74\x5F\x77\x69\x6E\x6E\x65\x72", "\x7B\x61\x6D\x6F\x75\x6E\x74\x7D", "\x23\x6C\x61\x73\x74\x5F\x77\x69\x6E\x6E\x65\x72", "\x63\x73\x73", "\x73\x68\x6F\x77", "\x61\x6E\x69\x6D\x61\x74\x65", "\x73\x68\x69\x66\x74", "\x73\x74\x61\x72\x74", "\x63\x6C\x69\x63\x6B", "\x75\x6E\x62\x69\x6E\x64", "\x2E\x6D\x75\x74\x65\x2D\x75\x73\x65\x72\x2D\x62\x75\x74\x74\x6F\x6E", "\x3C\x2F\x73\x70\x61\x6E\x3E", "\x70\x61\x72\x65\x6E\x74", "\x2E\x74\x78\x74", "\x66\x69\x6E\x64", "\x3C\x66\x6F\x6E\x74\x20\x73\x74\x79\x6C\x65\x3D\x27\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x32\x30\x70\x78\x3B\x27\x3E\x3C\x66\x6F\x6E\x74\x20\x73\x74\x79\x6C\x65\x3D\x27\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74\x3A\x20\x62\x6F\x6C\x64\x3B\x27\x3E", "\x3C\x2F\x66\x6F\x6E\x74\x3E\x20\x28", "\x29\x3C\x62\x72\x3E", "\x3C\x2F\x66\x6F\x6E\x74\x3E", "\x77\x61\x72\x6E\x69\x6E\x67", "\x23\x44\x44\x36\x42\x35\x35", "\x6F\x6B\x65\x79", "\x2E\x73\x68\x6F\x77\x2D\x63\x6F\x64\x65", "\x68\x69\x64\x65", "\x2E\x73\x63\x72\x65\x65\x6E", "\x23", "\x2E\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64", "\x77\x69\x64\x74\x68", "\x6C\x6F\x61\x64\x69\x6E\x67\x5F\x73\x63\x72\x65\x65\x6E", "\x73\x65\x74\x5F\x67\x61\x6D\x65", "\x6C\x6F\x61\x64", "\x67\x65\x74\x54\x69\x6D\x65", "\x73\x65\x74\x54\x69\x6D\x65", "\x3B\x20\x65\x78\x70\x69\x72\x65\x73\x3D", "\x74\x6F\x47\x4D\x54\x53\x74\x72\x69\x6E\x67", "\x63\x6F\x6F\x6B\x69\x65", "\x3D", "\x3B\x20\x70\x61\x74\x68\x3D\x2F", "\x3B", "\x20", "\x63\x68\x61\x72\x41\x74", "\x73\x75\x62\x73\x74\x72\x69\x6E\x67", "\x69\x6E\x64\x65\x78\x4F\x66", "\x6C\x61\x6E\x67", "\x64\x65\x76\x69\x63\x65", "\x67\x61\x6D\x65", "\x72\x65\x6C\x6F\x61\x64", "\x6C\x6F\x63\x61\x74\x69\x6F\x6E", "\x66\x61\x69\x6C", "\x6F\x62\x6A\x65\x63\x74", "\x70\x61\x72\x73\x65", "\x72\x65\x73\x75\x6C\x74", "\x64\x6F\x6E\x65", "\x70\x6F\x73\x74", "\x4F\x4B", "\x3C\x66\x6F\x6E\x74\x20\x73\x74\x79\x6C\x65\x3D\x27\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x32\x30\x70\x78\x3B\x27\x3E", "\x2F\x61\x70\x69\x2F\x75\x73\x65\x72\x2F\x63\x61\x73\x69\x6E\x6F\x2F\x6C\x61\x6E\x67\x75\x61\x67\x65", "\x6D\x61\x69\x6E\x5F\x64\x69\x73\x63\x6F\x6E\x6E\x65\x63\x74", "\x2E\x6C\x61\x6E\x67\x5F\x33\x31", "\x6D\x61\x69\x6E\x5F\x63\x6F\x6E\x6E\x65\x63\x74\x5F\x61\x67\x61\x69\x6E", "\x2E\x6C\x61\x6E\x67\x5F\x33\x32", "\x6C\x61\x6E\x64\x73\x63\x61\x70\x65", "\x2E\x6C\x61\x6E\x67\x5F\x34\x36", "\x63\x72\x61\x73\x68\x5F\x70\x6C\x61\x79", "\x2E\x6C\x61\x6E\x67\x5F\x35\x37", "\x63\x72\x61\x73\x68\x5F\x72\x75\x6C\x65\x73", "\x2E\x6C\x61\x6E\x67\x5F\x36\x30", "\x63\x72\x61\x73\x68\x5F\x66\x61\x69\x72", "\x2E\x6C\x61\x6E\x67\x5F\x36\x31", "\x63\x72\x61\x73\x68\x5F\x65\x78\x69\x74", "\x2E\x6C\x61\x6E\x67\x5F\x36\x32", "\x63\x72\x61\x73\x68\x5F\x62\x65\x74\x70\x61\x6E\x65\x6C", "\x2E\x6C\x61\x6E\x67\x5F\x36\x33", "\x63\x72\x61\x73\x68\x5F\x61\x6D\x6F\x75\x6E\x74", "\x2E\x6C\x61\x6E\x67\x5F\x36\x34", "\x63\x72\x61\x73\x68\x5F\x61\x75\x74\x6F\x63\x61\x73\x68\x6F\x75\x74", "\x2E\x6C\x61\x6E\x67\x5F\x36\x35", "\x63\x72\x61\x73\x68\x5F\x70\x6C\x61\x63\x65\x62\x65\x74", "\x2E\x6C\x61\x6E\x67\x5F\x36\x36", "\x63\x72\x61\x73\x68\x5F\x68\x69\x73\x74\x6F\x72\x79", "\x2E\x6C\x61\x6E\x67\x5F\x36\x37", "\x63\x72\x61\x73\x68\x5F\x63\x68\x61\x74", "\x2E\x6C\x61\x6E\x67\x5F\x36\x38", "\x63\x72\x61\x73\x68\x5F\x70\x6C\x61\x79\x65\x72\x73", "\x2E\x6C\x61\x6E\x67\x5F\x36\x39", "\x63\x72\x61\x73\x68\x5F\x75\x73\x65\x72", "\x2E\x6C\x61\x6E\x67\x5F\x37\x30", "\x63\x72\x61\x73\x68\x5F\x62\x65\x74", "\x2E\x6C\x61\x6E\x67\x5F\x37\x31", "\x63\x72\x61\x73\x68\x5F\x70\x72\x6F\x66\x69\x74", "\x2E\x6C\x61\x6E\x67\x5F\x37\x32", "\x63\x72\x61\x73\x68\x5F\x63\x72\x61\x73\x68", "\x2E\x6C\x61\x6E\x67\x5F\x37\x33", "\x63\x72\x61\x73\x68\x5F\x6D\x64\x35", "\x2E\x6C\x61\x6E\x67\x5F\x37\x34", "\x63\x72\x61\x73\x68\x5F\x68\x61\x73\x68", "\x2E\x6C\x61\x6E\x67\x5F\x37\x35", "\x2E\x6C\x61\x6E\x67\x5F\x38\x30", "\x6E\x65\x78\x74\x72\x6F\x75\x6E\x64\x5F\x74\x65\x78\x74", "\x63\x72\x61\x73\x68\x5F\x6E\x65\x78\x74", "\x62\x75\x73\x74\x65\x64\x5F\x74\x69\x74\x6C\x65", "\x63\x72\x61\x73\x68\x5F\x62\x75\x73\x74\x65\x64", "\x6A\x61\x76\x61\x73\x63\x72\x69\x70\x74", "\x61\x73\x73\x65\x74\x73", "\x6C\x69\x73\x74", "\x69\x6D\x61\x67\x65", "\x61\x73\x73\x65\x74\x73\x2F\x62\x61\x63\x6B\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x62\x75\x74\x74\x6F\x6E\x5F\x72\x65\x64\x2E\x70\x6E\x67\x3F", "\x61\x73\x73\x65\x74\x73\x2F\x65\x78\x69\x74\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x68\x6F\x6D\x65\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x6C\x61\x6D\x70\x2D\x6C\x69\x67\x68\x74\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x6C\x61\x6D\x70\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x6C\x61\x6E\x64\x73\x63\x61\x70\x65\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x70\x6C\x61\x63\x65\x68\x6F\x6C\x64\x65\x72\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x73\x63\x72\x65\x65\x6E\x2D\x6C\x69\x67\x68\x74\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x73\x63\x72\x65\x65\x6E\x2E\x70\x6E\x67", "\x61\x73\x73\x65\x74\x73\x2F\x7A\x6F\x6F\x6D\x6F\x75\x74\x2E\x70\x6E\x67", "\x63\x6C\x65\x61\x6E\x5F\x6E\x61\x6D\x65", "\x2F", "\x74\x6F\x74\x61\x6C\x5F\x61\x73\x73\x65\x74\x73", "\x2E\x6C\x6F\x61\x64\x69\x6E\x67\x5F\x62\x61\x72", "\x23\x6C\x6F\x61\x64\x69\x6E\x67\x5F\x69\x6E\x64\x69\x63\x61\x74\x6F\x72", "\x75\x72\x6C", "\x74\x79\x70\x65", "\x73\x6F\x75\x6E\x64", "\x6F\x6E\x6C\x6F\x61\x64\x65\x64\x64\x61\x74\x61", "\x67\x65\x74", "\x73\x75\x62\x73\x74\x72", "\x66\x6F\x72\x6D\x61\x74\x4D\x6F\x6E\x65\x79", "\x70\x72\x6F\x74\x6F\x74\x79\x70\x65", "\x61\x62\x73", "\x24\x31", "\x73\x6C\x69\x63\x65", "\x69\x6F\x73", "\x61\x73\x73\x65\x74\x73\x2F\x73\x6F\x75\x6E\x64\x73\x2F", "\x2E\x6D\x70\x33", "\x73\x65\x65\x6B\x54\x6F", "\x73\x6F\x75\x6E\x64\x5F", "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64", "\x72\x65\x61\x64\x79\x53\x74\x61\x74\x65", "\x63\x75\x72\x72\x65\x6E\x74\x54\x69\x6D\x65", "\x63\x6F\x6E\x6E\x66\x69\x78", "\x77\x73\x3A\x2F\x2F", "\x77\x73\x73\x3A\x2F\x2F", "\x74\x6F\x55\x54\x43\x53\x74\x72\x69\x6E\x67", "\x63\x6C\x6F\x73\x65", "\x6F\x6E\x6F\x70\x65\x6E", "\x6F\x6E\x6D\x65\x73\x73\x61\x67\x65", "\x6F\x6E\x63\x6C\x6F\x73\x65", "\x64\x69\x73\x63\x6F\x6E\x6E\x65\x63\x74\x5F\x73\x63\x72\x65\x65\x6E", "\x73\x74\x72\x69\x6E\x67\x69\x66\x79", "\x73\x65\x6E\x64", "\x74\x6F\x6B\x65\x6E", "\x64\x69\x73\x61\x62\x6C\x65\x64", "\x72\x65\x6D\x6F\x76\x65\x41\x74\x74\x72", "\x2E\x72\x61\x6E\x67\x65\x2D\x73\x6C\x69\x64\x65", "\x72\x61\x6E\x67\x65\x73\x6C\x69\x64\x65\x72", "\x63\x61\x73\x68\x69\x6E\x5F\x61\x6D\x6F\x75\x6E\x74", "\x70\x6C\x61\x63\x65\x2D\x62\x65\x74\x2D\x63\x61\x73\x68\x6F\x75\x74", "\x2E\x70\x6C\x61\x63\x65\x2D\x62\x65\x74", "\x70\x6C\x61\x63\x65\x2D\x62\x65\x74\x2D\x70\x61\x73\x73\x69\x76\x65", "\x70\x6C\x61\x63\x65\x2D\x62\x65\x74\x2D\x63\x61\x6E\x63\x65\x6C", "\x63\x72\x61\x73\x68\x5F\x63\x61\x6E\x63\x65\x6C", "\x63\x72\x61\x73\x68\x5F\x63\x61\x73\x68\x6F\x75\x74", "\x3C\x62\x72\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x27\x63\x61\x73\x68\x6F\x75\x74\x2D\x61\x6D\x6F\x75\x6E\x74\x2D\x74\x65\x78\x74\x27\x3E\x30\x3C\x2F\x73\x70\x61\x6E\x3E", "\x3C\x62\x72\x3E\x3C\x73\x70\x61\x6E\x20\x73\x74\x79\x6C\x65\x3D\x27\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x20\x31\x32\x70\x78\x3B\x27\x3E", "\x63\x72\x61\x73\x68\x5F\x6A\x6F\x69\x6E\x5F\x6E\x65\x78\x74", "\x77\x69\x64\x74\x68\x3A\x20\x30\x25\x3B", "\x2E\x73\x74\x61\x74\x75\x73\x2D\x72\x65\x64\x2D\x62\x61\x72", "\x2E\x73\x74\x61\x74\x75\x73\x2D\x67\x72\x65\x65\x6E\x2D\x62\x61\x72", "\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x25\x3B", "\x2E\x73\x74\x61\x74\x75\x73\x2D\x79\x65\x6C\x6C\x6F\x77\x2D\x62\x61\x72", "\x77\x69\x64\x74\x68\x3A\x20", "\x25\x3B", "\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x63\x2D\x72\x65\x64\x20\x75\x73\x72\x2D\x72\x6F\x77\x20\x75\x73\x69\x64\x2D", "\x65\x72\x72\x6F\x72\x2D\x62\x6F\x78", "\x2E\x63\x61\x73\x68\x6F\x75\x74\x2D\x61\x6D\x6F\x75\x6E\x74\x2D\x62\x6F\x78", "\x67\x72\x61\x70\x68", "\x69\x6E\x69\x74", "\x2F\x61\x70\x69\x2F\x75\x73\x65\x72\x2F\x63\x61\x73\x69\x6E\x6F\x2F\x61\x75\x74\x68", "\x6F\x6B", "\x62\x65\x74\x73", "\x61\x64\x64\x72\x65\x73\x73", "\x2E\x68\x6F\x6D\x65\x5F\x62\x75\x74\x74\x6F\x6E", "\x2E\x72\x65\x66\x72\x65\x73\x68\x5F\x62\x75\x74\x74\x6F\x6E", "\x63\x61\x73\x68\x5F\x69\x6E", "\x23\x70\x6C\x61\x79\x5F\x62\x75\x74\x74\x6F\x6E", "\x2E\x63\x61\x73\x68\x6F\x75\x74\x2D\x62\x75\x74\x74\x6F\x6E", "\x2E\x67\x61\x6D\x65\x2D\x61\x6D\x6F\x75\x6E\x74\x2D\x62\x6F\x78", "\x6B\x65\x79\x75\x70", "\x69\x6E\x70\x75\x74", "\x2E\x72\x61\x6E\x67\x65\x73\x6C\x69\x64\x65\x72\x5F\x5F\x68\x61\x6E\x64\x6C\x65", "\x6E\x65\x78\x74\x53\x69\x62\x6C\x69\x6E\x67", "\x74\x61\x72\x67\x65\x74", "\x76\x61\x6C\x75\x65", "\x6F\x6E", "\x23\x63\x68\x61\x74\x2D\x69\x6E\x70\x75\x74\x2D\x74\x65\x78\x74", "\x2E\x63\x68\x61\x74\x2D\x73\x65\x6E\x64", "\x74\x61\x62\x2D\x61\x63\x74\x69\x76\x65", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D\x20\x2E\x74\x61\x62\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x74\x61\x62\x2D\x61\x63\x74\x69\x76\x65", "\x2E\x68\x69\x73\x74\x6F\x72\x79\x2D\x62\x75\x74\x74\x6F\x6E", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D\x20\x2E\x6F\x74\x68\x65\x72\x2D\x70\x61\x6E\x65\x6C\x73\x20\x2E\x75\x73\x65\x72\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D\x20\x2E\x63\x68\x61\x74\x2D\x70\x61\x6E\x65\x6C", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D\x20\x2E\x6F\x74\x68\x65\x72\x2D\x70\x61\x6E\x65\x6C\x73\x20\x2E\x68\x69\x73\x74\x6F\x72\x79\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D\x20\x2E\x6F\x74\x68\x65\x72\x2D\x70\x61\x6E\x65\x6C\x73", "\x2E\x63\x68\x61\x74\x2D\x62\x75\x74\x74\x6F\x6E", "\x2E\x70\x6C\x61\x79\x65\x72\x73\x2D\x62\x75\x74\x74\x6F\x6E", "\x2E\x75\x73\x65\x72\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72\x20\x2E\x74\x61\x62\x6C\x65\x2D\x62\x6F\x64\x79", "\x2E\x6D\x61\x6B\x65\x2D\x64\x6F\x75\x62\x6C\x65", "\x72\x65\x73\x69\x7A\x65", "\x72\x65\x61\x64\x79", "\x73\x74\x61\x72\x74\x5F\x74\x69\x6D\x65", "\x73\x74\x61\x72\x74\x65\x64\x5F\x74\x69\x6D\x65", "\x74\x69\x6D\x65\x5F\x70\x61\x73\x73\x65\x64", "\x63\x75\x72\x72\x65\x6E\x74\x5F\x61\x6D\x6F\x75\x6E\x74", "\x74\x65\x78\x74\x73", "\x4D\x61\x78\x20\x70\x72\x6F\x66\x69\x74\x3A\x20\x7B\x61\x6D\x6F\x75\x6E\x74\x7D\x20\x42\x54\x43", "\x57\x69\x6E\x6E\x65\x72\x20\x62\x6F\x6E\x75\x73\x3A\x20\x7B\x61\x6D\x6F\x75\x6E\x74\x7D\x20\x42\x54\x43", "\x4C\x6F\x73\x65\x72\x20\x62\x6F\x6E\x75\x73\x3A\x20\x7B\x61\x6D\x6F\x75\x6E\x74\x7D\x20\x42\x54\x43", "\x4E\x65\x78\x74\x20\x72\x6F\x75\x6E\x64\x20\x69\x6E\x20\x7B\x74\x69\x6D\x65\x7D\x73", "\x42\x75\x73\x74\x65\x64", "\x77\x61\x72\x6E\x69\x6E\x67\x5F\x74\x65\x78\x74", "\x62\x75\x73\x74\x65\x64\x5F\x61\x6D\x6F\x75\x6E\x74", "\x62\x75\x73\x74\x65\x64\x5F\x74\x65\x78\x74", "\x74\x69\x6D\x65\x5F\x70\x61\x72\x74", "\x61\x6D\x6F\x75\x6E\x74\x5F\x70\x61\x72\x74", "\x67\x72\x61\x70\x68\x5F\x70\x61\x72\x74", "\x63\x61\x6E\x76\x61\x73\x5F\x73\x69\x7A\x65", "\x63\x6F\x6F\x72\x73", "\x64\x61\x72\x6B\x5F\x73\x74\x79\x6C\x65", "\x73\x65\x74\x4C\x61\x6E\x67\x75\x61\x67\x65", "\x6D\x61\x78\x69\x6D\x75\x6D", "\x77\x69\x6E\x6E\x65\x72", "\x6C\x6F\x73\x65\x72", "\x6E\x65\x78\x74\x72\x6F\x75\x6E\x64", "\x73\x65\x74\x41\x6D\x6F\x75\x6E\x74\x73", "\x73\x65\x74\x57\x61\x72\x6E\x69\x6E\x67", "\x63\x61\x6E\x76\x61\x73", "\x63\x6F\x6E\x74\x65\x78\x74", "\x32\x64", "\x67\x65\x74\x43\x6F\x6E\x74\x65\x78\x74", "\x72\x74\x69\x6D\x65\x72", "\x72\x65\x6E\x64\x65\x72", "\x72\x65\x71\x75\x65\x73\x74\x41\x6E\x69\x6D\x61\x74\x69\x6F\x6E\x46\x72\x61\x6D\x65", "\x64\x65\x76\x69\x63\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x77\x65\x62\x6B\x69\x74\x42\x61\x63\x6B\x69\x6E\x67\x53\x74\x6F\x72\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x6D\x6F\x7A\x42\x61\x63\x6B\x69\x6E\x67\x53\x74\x6F\x72\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x6D\x73\x42\x61\x63\x6B\x69\x6E\x67\x53\x74\x6F\x72\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x6F\x42\x61\x63\x6B\x69\x6E\x67\x53\x74\x6F\x72\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x62\x61\x63\x6B\x69\x6E\x67\x53\x74\x6F\x72\x65\x50\x69\x78\x65\x6C\x52\x61\x74\x69\x6F", "\x73\x74\x79\x6C\x65", "\x70\x78", "\x73\x63\x61\x6C\x65", "\x63\x6C\x65\x61\x72\x52\x65\x63\x74", "\x64\x72\x61\x77", "\x6F\x72\x69\x67\x69\x6E", "\x69\x6E\x66\x6F", "\x70\x72\x6F\x66\x69\x74", "\x61\x78\x69\x73", "\x64\x72\x61\x77\x41\x78\x69\x73", "\x64\x72\x61\x77\x4D\x61\x78\x69\x6D\x75\x6D", "\x64\x72\x61\x77\x41\x78\x69\x73\x4C\x61\x62\x65\x6C\x73", "\x64\x72\x61\x77\x57\x61\x69\x74\x69\x6E\x67", "\x64\x72\x61\x77\x47\x72\x61\x70\x68", "\x64\x72\x61\x77\x41\x6D\x6F\x75\x6E\x74", "\x70\x72\x69\x63\x65", "\x2E\x63\x61\x73\x68\x6F\x75\x74\x2D\x61\x6D\x6F\x75\x6E\x74\x2D\x74\x65\x78\x74", "\x64\x72\x61\x77\x42\x75\x73\x74\x65\x64", "\x64\x72\x61\x77\x57\x61\x72\x6E\x69\x6E\x67", "\x6C\x69\x6E\x65\x57\x69\x64\x74\x68", "\x73\x74\x72\x6F\x6B\x65\x53\x74\x79\x6C\x65", "\x23\x62\x30\x62\x33\x63\x31", "\x23\x37\x66\x37\x66\x37\x66", "\x62\x65\x67\x69\x6E\x50\x61\x74\x68", "\x78", "\x6D\x6F\x76\x65\x54\x6F", "\x79", "\x6C\x69\x6E\x65\x54\x6F", "\x73\x74\x72\x6F\x6B\x65", "\x63\x6C\x6F\x73\x65\x50\x61\x74\x68", "\x66\x69\x6C\x6C\x53\x74\x79\x6C\x65", "\x23\x35\x35\x35", "\x74\x65\x78\x74\x41\x6C\x69\x67\x6E", "\x6C\x65\x66\x74", "\x66\x6F\x6E\x74", "\x70\x78\x20\x42\x61\x72\x6C\x6F\x77", "\x79\x31", "\x66\x69\x6C\x6C\x54\x65\x78\x74", "\x23\x36\x39\x63\x61\x35\x65", "\x79\x32", "\x23\x65\x32\x37\x34\x37\x34", "\x79\x33", "\x23\x36\x63\x61\x37\x64\x32", "\x79\x34", "\x30\x2E\x30", "\x23\x63\x63\x63", "\x63\x65\x6E\x74\x65\x72", "\x7B\x74\x69\x6D\x65\x7D", "\x23\x66\x66\x66", "\x23\x30\x30\x30", "\x63\x65\x69\x6C", "\x74\x79", "\x6C\x79", "\x72\x69\x67\x68\x74", "\x70\x6F\x77", "\x74\x78", "\x74\x68", "\x6C\x78", "\x23\x34\x30\x38\x36\x30\x39", "\x23\x63\x33\x62\x34\x30\x37", "\x62\x6C\x61\x63\x6B", "\x40\x20", "\x72\x65\x64", "\x6C\x69\x6E\x65\x31", "\x6C\x69\x6E\x65\x32", "\x72\x67\x62\x61\x28\x30\x2C\x30\x2C\x30\x2C\x30\x2E\x34\x29", "\x72\x65\x63\x74", "\x66\x69\x6C\x6C", "\x62\x79", "\x62\x68", "\x23\x67\x72\x61\x70\x68\x2D\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72", "\x23\x67\x72\x61\x70\x68", "\x2E\x67\x61\x6D\x65\x2D\x63\x6F\x6E\x74\x72\x6F\x6C\x73", "\x63\x61\x6C\x63\x28\x31\x30\x30\x25\x20\x2D\x20", "\x70\x78\x29", "\x2E\x67\x61\x6D\x65\x2D\x62\x6F\x74\x74\x6F\x6D"];
-var userLang = navigator[_0xee46[0]] || navigator[_0xee46[1]], language, game_assets, user_data = new Object, game_data = new Object({
-    status: _0xee46[2],
+var userLang = navigator[language] || navigator[userLanguage], language, game_assets, user_data = new Object, game_data = new Object({
+    status: null,
     cashin: !1,
     amount: 0,
     cashout: 0,
@@ -11,819 +11,819 @@ var userLang = navigator[_0xee46[0]] || navigator[_0xee46[1]], language, game_as
 if (void (0) === debug_level) {
     var debug_level = 0
 }
-;insertAtIndex = function(width, confirmButtonText, amount) {
-    0 == width ? $(confirmButtonText)[_0xee46[4]](amount) : $(confirmButtonText + after + width + > div:nth-child()[prepend](amount)
+;insertAtIndex = function(_0x2e5fxf, _0x2e5fx10, _0x2e5fx11) {
+    0 == _0x2e5fxf ? $(_0x2e5fx10)[prepend](_0x2e5fx11) : $(_0x2e5fx10 +  > div:nth-child( + _0x2e5fxf + ))[after](_0x2e5fx11)
 }
 ,
-data_from_socket = function(width) {
-    var confirmButtonText = null != width[_0xee46[8]] ? width[_0xee46[8]] : null;
-    command == confirmButtonText && game_auth(width),
-    auth == confirmButtonText && game_status(width),
-    game_status == confirmButtonText && game_cash_out(width),
-    cash_out == confirmButtonText && game_error(width),
-    error == confirmButtonText && game_broadcast(width),
-    broadcast == confirmButtonText && game_last_win(width),
-    last_win == confirmButtonText && game_waiting(width),
-    waiting == confirmButtonText && game_started(width),
-    started == confirmButtonText && game_update(width),
-    update == confirmButtonText && game_busted(width),
-    busted == confirmButtonText && game_chips(width),
-    chips == confirmButtonText && game_chat(width),
-    chat == confirmButtonText && game_play(width),
-    play == confirmButtonText && game_finish(width),
-    finish == confirmButtonText && game_cancel(width),
-    cancel == confirmButtonText && game_mute(width),
-    mute == confirmButtonText && game_top_winners(width)
+data_from_socket = function(_0x2e5fxf) {
+    var _0x2e5fx10 = null != _0x2e5fxf[command] ? _0x2e5fxf[command] : null;
+    auth == _0x2e5fx10 && game_auth(_0x2e5fxf),
+    game_status == _0x2e5fx10 && game_status(_0x2e5fxf),
+    cash_out == _0x2e5fx10 && game_cash_out(_0x2e5fxf),
+    error == _0x2e5fx10 && game_error(_0x2e5fxf),
+    broadcast == _0x2e5fx10 && game_broadcast(_0x2e5fxf),
+    last_win == _0x2e5fx10 && game_last_win(_0x2e5fxf),
+    waiting == _0x2e5fx10 && game_waiting(_0x2e5fxf),
+    started == _0x2e5fx10 && game_started(_0x2e5fxf),
+    update == _0x2e5fx10 && game_update(_0x2e5fxf),
+    busted == _0x2e5fx10 && game_busted(_0x2e5fxf),
+    chips == _0x2e5fx10 && game_chips(_0x2e5fxf),
+    chat == _0x2e5fx10 && game_chat(_0x2e5fxf),
+    play == _0x2e5fx10 && game_play(_0x2e5fxf),
+    finish == _0x2e5fx10 && game_finish(_0x2e5fxf),
+    cancel == _0x2e5fx10 && game_cancel(_0x2e5fxf),
+    mute == _0x2e5fx10 && game_mute(_0x2e5fxf),
+    mute == _0x2e5fx10 && game_top_winners(_0x2e5fxf)
 }
 ,
-game_play = function(width) {
-    if (user_data[top_winners] == width[top_winners] && (game_data[uid] = !0,
-    game_data[cashin] = width[cashin],
-    game_data[amount] = width[amount],
-    $(val)[cashout](chip_format_no_symbol(game_data[cashin])),
-    $(toFixed)[cashout]((game_data[amount] / 100)[.game-amount](2)),
-    1e6 == game_data[amount] && $(toFixed)[cashout](.cashout-amount),
+game_play = function(_0x2e5fxf) {
+    if (user_data[uid] == _0x2e5fxf[uid] && (game_data[cashin] = !0,
+    game_data[amount] = _0x2e5fxf[amount],
+    game_data[cashout] = _0x2e5fxf[cashout],
+    $(val)[cashout](chip_format_no_symbol(game_data[amount])),
+    $(toFixed)[cashout]((game_data[cashout] / 100)[toFixed](2)),
+    1e6 == game_data[cashout] && $(toFixed)[cashout](.cashout-amount),
     update_button(),
-    gameCanvas[∞] = !0),
-    game_data[push][name]({
-        uid: width[top_winners],
-        amount: width[cashin],
-        name: width[im_in_game],
-        cashout: width[amount]
+    gameCanvas[im_in_game] = !0),
+    game_data[push][push]({
+        uid: _0x2e5fxf[uid],
+        amount: _0x2e5fxf[amount],
+        name: _0x2e5fxf[name],
+        cashout: _0x2e5fxf[cashout]
     }),
     game_data[push][players] > MAX_USER_CNT) {
-        game_data[push] = game_data[push][length](compareByAmount);
-        var confirmButtonText = game_data[push][sort](MAX_USER_CNT);
-        for (i in confirmButtonText) {
-            $(remove + confirmButtonText[i][top_winners])[splice]()
+        game_data[push] = game_data[push][sort](compareByAmount);
+        var _0x2e5fx10 = game_data[push][splice](MAX_USER_CNT);
+        for (i in _0x2e5fx10) {
+            $(.usid- + _0x2e5fx10[i][uid])[remove]()
         }
     }
     ;prepare_users_stats();
-    var amount = .usid- + width[top_winners] + <div class="c-yellow usr-row usid-" + width[top_winners] + data= + width[im_in_game] + "><div class="col col-1"> + chip_format_no_symbol(width[cashin]) + _0xee46[48]
-      , font = game_data[push][length](compareByAmount);
-    for (i in font) {
-        if (font[i][top_winners] == width[top_winners]) {
-            var y = i;
-            $(is)[:visible](</div><div class="col col-5">-</div><div class="clear"></div></div>) ? y > $(children)[#desktop-right-panels]()[players] ? prepare_user_list() : insertAtIndex(y, children, amount) : y > $(#desktop-users)[#desktop-right-panels]()[players] ? prepare_user_list() : insertAtIndex(y, #desktop-users, amount);
+    var _0x2e5fx11 = <div class="c-yellow usr-row usid- + _0x2e5fxf[uid] +  data= + _0x2e5fxf[uid] + _0xee46[46] + _0x2e5fxf[name] + _0xee46[47] + chip_format_no_symbol(_0x2e5fxf[amount]) + _0xee46[48]
+      , _0x2e5fx12 = game_data[push][sort](compareByAmount);
+    for (i in _0x2e5fx12) {
+        if (_0x2e5fx12[i][uid] == _0x2e5fxf[uid]) {
+            var _0x2e5fx13 = i;
+            $(#desktop-right-panels)[is](:visible) ? _0x2e5fx13 > $(desktop-users)[children]()[players] ? prepare_user_list() : insertAtIndex(_0x2e5fx13, desktop-users, _0x2e5fx11) : _0x2e5fx13 > $(#mobile-users)[children]()[players] ? prepare_user_list() : insertAtIndex(_0x2e5fx13, #mobile-users, _0x2e5fx11);
             break
         }
     }
 }
 ,
-game_finish = function(width) {
-    user_data[top_winners] == width[top_winners] && (game_data[uid] = !1,
-    gameCanvas[∞] = !1,
+game_finish = function(_0x2e5fxf) {
+    user_data[uid] == _0x2e5fxf[uid] && (game_data[cashin] = !1,
+    gameCanvas[im_in_game] = !1,
     update_button(),
-    0 < $(#mobile-users)[players] && ($(#mobile-users)[.h-col-2]()[#desktop-right-panels](html)[current]((width[.history-container .table-body .crash-row] / 100)[.game-amount](2)),
-    $(#mobile-users)[.h-col-2]()[#desktop-right-panels](_0xee46[60])[current](chip_format_no_symbol(width[cashin])),
-    $(#mobile-users)[.h-col-2]()[#desktop-right-panels](_0xee46[62])[current](chip_format_no_symbol(width[.h-col-3] - width[cashin]))));
-    var confirmButtonText = !1;
+    0 < $(.history-container .table-body .crash-row)[players] && ($(.history-container .table-body .crash-row)[first]()[children](.h-col-2)[#mobile-users]((_0x2e5fxf[current] / 100)[toFixed](2)),
+    $(.history-container .table-body .crash-row)[first]()[children](.h-col-3)[#mobile-users](chip_format_no_symbol(_0x2e5fxf[amount])),
+    $(.history-container .table-body .crash-row)[first]()[children](.h-col-4)[#mobile-users](chip_format_no_symbol(_0x2e5fxf[won] - _0x2e5fxf[amount]))));
+    var _0x2e5fx10 = !1;
     for (i in game_data[push]) {
-        if (game_data[push][i][top_winners] == width[top_winners]) {
-            confirmButtonText = !0,
-            game_data[push][sort](i, 1);
+        if (game_data[push][i][uid] == _0x2e5fxf[uid]) {
+            _0x2e5fx10 = !0,
+            game_data[push][splice](i, 1);
             break
         }
     }
-    ;if (!confirmButtonText) {
+    ;if (!_0x2e5fx10) {
         return !1
     }
-    ;game_data[.h-col-4][name]({
-        uid: width[top_winners],
-        amount: width[cashin],
-        cashout: width[.history-container .table-body .crash-row],
-        won: width[.h-col-3],
-        name: width[im_in_game]
+    ;game_data[winners][push]({
+        uid: _0x2e5fxf[uid],
+        amount: _0x2e5fxf[amount],
+        cashout: _0x2e5fxf[current],
+        won: _0x2e5fxf[won],
+        name: _0x2e5fxf[name]
     }),
     prepare_users_stats(),
-    $(remove + width[top_winners])[splice]();
-    var amount = winners + width[top_winners] + <div class="c-yellow usr-row usid-" + width[top_winners] + data= + width[im_in_game] + _0xee46[65] + (width[.history-container .table-body .crash-row] / 100)[.game-amount](2) + _0xee46[66] + chip_format_no_symbol(width[cashin]) + _0xee46[67] + chip_format_no_symbol(width[.h-col-3] - width[cashin]) + _0xee46[68]
-      , font = game_data[.h-col-4][length](compareByCashout);
-    for (i in font) {
-        if (font[i][top_winners] == width[top_winners]) {
-            var y = game_data[push][players] + i;
-            $(is)[:visible](</div><div class="col col-5">-</div><div class="clear"></div></div>) ? y > $(children)[#desktop-right-panels]()[players] ? prepare_user_list() : insertAtIndex(y, children, amount) : y > $(#desktop-users)[#desktop-right-panels]()[players] ? prepare_user_list() : insertAtIndex(y, #desktop-users, amount);
+    $(.usid- + _0x2e5fxf[uid])[remove]();
+    var _0x2e5fx11 = <div class="c-green usr-row usid- + _0x2e5fxf[uid] +  data= + _0x2e5fxf[uid] + _0xee46[46] + _0x2e5fxf[name] + </div><div class="col col-2"> + (_0x2e5fxf[current] / 100)[toFixed](2) + </div><div class="col col-3"> + chip_format_no_symbol(_0x2e5fxf[amount]) + </div><div class="col col-5"> + chip_format_no_symbol(_0x2e5fxf[won] - _0x2e5fxf[amount]) + </div><div class="clear"></div></div>
+      , _0x2e5fx12 = game_data[winners][sort](compareByCashout);
+    for (i in _0x2e5fx12) {
+        if (_0x2e5fx12[i][uid] == _0x2e5fxf[uid]) {
+            var _0x2e5fx13 = game_data[push][players] + i;
+            $(#desktop-right-panels)[is](:visible) ? _0x2e5fx13 > $(desktop-users)[children]()[players] ? prepare_user_list() : insertAtIndex(_0x2e5fx13, desktop-users, _0x2e5fx11) : _0x2e5fx13 > $(#mobile-users)[children]()[players] ? prepare_user_list() : insertAtIndex(_0x2e5fx13, #mobile-users, _0x2e5fx11);
             break
         }
     }
 }
 ,
-game_cancel = function(width) {
-    for (i in user_data[top_winners] == width[top_winners] && (game_data[uid] = !1,
-    gameCanvas[∞] = !1,
+game_cancel = function(_0x2e5fxf) {
+    for (i in user_data[uid] == _0x2e5fxf[uid] && (game_data[cashin] = !1,
+    gameCanvas[im_in_game] = !1,
     update_button()),
     game_data[push]) {
-        if (game_data[push][i][top_winners] == width[top_winners]) {
-            game_data[push][sort](i, 1);
+        if (game_data[push][i][uid] == _0x2e5fxf[uid]) {
+            game_data[push][splice](i, 1);
             break
         }
     }
     ;prepare_users_stats(),
-    $(remove + width[top_winners])[splice]()
+    $(.usid- + _0x2e5fxf[uid])[remove]()
 }
 ,
-game_auth = function(width) {
-    user_data[top_winners] = width[top_winners],
-    user_data[im_in_game] = width[im_in_game],
-    user_data[</div><div class="clear"></div></div>] = width[</div><div class="clear"></div></div>],
-    user_data[busted] = width[busted],
-    user_data[photo] = width[photo],
-    user_data[currency] = null != width[currency] && width[currency],
-    $(val)[cashout](chip_format_no_symbol(width[_0xee46[72]])),
-    null != user_data[</div><div class="clear"></div></div>] && (user_data[default_amount] = new Image,
-    user_data[default_amount][photo_image] = function() {
-        $(attr)[src](onload, user_data[</div><div class="clear"></div></div>])
+game_auth = function(_0x2e5fxf) {
+    user_data[uid] = _0x2e5fxf[uid],
+    user_data[name] = _0x2e5fxf[name],
+    user_data[photo] = _0x2e5fxf[photo],
+    user_data[chips] = _0x2e5fxf[chips],
+    user_data[currency] = _0x2e5fxf[currency],
+    user_data[admin] = null != _0x2e5fxf[admin] && _0x2e5fxf[admin],
+    $(val)[cashout](chip_format_no_symbol(_0x2e5fxf[default_amount])),
+    null != user_data[photo] && (user_data[photo_image] = new Image,
+    user_data[photo_image][onload] = function() {
+        $(.profile_photo)[photo_image](src, user_data[photo])
     }
     ,
-    user_data[default_amount][.profile_photo] = function() {}
+    user_data[photo_image][onerror] = function() {}
     ,
-    user_data[default_amount][onload] = user_data[</div><div class="clear"></div></div>]),
-    $(onerror)[current](user_data[im_in_game]),
-    $(.user-name)[current](short_chip_format(user_data[busted])),
-    change_screen(.chips-amount)
+    user_data[photo_image][src] = user_data[photo]),
+    $(.user-name)[#mobile-users](user_data[name]),
+    $(.chips-amount)[#mobile-users](short_chip_format(user_data[chips])),
+    change_screen(lobby_screen)
 }
 ,
-game_status = function(width) {
-    if (null != width[busted] && (user_data[busted] = width[busted],
-    $(lobby_screen)[current](short_chip_format(user_data[busted]))),
-    gameCanvas[∞] = !1,
-    last_screen_type = $(is)[:visible](</div><div class="col col-5">-</div><div class="clear"></div></div>) ? _0xee46[83] : _0xee46[84],
-    fadein_screen(mobile),
+game_status = function(_0x2e5fxf) {
+    if (null != _0x2e5fxf[chips] && (user_data[chips] = _0x2e5fxf[chips],
+    $(.top_left_chips)[#mobile-users](short_chip_format(user_data[chips]))),
+    gameCanvas[im_in_game] = !1,
+    last_screen_type = $(#desktop-right-panels)[is](:visible) ? desktop : mobile,
+    fadein_screen(.top_left_chips),
     resize_screen(),
-    last_win == width[game_screen]) {
-        game_data[game_screen] = last_win,
-        gameCanvas[time](width[status])
+    waiting == _0x2e5fxf[status]) {
+        game_data[status] = waiting,
+        gameCanvas[setWaiting](_0x2e5fxf[time])
     } else {
-        if (waiting == width[game_screen]) {
-            game_data[game_screen] = waiting,
-            gameCanvas[setWaiting](width[status])
+        if (started == _0x2e5fxf[status]) {
+            game_data[status] = started,
+            gameCanvas[setPlaying](_0x2e5fxf[time])
         } else {
-            if (update == width[game_screen]) {
-                game_data[game_screen] = update;
-                var confirmButtonText = (width[cashin] / 100)[.game-amount](2);
-                gameCanvas[setPlaying](confirmButtonText, width[status])
+            if (busted == _0x2e5fxf[status]) {
+                game_data[status] = busted;
+                var _0x2e5fx10 = (_0x2e5fxf[amount] / 100)[toFixed](2);
+                gameCanvas[setBusted](_0x2e5fx10, _0x2e5fxf[time])
             }
         }
     }
-    ;if (width[mute]) {
-        for (i in gameCanvas[setBusted] = language[crash_top_winners][maximum_text],
-        top_winners = width[mute]) {
-            var amount = (top_winners[i][amount] / 100)[.game-amount](2);
-            0 == top_winners[i][data] && (gameCanvas[i] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + amount + winner_text + top_winners[i][im_in_game]),
-            1 == top_winners[i][data] && (gameCanvas[@] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + amount + winner_text + top_winners[i][im_in_game]),
-            2 == top_winners[i][data] && (gameCanvas[loser_text] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + amount + winner_text + top_winners[i][im_in_game])
+    ;if (_0x2e5fxf[mute]) {
+        for (i in gameCanvas[maximum_text] = language[setBusted][crash_top_winners],
+        top_winners = _0x2e5fxf[mute]) {
+            var _0x2e5fx11 = (top_winners[i][cashout] / 100)[toFixed](2);
+            0 == top_winners[i][i] && (gameCanvas[winner_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx11 +   @ + top_winners[i][name]),
+            1 == top_winners[i][i] && (gameCanvas[loser_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx11 +   @ + top_winners[i][name]),
+            2 == top_winners[i][i] && (gameCanvas[other_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx11 +   @ + top_winners[i][name])
         }
     }
-    ;$(other_text)[current](null),
-    $(_0xee46[100])[current](null),
-    $(.users-list-container)[current](null);
-    var font = width[.history-container .table-body][length](compareByTime);
-    for (i in font) {
-        var y = chats + (font = font[i])[im_in_game] + _0xee46[104] + font[_0xee46[105]] + _0xee46[106];
-        if (null != font[top_winners] && null != font[currency]) {
-            var by = user_data[currency] ? </div></div> + font[top_winners] + _0xee46[108] + font[top_winners] + _0xee46[109] : null;
-            y = &nbsp; </span> + font[top_winners] + _0xee46[111] + by + font[im_in_game] + _0xee46[104] + font[_0xee46[105]] + _0xee46[106],
-            1 == font[currency] && (y = &nbsp; </span> + font[top_winners] + _0xee46[111] + by + font[im_in_game] + _0xee46[112] + font[_0xee46[105]] + _0xee46[106])
+    ;$(.chat-container)[#mobile-users](null),
+    $(.users-list-container)[#mobile-users](null),
+    $(.history-container .table-body)[#mobile-users](null);
+    var _0x2e5fx12 = _0x2e5fxf[chats][sort](compareByTime);
+    for (i in _0x2e5fx12) {
+        var _0x2e5fx13 = <div class="chat-row"><div><span> + (_0x2e5fx16 = _0x2e5fx12[i])[name] + </span></div><div class="txt"> + _0x2e5fx16[text] + </div></div>;
+        if (null != _0x2e5fx16[uid] && null != _0x2e5fx16[admin]) {
+            var _0x2e5fx14 = user_data[admin] ? <a href="javascript:;" class="mute-user-button" data=" + _0x2e5fx16[uid] + " style="text-decoration: none; text-align: center; display:inline-block; background: red; color: #fff; font-weight: bold; width: 16px; height: 16px; border-radius: 8px; padding: 2px; margin: 4px;">x</a><span style="color: #000;"> &nbsp;  + _0x2e5fx16[uid] + _0xee46[109] : null;
+            _0x2e5fx13 = <div class="chat-row chat-uid- + _0x2e5fx16[uid] + _0xee46[111] + _0x2e5fx14 + _0x2e5fx16[name] + </span></div><div class="txt"> + _0x2e5fx16[text] + </div></div>,
+            1 == _0x2e5fx16[admin] && (_0x2e5fx13 = <div class="chat-row chat-uid- + _0x2e5fx16[uid] + _0xee46[111] + _0x2e5fx14 + _0x2e5fx16[name] + _0xee46[112] + _0x2e5fx16[text] + </div></div>)
         }
-        ;$(other_text)[</span></div><div class="txt" style="color: red; font-size: 14px;">](y)
+        ;$(.chat-container)[append](_0x2e5fx13)
     }
-    ;$(other_text)[scrollHeight](append, $(other_text)[scrollHeight](scrollTop)),
+    ;$(.chat-container)[prop](scrollTop, $(.chat-container)[prop](scrollHeight)),
     init_mute_buttons();
-    var bh = width[prop][length](compareByStart);
-    for (i in bh) {
-        var font, x = ((font = bh[i])[crashes] / 100)[.game-amount](2), y1 = crash + (1.8 <= x ? <div class="crash-row"><div class="col bold h-col-1  : c-green) + _0xee46[122] + x + _0xee46[123] + font[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + md5 + font[</a></div><div class="col h-col-6"><a href="javascript:;" class="show-code">] + hash;
-        $(.users-list-container)[_0xee46[4]](y1)
+    var _0x2e5fx15 = _0x2e5fxf[crashes][sort](compareByStart);
+    for (i in _0x2e5fx15) {
+        var _0x2e5fx16, _0x2e5fx17 = ((_0x2e5fx16 = _0x2e5fx15[i])[crash] / 100)[toFixed](2), _0x2e5fx18 = <div class="crash-row"><div class="col bold h-col-1  + (1.8 <= _0x2e5fx17 ? c-green : c-red) + _0xee46[122] + _0x2e5fx17 + _0xee46[123] + _0x2e5fx16[md5] + _0xee46[125] + _0x2e5fx16[hash] + _0xee46[127];
+        $(.history-container .table-body)[prepend](_0x2e5fx18)
     }
-    ;if (waiting == width[game_screen]) {
-        if (0 == $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">])[players]) {
-            y1 = .crash- + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[130] + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[131];
-            $(.users-list-container)[_0xee46[4]](y1)
+    ;if (started == _0x2e5fxf[status]) {
+        if (0 == $(.crash- + _0x2e5fxf[md5])[players]) {
+            _0x2e5fx18 = <div class="crash-row crash- + _0x2e5fxf[md5] + ><div class="col bold h-col-1">-</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code"> + _0x2e5fxf[md5] + md5;
+            $(.history-container .table-body)[prepend](_0x2e5fx18)
         }
     } else {
-        if (last_win == width[game_screen] && null != width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] && 0 == $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">])[players]) {
-            y1 = .crash- + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[130] + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[131];
-            $(.users-list-container)[_0xee46[4]](y1)
+        if (waiting == _0x2e5fxf[status] && null != _0x2e5fxf[md5] && 0 == $(.crash- + _0x2e5fxf[md5])[players]) {
+            _0x2e5fx18 = <div class="crash-row crash- + _0x2e5fxf[md5] + ><div class="col bold h-col-1">-</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code"> + _0x2e5fxf[md5] + md5;
+            $(.history-container .table-body)[prepend](_0x2e5fx18)
         }
     }
     ;if (show_codes(),
     update_button(),
-    null != width[push] && (game_data[push] = width[push]),
-    null != width[.h-col-4] && (game_data[.h-col-4] = width[.h-col-4]),
-    game_data[push][players] + game_data[.h-col-4][players] > MAX_USER_CNT) {
-        var y2 = [];
+    null != _0x2e5fxf[push] && (game_data[push] = _0x2e5fxf[push]),
+    null != _0x2e5fxf[winners] && (game_data[winners] = _0x2e5fxf[winners]),
+    game_data[push][players] + game_data[winners][players] > MAX_USER_CNT) {
+        var _0x2e5fx19 = [];
         for (i in game_data[push]) {
-            y2[name](game_data[push][i])
+            _0x2e5fx19[push](game_data[push][i])
         }
-        ;for (i in game_data[.h-col-4]) {
-            y2[name](game_data[.h-col-4][i])
+        ;for (i in game_data[winners]) {
+            _0x2e5fx19[push](game_data[winners][i])
         }
-        ;(y2 = y2[length](compareByAmount))[sort](MAX_USER_CNT);
+        ;(_0x2e5fx19 = _0x2e5fx19[sort](compareByAmount))[splice](MAX_USER_CNT);
         var _0x2e5fx1a = []
           , _0x2e5fx1b = [];
         for (i in game_data[push]) {
-            for (j in y2) {
-                if (y2[j][top_winners] == game_data[push][i][top_winners]) {
-                    _0x2e5fx1a[name](game_data[push][i]);
+            for (j in _0x2e5fx19) {
+                if (_0x2e5fx19[j][uid] == game_data[push][i][uid]) {
+                    _0x2e5fx1a[push](game_data[push][i]);
                     break
                 }
             }
         }
-        ;for (i in game_data[.h-col-4]) {
-            for (j in y2) {
-                if (y2[j][top_winners] == game_data[.h-col-4][i][top_winners]) {
-                    _0x2e5fx1b[name](game_data[.h-col-4][i]);
+        ;for (i in game_data[winners]) {
+            for (j in _0x2e5fx19) {
+                if (_0x2e5fx19[j][uid] == game_data[winners][i][uid]) {
+                    _0x2e5fx1b[push](game_data[winners][i]);
                     break
                 }
             }
         }
         ;game_data[push] = _0x2e5fx1a,
-        game_data[.h-col-4] = _0x2e5fx1b
+        game_data[winners] = _0x2e5fx1b
     }
     ;prepare_user_list()
 }
 ,
-game_waiting = function(width) {
-    if (game_data[game_screen] = last_win,
-    gameCanvas[time](width[status]),
+game_waiting = function(_0x2e5fxf) {
+    if (game_data[status] = waiting,
+    gameCanvas[setWaiting](_0x2e5fxf[time]),
     update_button(),
     game_data[push] = [],
-    game_data[.h-col-4] = [],
+    game_data[winners] = [],
     prepare_user_list(),
-    game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>]) {
-        var confirmButtonText = $(toFixed)[cashout]();
-        confirmButtonText = .cashout-amount == confirmButtonText ? 1e6 : (confirmButtonText = parseFloat($(toFixed)[cashout]()),
-        parseInt(100 * confirmButtonText));
-        var amount = parseInt($(val)[cashout]()[,](split)[autoplay](null)[,](join)[autoplay](null));
+    game_data[autoplay]) {
+        var _0x2e5fx10 = $(toFixed)[cashout]();
+        _0x2e5fx10 = .cashout-amount == _0x2e5fx10 ? 1e6 : (_0x2e5fx10 = parseFloat($(toFixed)[cashout]()),
+        parseInt(100 * _0x2e5fx10));
+        var _0x2e5fx11 = parseInt($(val)[cashout]()[.crash-](<div class="crash-row crash-)[hash](null)[.crash-](</a></div><div class="clear"></div></div>)[hash](null));
         socket_send({
-            command: chat,
-            amount: 100 * amount,
-            cashout: confirmButtonText
+            command: play,
+            amount: 100 * _0x2e5fx11,
+            cashout: _0x2e5fx10
         })
     }
-    ;if (null != width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] && 0 == $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">])[players]) {
-        var font = .crash- + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[130] + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[131];
-        $(.users-list-container)[_0xee46[4]](font)
+    ;if (null != _0x2e5fxf[md5] && 0 == $(.crash- + _0x2e5fxf[md5])[players]) {
+        var _0x2e5fx12 = <div class="crash-row crash- + _0x2e5fxf[md5] + ><div class="col bold h-col-1">-</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code"> + _0x2e5fxf[md5] + md5;
+        $(.history-container .table-body)[prepend](_0x2e5fx12)
     }
     ;show_codes(),
-    game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>] = !1,
+    game_data[autoplay] = !1,
     setTimeout(function() {
         update_button()
     }, 500)
 }
 ,
-game_started = function(width) {
-    game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>] = !1,
-    game_data[game_screen] = waiting,
-    gameCanvas[setWaiting](0),
+game_started = function(_0x2e5fxf) {
+    game_data[autoplay] = !1,
+    game_data[status] = started,
+    gameCanvas[setPlaying](0),
     update_button();
-    var confirmButtonText = .;
-    if (gameCanvas[∞] && (confirmButtonText = chip_format_no_symbol(game_data[cashin])),
-    0 == $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">])[players]) {
-        var amount = .crash- + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[138] + confirmButtonText + _0xee46[139] + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[131];
-        $(.users-list-container)[_0xee46[4]](amount)
+    var _0x2e5fx10 = -;
+    if (gameCanvas[im_in_game] && (_0x2e5fx10 = chip_format_no_symbol(game_data[amount])),
+    0 == $(.crash- + _0x2e5fxf[md5])[players]) {
+        var _0x2e5fx11 = <div class="crash-row crash- + _0x2e5fxf[md5] + _0xee46[138] + _0x2e5fx10 + _0xee46[139] + _0x2e5fxf[md5] + md5;
+        $(.history-container .table-body)[prepend](_0x2e5fx11)
     } else {
-        $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[140])[current](confirmButtonText)
+        $(.crash- + _0x2e5fxf[md5] +  .h-col-3)[#mobile-users](_0x2e5fx10)
     }
     ;show_codes(),
-    150 < $(#mobile-users)[players] && $(#mobile-users)[_0xee46[141]]()[splice](),
-    game_data[push] = width[push],
-    game_data[push][players] > MAX_USER_CNT && (game_data[push] = game_data[push][length](compareByAmount),
-    game_data[push][sort](MAX_USER_CNT)),
-    $(_0xee46[143])[_0xee46[142]](function(width) {
-        var confirmButtonText = $(this)[src](crash_top_winners)
-          , amount = !1;
+    150 < $(.history-container .table-body .crash-row)[players] && $(.history-container .table-body .crash-row)[last]()[remove](),
+    game_data[push] = _0x2e5fxf[push],
+    game_data[push][players] > MAX_USER_CNT && (game_data[push] = game_data[push][sort](compareByAmount),
+    game_data[push][splice](MAX_USER_CNT)),
+    $(.users-list-container .usr-row)[each](function(_0x2e5fxf) {
+        var _0x2e5fx10 = $(this)[photo_image](setBusted)
+          , _0x2e5fx11 = !1;
         for (next_index in game_data[push]) {
-            if (game_data[push][next_index][top_winners] == confirmButtonText) {
-                amount = !0;
+            if (game_data[push][next_index][uid] == _0x2e5fx10) {
+                _0x2e5fx11 = !0;
                 break
             }
         }
-        ;amount || $(remove + confirmButtonText)[splice]()
+        ;_0x2e5fx11 || $(.usid- + _0x2e5fx10)[remove]()
     }),
     prepare_users_stats()
 }
 ,
-game_update = function(width) {
-    game_data[game_screen] = waiting,
-    gameCanvas[setWaiting](width[status])
+game_update = function(_0x2e5fxf) {
+    game_data[status] = started,
+    gameCanvas[setPlaying](_0x2e5fxf[time])
 }
 ,
-game_busted = function(width) {
-    game_data[game_screen] = update,
-    game_data[uid] = !1,
-    gameCanvas[∞] = !1;
-    var confirmButtonText = (width[cashin] / 100)[.game-amount](2);
-    gameCanvas[setPlaying](confirmButtonText, width[status]),
+game_busted = function(_0x2e5fxf) {
+    game_data[status] = busted,
+    game_data[cashin] = !1,
+    gameCanvas[im_in_game] = !1;
+    var _0x2e5fx10 = (_0x2e5fxf[amount] / 100)[toFixed](2);
+    gameCanvas[setBusted](_0x2e5fx10, _0x2e5fxf[time]),
     update_button(),
     prepare_users_stats(),
-    $(addClass)[.users-list-container .usr-row](c-green),
-    $(addClass)[c-yellow](.users-list-container .c-yellow);
-    var amount = 1.8 <= confirmButtonText ? <div class="crash-row"><div class="col bold h-col-1  : c-green;
-    $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[148])[current](confirmButtonText),
-    $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[148])[.users-list-container .usr-row](amount),
-    $(</a></div><div class="clear"></div></div> + width[</div><div class="col h-col-2">-</div><div class="col h-col-3">-</div><div class="col h-col-4">-</div><div class="col h-col-5"><a href="javascript:;" class="show-code">] + _0xee46[151])[current](_0xee46[149] + width[</a></div><div class="col h-col-6"><a href="javascript:;" class="show-code">] + _0xee46[150]),
+    $(.users-list-container .c-yellow)[table](c-red),
+    $(.users-list-container .c-yellow)[td](c-yellow);
+    var _0x2e5fx11 = 1.8 <= _0x2e5fx10 ? c-green : c-red;
+    $(.crash- + _0x2e5fxf[md5] +  .h-col-1)[#mobile-users](_0x2e5fx10),
+    $(.crash- + _0x2e5fxf[md5] +  .h-col-1)[table](_0x2e5fx11),
+    $(.crash- + _0x2e5fxf[md5] +  .h-col-6)[#mobile-users](<a href="javascript:;" class="show-code"> + _0x2e5fxf[hash] + </a>),
     show_codes()
 }
 ,
-game_cash_out = function(width) {
-    null != width[busted] && (user_data[busted] = width[busted],
-    $(lobby_screen)[current](short_chip_format(user_data[busted]))),
-    fadein_screen(.chips-amount)
+game_cash_out = function(_0x2e5fxf) {
+    null != _0x2e5fxf[chips] && (user_data[chips] = _0x2e5fxf[chips],
+    $(.top_left_chips)[#mobile-users](short_chip_format(user_data[chips]))),
+    fadein_screen(lobby_screen)
 }
 ,
-game_chips = function(width) {
-    user_data[busted] = width[busted],
-    $(.user-name)[current](short_chip_format(user_data[busted]))
+game_chips = function(_0x2e5fxf) {
+    user_data[chips] = _0x2e5fxf[chips],
+    $(.chips-amount)[#mobile-users](short_chip_format(user_data[chips]))
 }
 ,
-game_chat = function(width) {
-    100 < $(_0xee46[152])[players] && $(_0xee46[152])[0][splice]();
-    var confirmButtonText = chats + width[im_in_game] + _0xee46[104] + width[_0xee46[105]] + _0xee46[106];
-    if (null != width[top_winners] && null != width[currency]) {
-        var amount = user_data[currency] ? </div></div> + width[top_winners] + _0xee46[108] + width[top_winners] + _0xee46[109] : null;
-        confirmButtonText = &nbsp; </span> + width[top_winners] + _0xee46[111] + amount + width[im_in_game] + _0xee46[104] + width[_0xee46[105]] + _0xee46[106],
-        1 == width[currency] && (confirmButtonText = &nbsp; </span> + width[top_winners] + _0xee46[111] + amount + width[im_in_game] + _0xee46[112] + width[_0xee46[105]] + _0xee46[106])
+game_chat = function(_0x2e5fxf) {
+    100 < $(.chat-container .chat-row)[players] && $(.chat-container .chat-row)[0][remove]();
+    var _0x2e5fx10 = <div class="chat-row"><div><span> + _0x2e5fxf[name] + </span></div><div class="txt"> + _0x2e5fxf[text] + </div></div>;
+    if (null != _0x2e5fxf[uid] && null != _0x2e5fxf[admin]) {
+        var _0x2e5fx11 = user_data[admin] ? <a href="javascript:;" class="mute-user-button" data=" + _0x2e5fxf[uid] + " style="text-decoration: none; text-align: center; display:inline-block; background: red; color: #fff; font-weight: bold; width: 16px; height: 16px; border-radius: 8px; padding: 2px; margin: 4px;">x</a><span style="color: #000;"> &nbsp;  + _0x2e5fxf[uid] + _0xee46[109] : null;
+        _0x2e5fx10 = <div class="chat-row chat-uid- + _0x2e5fxf[uid] + _0xee46[111] + _0x2e5fx11 + _0x2e5fxf[name] + </span></div><div class="txt"> + _0x2e5fxf[text] + </div></div>,
+        1 == _0x2e5fxf[admin] && (_0x2e5fx10 = <div class="chat-row chat-uid- + _0x2e5fxf[uid] + _0xee46[111] + _0x2e5fx11 + _0x2e5fxf[name] + _0xee46[112] + _0x2e5fxf[text] + </div></div>)
     }
-    ;var font = parseInt($(other_text)[scrollHeight](append)) + parseInt($(_0xee46[154])[.chat-container .chat-row]())
-      , _0x2e5fx1c = parseInt($(other_text)[scrollHeight](scrollTop));
-    $(other_text)[</span></div><div class="txt" style="color: red; font-size: 14px;">](confirmButtonText),
-    _0x2e5fx1c < font && $(other_text)[scrollHeight](append, $(other_text)[scrollHeight](scrollTop)),
+    ;var _0x2e5fx12 = parseInt($(.chat-container)[prop](scrollTop)) + parseInt($(.chat-panel .container)[ol]())
+      , _0x2e5fx1c = parseInt($(.chat-container)[prop](scrollHeight));
+    $(.chat-container)[append](_0x2e5fx10),
+    _0x2e5fx1c < _0x2e5fx12 && $(.chat-container)[prop](scrollTop, $(.chat-container)[prop](scrollHeight)),
     init_mute_buttons()
 }
 ,
-game_mute = function(width) {
-    $(_0xee46[155] + width[top_winners])[splice](),
-    $(other_text)[scrollHeight](append, $(other_text)[scrollHeight](scrollTop))
+game_mute = function(_0x2e5fxf) {
+    $(.chat-uid- + _0x2e5fxf[uid])[remove](),
+    $(.chat-container)[prop](scrollTop, $(.chat-container)[prop](scrollHeight))
 }
 ,
-game_top_winners = function(width) {
-    for (i in gameCanvas[setBusted] = language[crash_top_winners][maximum_text],
-    top_winners = width[mute]) {
-        var confirmButtonText = (top_winners[i][amount] / 100)[.game-amount](2);
-        0 == top_winners[i][data] && (gameCanvas[i] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + confirmButtonText + winner_text + top_winners[i][im_in_game]),
-        1 == top_winners[i][data] && (gameCanvas[@] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + confirmButtonText + winner_text + top_winners[i][im_in_game]),
-        2 == top_winners[i][data] && (gameCanvas[loser_text] = short_chip_format(top_winners[i][.h-col-3]) + winner_text + confirmButtonText + winner_text + top_winners[i][im_in_game])
+game_top_winners = function(_0x2e5fxf) {
+    for (i in gameCanvas[maximum_text] = language[setBusted][crash_top_winners],
+    top_winners = _0x2e5fxf[mute]) {
+        var _0x2e5fx10 = (top_winners[i][cashout] / 100)[toFixed](2);
+        0 == top_winners[i][i] && (gameCanvas[winner_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx10 +   @ + top_winners[i][name]),
+        1 == top_winners[i][i] && (gameCanvas[loser_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx10 +   @ + top_winners[i][name]),
+        2 == top_winners[i][i] && (gameCanvas[other_text] = short_chip_format(top_winners[i][won]) +   @ + _0x2e5fx10 +   @ + top_winners[i][name])
     }
 }
 ,
-game_error = function(width) {
-    var confirmButtonText = width[_0xee46[156]];
-    null != language[crash_top_winners][confirmButtonText] && message(language[crash_top_winners][confirmButtonText])
+game_error = function(_0x2e5fxf) {
+    var _0x2e5fx10 = _0x2e5fxf[message];
+    null != language[setBusted][_0x2e5fx10] && message(language[setBusted][_0x2e5fx10])
 }
 ,
-game_broadcast = function(width) {
-    message(width[_0xee46[156]])
+game_broadcast = function(_0x2e5fxf) {
+    message(_0x2e5fxf[message])
 }
 ,
-game_last_win = function(width) {
-    if (mobile != active_screen) {
+game_last_win = function(_0x2e5fxf) {
+    if (.top_left_chips != active_screen) {
         return !1
     }
-    ;if (width[top_winners] == user_data[top_winners]) {
+    ;if (_0x2e5fxf[uid] == user_data[uid]) {
         return !1
     }
-    ;if (width[photo] != user_data[photo]) {
+    ;if (_0x2e5fxf[currency] != user_data[currency]) {
         return !1
     }
-    ;var confirmButtonText = language[crash_top_winners][_0xee46[159]][{name}](_0xee46[157], width[im_in_game]);
-    confirmButtonText = confirmButtonText[{name}](_0xee46[160], full_chip_format_currency(width[cashin], width[photo])),
-    show_last_winner(confirmButtonText)
+    ;var _0x2e5fx10 = language[setBusted][last_winner][replace]({name}, _0x2e5fxf[name]);
+    _0x2e5fx10 = _0x2e5fx10[replace]({amount}, full_chip_format_currency(_0x2e5fxf[amount], _0x2e5fxf[currency])),
+    show_last_winner(_0x2e5fx10)
 }
 ,
-show_last_winner = function(width) {
+show_last_winner = function(_0x2e5fxf) {
     if (last_winners_bussy) {
-        return last_winners[name](width),
+        return last_winners[push](_0x2e5fxf),
         !1
     }
     ;last_winners_bussy = !0,
-    $(_0xee46[161])[current](width);
-    $(_0xee46[161])[#last_winner]({
+    $(h5)[#mobile-users](_0x2e5fxf);
+    $(h5)[css]({
         top: -100
     }),
-    $(_0xee46[161])[css](),
-    $(_0xee46[161])[_0xee46[164]]({
+    $(h5)[p](),
+    $(h5)[animate]({
         top: 0
     }, 500),
     setTimeout(function() {
-        $(_0xee46[161])[_0xee46[164]]({
+        $(h5)[animate]({
             top: -100
         }, 500)
     }, 2e3),
     setTimeout(function() {
         if (last_winners_bussy = !1,
         0 < last_winners[players]) {
-            var width = last_winners[0];
-            last_winners[_0xee46[165]](),
-            show_last_winner(width)
+            var _0x2e5fxf = last_winners[0];
+            last_winners[a](),
+            show_last_winner(_0x2e5fxf)
         }
     }, 3e3)
 }
 ,
-compareByTime = function(width, confirmButtonText) {
-    return width[status] > confirmButtonText[status] ? 1 : width[status] < confirmButtonText[status] ? -1 : 0
+compareByTime = function(_0x2e5fxf, _0x2e5fx10) {
+    return _0x2e5fxf[time] > _0x2e5fx10[time] ? 1 : _0x2e5fxf[time] < _0x2e5fx10[time] ? -1 : 0
 }
 ,
-compareByStart = function(width, confirmButtonText) {
-    return width[shift] > confirmButtonText[shift] ? 1 : width[shift] < confirmButtonText[shift] ? -1 : 0
+compareByStart = function(_0x2e5fxf, _0x2e5fx10) {
+    return _0x2e5fxf[start] > _0x2e5fx10[start] ? 1 : _0x2e5fxf[start] < _0x2e5fx10[start] ? -1 : 0
 }
 ,
-compareByCashout = function(width, confirmButtonText) {
-    if (width[amount] < confirmButtonText[amount]) {
+compareByCashout = function(_0x2e5fxf, _0x2e5fx10) {
+    if (_0x2e5fxf[cashout] < _0x2e5fx10[cashout]) {
         return 1
     }
-    ;if (width[amount] > confirmButtonText[amount]) {
+    ;if (_0x2e5fxf[cashout] > _0x2e5fx10[cashout]) {
         return -1
     }
-    ;if (null != width[cashin] && null != confirmButtonText[cashin]) {
-        if (width[cashin] < confirmButtonText[cashin]) {
+    ;if (null != _0x2e5fxf[amount] && null != _0x2e5fx10[amount]) {
+        if (_0x2e5fxf[amount] < _0x2e5fx10[amount]) {
             return 1
         }
-        ;if (width[cashin] > confirmButtonText[cashin]) {
+        ;if (_0x2e5fxf[amount] > _0x2e5fx10[amount]) {
             return -1
         }
     }
     ;return 0
 }
 ,
-compareByAmount = function(width, confirmButtonText) {
-    if (width[cashin] < confirmButtonText[cashin]) {
+compareByAmount = function(_0x2e5fxf, _0x2e5fx10) {
+    if (_0x2e5fxf[amount] < _0x2e5fx10[amount]) {
         return 1
     }
-    ;if (width[cashin] > confirmButtonText[cashin]) {
+    ;if (_0x2e5fxf[amount] > _0x2e5fx10[amount]) {
         return -1
     }
-    ;if (null != width[amount] && null != confirmButtonText[amount]) {
-        if (width[amount] < confirmButtonText[amount]) {
+    ;if (null != _0x2e5fxf[cashout] && null != _0x2e5fx10[cashout]) {
+        if (_0x2e5fxf[cashout] < _0x2e5fx10[cashout]) {
             return 1
         }
-        ;if (width[amount] > confirmButtonText[amount]) {
+        ;if (_0x2e5fxf[cashout] > _0x2e5fx10[cashout]) {
             return -1
         }
     }
     ;return 0
-
+}
 ,
 init_mute_buttons = function() {
-    $(unbind)[click](start),
-    $(unbind)[start](function() {
-        var confirmButtonText = $(this)[src](crash_top_winners)
-          , width = $(this)[</span>]()[current]()[,](.mute-user-button)[1]
-          , amount = $(this)[</span>]()[</span>]()[</span>]()[.txt](parent)[current]();
+    $(button)[input](video),
+    $(button)[video](function() {
+        var _0x2e5fx10 = $(this)[photo_image](setBusted)
+          , _0x2e5fxf = $(this)[option]()[#mobile-users]().crash-](</span>)[1]
+          , _0x2e5fx11 = $(this)[option]()[option]()[option]()[find](.txt)[#mobile-users]();
         swal({
             title: null,
-            text: find + width + <font style='font-size:20px;'><font style='font-weight: bold;'> + confirmButtonText + </font> + amount + <br>,
-            type: </font>,
+            text: header + _0x2e5fxf + </font> ( + _0x2e5fx10 + )<br> + _0x2e5fx11 + </font>,
+            type: warning,
             showCancelButton: !0,
-            confirmButtonColor: warning,
-            confirmButtonText: language[crash_top_winners][#DD6B55],
-            cancelButtonText: language[crash_top_winners][finish],
+            confirmButtonColor: #DD6B55,
+            confirmButtonText: language[setBusted][okey],
+            cancelButtonText: language[setBusted][cancel],
             closeOnConfirm: !0,
             html: !0,
             allowOutsideClick: !1,
             allowEscapeKey: !1,
             allowEnterKey: !1
-        }, function(width) {
-            width && socket_send({
-                command: cancel,
-                uid: confirmButtonText
+        }, function(_0x2e5fxf) {
+            _0x2e5fxf && socket_send({
+                command: mute,
+                uid: _0x2e5fx10
             })
         })
     })
 }
 ,
 show_codes = function() {
-    $(okey)[click](start),
-    $(okey)[start](function() {
-        prompt(null, $(this)[current]())
+    $(.show-code)[input](video),
+    $(.show-code)[video](function() {
+        prompt(null, $(this)[#mobile-users]())
     })
 }
 ,
-change_screen = function(width) {
-    active_screen = width,
-    $(hide)[.show-code](),
-    $(.screen + width)[css](),
+change_screen = function(_0x2e5fxf) {
+    active_screen = _0x2e5fxf,
+    $(colgroup)[caption](),
+    $(col + _0x2e5fxf)[p](),
     calculate_screen_size(),
-    mobile == width ? $(#)[.show-code]() : $(#)[css]()
+    .top_left_chips == _0x2e5fxf ? $(details)[caption]() : $(details)[p]()
 }
 ,
-fadein_screen = function(width) {
-    active_screen = width,
-    $(hide)[.show-code](),
-    $(.screen + width)[css](),
+fadein_screen = function(_0x2e5fxf) {
+    active_screen = _0x2e5fxf,
+    $(colgroup)[caption](),
+    $(col + _0x2e5fxf)[p](),
     calculate_screen_size(),
-    mobile == width ? $(#)[.show-code]() : $(#)[css]()
+    .top_left_chips == _0x2e5fxf ? $(details)[caption]() : $(details)[p]()
 }
 ,
 calculate_screen_size = function() {
-    screen_size[.background] = $(window)[.background](),
-    screen_size[.chat-container .chat-row] = $(window)[.chat-container .chat-row]()
+    screen_size[summary] = $(window)[summary](),
+    screen_size[ol] = $(window)[ol]()
 }
 ,
-start_game = function(width) {
+start_game = function(_0x2e5fxf) {
     setTimeout(function() {
-        change_screen(width),
-        language = (new lang)[set_game](function() {
-            language[loading_screen](),
-            (game_assets = new game_assets_class)[set_game](function() {
-                width()
+        change_screen(datalist),
+        language = (new lang)[fieldset](function() {
+            language[optgroup](),
+            (game_assets = new game_assets_class)[fieldset](function() {
+                _0x2e5fxf()
             })
         })
     }, 1e3)
 }
 ,
-createCookie = function(width, confirmButtonText) {
-    var amount = new Date;
-    amount[getTime](amount[load]() + 2592e6);
-    var font = setTime + amount[expires=]();
-    document[toGMTString] = width + cookie + confirmButtonText + font + =
+createCookie = function(_0x2e5fxf, _0x2e5fx10) {
+    var _0x2e5fx11 = new Date;
+    _0x2e5fx11[label](_0x2e5fx11[legend]() + 2592e6);
+    var _0x2e5fx12 = meter + _0x2e5fx11[progress]();
+    document[output] = _0x2e5fxf + main + _0x2e5fx10 + _0x2e5fx12 + mark
 }
 ,
-readCookie = function(width) {
-    for (var confirmButtonText = width + cookie, amount = document[toGMTString][,](;), font = 0; font < amount[players]; font++) {
-        for (var _0x2e5fx1c = amount[font]; readyState == _0x2e5fx1c[charAt](0); ) {
-            _0x2e5fx1c = _0x2e5fx1c[substring](1, _0x2e5fx1c[players])
+readCookie = function(_0x2e5fxf) {
+    for (var _0x2e5fx10 = _0x2e5fxf + main, _0x2e5fx11 = document[output][.crash-](time), _0x2e5fx12 = 0; _0x2e5fx12 < _0x2e5fx11[players]; _0x2e5fx12++) {
+        for (var _0x2e5fx1c = _0x2e5fx11[_0x2e5fx12]; ruby == _0x2e5fx1c[rt](0); ) {
+            _0x2e5fx1c = _0x2e5fx1c[rp](1, _0x2e5fx1c[players])
         }
-        ;if (0 == _0x2e5fx1c[indexOf](confirmButtonText)) {
-            return _0x2e5fx1c[substring](confirmButtonText[players], _0x2e5fx1c[players])
+        ;if (0 == _0x2e5fx1c[.chat-panel .container](_0x2e5fx10)) {
+            return _0x2e5fx1c[rp](_0x2e5fx10[players], _0x2e5fx1c[players])
         }
     }
     ;return null
 }
 ,
-eraseCookie = function(width) {
-    createCookie(width, null, -1)
+eraseCookie = function(_0x2e5fxf) {
+    createCookie(_0x2e5fxf, null, -1)
 }
 ,
-apiRequest = function(width, confirmButtonText, font) {
-    var amount = readCookie(_0xee46[0]);
-    null != amount && null == confirmButtonText[_0xee46[0]] && (confirmButtonText[_0xee46[0]] = amount),
-    confirmButtonText[lang] = userLang,
-    confirmButtonText[device] = DEVICE_TYPE,
-    confirmButtonText[game] = crashes,
-    $[post](API_URL + width, confirmButtonText)[done](function(width) {
-        if (null != font) {
-            var confirmButtonText = object == typeof width ? width : JSON[parse](width)
-              , amount = null != confirmButtonText[result] ? confirmButtonText[result] : _0xee46[2];
-            font(amount, confirmButtonText)
+apiRequest = function(_0x2e5fxf, _0x2e5fx10, _0x2e5fx12) {
+    var _0x2e5fx11 = readCookie(language);
+    null != _0x2e5fx11 && null == _0x2e5fx10[language] && (_0x2e5fx10[language] = _0x2e5fx11),
+    _0x2e5fx10[lang] = userLang,
+    _0x2e5fx10[device] = DEVICE_TYPE,
+    _0x2e5fx10[game] = crash,
+    $[post](API_URL + _0x2e5fxf, _0x2e5fx10)[done](function(_0x2e5fxf) {
+        if (null != _0x2e5fx12) {
+            var _0x2e5fx10 = object == typeof _0x2e5fxf ? _0x2e5fxf : JSON[parse](_0x2e5fxf)
+              , _0x2e5fx11 = null != _0x2e5fx10[result] ? _0x2e5fx10[result] : null;
+            _0x2e5fx12(_0x2e5fx11, _0x2e5fx10)
         }
-    })[fail](function(width, confirmButtonText, amount) {
-        top[location][reload]()
+    })[fail](function(_0x2e5fxf, _0x2e5fx10, _0x2e5fx11) {
+        top[last_winner][reload]()
     })
 }
 ,
-message = function(width) {
-    var confirmButtonText = null != language && null != language[crash_top_winners] && null != language[crash_top_winners][#DD6B55] ? language[crash_top_winners][#DD6B55] : _0xee46[213];
+message = function(_0x2e5fxf) {
+    var _0x2e5fx10 = null != language && null != language[setBusted] && null != language[setBusted][okey] ? language[setBusted][okey] : OK;
     swal({
         title: null,
-        text: <font style='font-size:20px;'> + width + <br>,
-        confirmButtonText: confirmButtonText,
+        text: <font style='font-size:20px;'> + _0x2e5fxf + </font>,
+        confirmButtonText: _0x2e5fx10,
         html: !0
     })
 }
 ;
 var lang = function() {
-    this[set_game] = function(amount) {
-        var width = new Object;
-        width[lang] = userLang;
-        var confirmButtonText = readCookie(_0xee46[0]);
-        return null != confirmButtonText && (width[_0xee46[0]] = confirmButtonText),
-        apiRequest(object == typeof API_URIS && null != API_URIS[_0xee46[0]] ? API_URIS[_0xee46[0]] : /api/user/casino/language, width, function(width, confirmButtonText) {
-            null != confirmButtonText[crash_top_winners] && (language[crash_top_winners] = confirmButtonText[crash_top_winners]),
-            null != amount && amount()
+    this[fieldset] = function(_0x2e5fx11) {
+        var _0x2e5fxf = new Object;
+        _0x2e5fxf[lang] = userLang;
+        var _0x2e5fx10 = readCookie(language);
+        return null != _0x2e5fx10 && (_0x2e5fxf[language] = _0x2e5fx10),
+        apiRequest(object == typeof API_URIS && null != API_URIS[language] ? API_URIS[language] : unbind, _0x2e5fxf, function(_0x2e5fxf, _0x2e5fx10) {
+            null != _0x2e5fx10[setBusted] && (language[setBusted] = _0x2e5fx10[setBusted]),
+            null != _0x2e5fx11 && _0x2e5fx11()
         }),
         this
     }
     ,
-    this[loading_screen] = function() {
-        $(_0xee46[217])[current](this[crash_top_winners][_0xee46[216]]),
-        $(_0xee46[219])[current](this[crash_top_winners][_0xee46[218]]),
-        $(_0xee46[221])[current](this[crash_top_winners][_0xee46[220]]),
-        $(_0xee46[223])[current](this[crash_top_winners][_0xee46[222]]),
-        $(_0xee46[225])[current](this[crash_top_winners][_0xee46[224]]),
-        $(_0xee46[227])[current](this[crash_top_winners][_0xee46[226]]),
-        $(_0xee46[229])[current](this[crash_top_winners][_0xee46[228]]),
-        $(_0xee46[231])[current](this[crash_top_winners][_0xee46[230]]),
-        $(_0xee46[233])[current](this[crash_top_winners][_0xee46[232]]),
-        $(_0xee46[235])[current](this[crash_top_winners][_0xee46[234]]),
-        $(_0xee46[237])[current](this[crash_top_winners][crash_placebet]),
-        $(_0xee46[239])[current](this[crash_top_winners][_0xee46[238]]),
-        $(_0xee46[241])[current](this[crash_top_winners][_0xee46[240]]),
-        $(_0xee46[243])[current](this[crash_top_winners][_0xee46[242]]),
-        $(_0xee46[245])[current](this[crash_top_winners][_0xee46[244]]),
-        $(_0xee46[247])[current](this[crash_top_winners][_0xee46[246]]),
-        $(_0xee46[249])[current](this[crash_top_winners][_0xee46[248]]),
-        $(_0xee46[251])[current](this[crash_top_winners][_0xee46[250]]),
-        $(_0xee46[253])[current](this[crash_top_winners][crash_md5]),
-        $(_0xee46[255])[current](this[crash_top_winners][_0xee46[254]]),
-        $(_0xee46[256])[current](this[crash_top_winners][photo]),
-        gameCanvas[nextround_text] = this[crash_top_winners][_0xee46[258]],
-        gameCanvas[busted_title] = this[crash_top_winners][_0xee46[260]],
-        null != this[crash_top_winners][javascript] && eval(this[crash_top_winners][javascript])
+    this[optgroup] = function() {
+        $(</span>)[#mobile-users](this[setBusted][main_disconnect]),
+        $(.txt)[#mobile-users](this[setBusted][parent]),
+        $("<font style='font-size:20px;'><font style='font-weight: bold;'>")[#mobile-users](this[setBusted][landscape]),
+        $(.lang_57)[#mobile-users](this[setBusted][crash_play]),
+        $(.lang_60)[#mobile-users](this[setBusted][crash_rules]),
+        $(.lang_61)[#mobile-users](this[setBusted][crash_fair]),
+        $(.lang_62)[#mobile-users](this[setBusted][crash_exit]),
+        $(.lang_63)[#mobile-users](this[setBusted][crash_betpanel]),
+        $(.lang_64)[#mobile-users](this[setBusted][crash_amount]),
+        $(set_game)[#mobile-users](this[setBusted][loading_screen]),
+        $(getTime)[#mobile-users](this[setBusted][load]),
+        $(; expires=)[#mobile-users](this[setBusted][setTime]),
+        $(.lang_68)[#mobile-users](this[setBusted][toGMTString]),
+        $(.lang_69)[#mobile-users](this[setBusted][crash_players]),
+        $(.lang_70)[#mobile-users](this[setBusted][crash_user]),
+        $(.lang_71)[#mobile-users](this[setBusted][crash_bet]),
+        $(.lang_72)[#mobile-users](this[setBusted][indexOf]),
+        $(first)[#mobile-users](this[setBusted][device]),
+        $(won)[#mobile-users](this[setBusted][crash_md5]),
+        $(.lang_75)[#mobile-users](this[setBusted][crash_hash]),
+        $(.lang_80)[#mobile-users](this[setBusted][currency]),
+        gameCanvas[nextround_text] = this[setBusted][crash_next],
+        gameCanvas[busted_title] = this[setBusted][crash_busted],
+        null != this[setBusted][javascript] && eval(this[setBusted][javascript])
     }
 }
   , game_assets_class = function() {
-    this[_0xee46[262]] = new Object,
-    this[list] = [],
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[265]
+    this[assets] = new Object,
+    this[admin] = [],
+    this[admin][push]({
+        type: image,
+        url: assets/back.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[266]
+    this[admin][push]({
+        type: image,
+        url: assets/button_red.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[267]
+    this[admin][push]({
+        type: image,
+        url: assets/exit.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[268]
+    this[admin][push]({
+        type: image,
+        url: assets/home.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[269]
+    this[admin][push]({
+        type: image,
+        url: assets/lamp-light.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[270]
+    this[admin][push]({
+        type: image,
+        url: assets/lamp.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[271]
+    this[admin][push]({
+        type: image,
+        url: assets/landscape.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[272]
+    this[admin][push]({
+        type: image,
+        url: assets/placeholder.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[273]
+    this[admin][push]({
+        type: image,
+        url: assets/screen-light.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[274]
+    this[admin][push]({
+        type: image,
+        url: assets/screen.png
     }),
-    this[list][name]({
-        type: _0xee46[264],
-        url: _0xee46[275]
+    this[admin][push]({
+        type: image,
+        url: assets/zoomout.png
     }),
-    this[_0xee46[276]] = function(width) {
-        return width[,](_0xee46[277])[autoplay](null)[,](split)[autoplay](null)
+    this[clean_name] = function(_0x2e5fxf) {
+        return _0x2e5fxf[.crash-](/)[hash](null)[.crash-](<div class="crash-row crash-)[hash](null)
     }
     ,
-    this[total_assets] = this[list][players],
-    this[set_game] = function(confirmButtonText) {
-        var width = 150 * (this[total_assets] - this[list][players]) / this[total_assets];
-        if ($(.loading_bar)[css](),
-        $(#loading_indicator)[.background](width),
-        0 < this[list][players]) {
-            var amount = this[list][0][_0xee46[281]]
-              , font = this[list][0][_0xee46[282]];
-            if (this[list][_0xee46[165]](),
-            _0xee46[264] == font) {
+    this[status] = this[admin][players],
+    this[fieldset] = function(_0x2e5fx10) {
+        var _0x2e5fxf = 150 * (this[status] - this[admin][players]) / this[status];
+        if ($(time)[p](),
+        $(setWaiting)[summary](_0x2e5fxf),
+        0 < this[admin][players]) {
+            var _0x2e5fx11 = this[admin][0][url]
+              , _0x2e5fx12 = this[admin][0][setBusted];
+            if (this[admin][a](),
+            image == _0x2e5fx12) {
                 var _0x2e5fx1c = new Image;
-                _0x2e5fx1c[photo_image] = function() {
-                    var width = game_assets[_0xee46[276]](amount);
-                    game_assets[_0xee46[262]][width] = _0x2e5fx1c,
-                    game_assets[set_game](confirmButtonText)
+                _0x2e5fx1c[onload] = function() {
+                    var _0x2e5fxf = game_assets[clean_name](_0x2e5fx11);
+                    game_assets[assets][_0x2e5fxf] = _0x2e5fx1c,
+                    game_assets[fieldset](_0x2e5fx10)
                 }
                 ,
-                _0x2e5fx1c[.profile_photo] = function() {
-                    game_assets[set_game](confirmButtonText)
+                _0x2e5fx1c[onerror] = function() {
+                    game_assets[fieldset](_0x2e5fx10)
                 }
                 ,
-                null != ADDITIONAL_FILES[amount] ? _0x2e5fx1c[onload] = ADDITIONAL_FILES[amount] : _0x2e5fx1c[onload] = GAME_FOLDER + amount
+                null != ADDITIONAL_FILES[_0x2e5fx11] ? _0x2e5fx1c[src] = ADDITIONAL_FILES[_0x2e5fx11] : _0x2e5fx1c[src] = GAME_FOLDER + _0x2e5fx11
             } else {
-                if (_0xee46[283] == font) {
-                    var y = new Audio;
-                    y[_0xee46[284]] = function() {
-                        var width = game_assets[_0xee46[276]](amount);
-                        game_assets[_0xee46[262]][width] = y,
-                        game_assets[set_game](confirmButtonText)
+                if (sound == _0x2e5fx12) {
+                    var _0x2e5fx13 = new Audio;
+                    _0x2e5fx13[onloadeddata] = function() {
+                        var _0x2e5fxf = game_assets[clean_name](_0x2e5fx11);
+                        game_assets[assets][_0x2e5fxf] = _0x2e5fx13,
+                        game_assets[fieldset](_0x2e5fx10)
                     }
                     ,
-                    y[.profile_photo] = function() {
-                        game_assets[set_game](confirmButtonText)
+                    _0x2e5fx13[onerror] = function() {
+                        game_assets[fieldset](_0x2e5fx10)
                     }
                     ,
-                    y[onload] = GAME_FOLDER + amount
+                    _0x2e5fx13[src] = GAME_FOLDER + _0x2e5fx11
                 }
             }
             ;return !1
         }
-        ;$(.loading_bar)[.show-code](),
-        confirmButtonText()
+        ;$(time)[caption](),
+        _0x2e5fx10()
     }
     ,
-    this[get] = function(width) {
-        if (width[players] < 7) {
+    this[data] = function(_0x2e5fxf) {
+        if (_0x2e5fxf[players] < 7) {
             return null
         }
-        ;if (_0xee46[262] != width[substr](0, 6)) {
+        ;if (assets != _0x2e5fxf[substr](0, 6)) {
             return null
         }
-        ;var confirmButtonText = this[_0xee46[276]](width);
-        return null != this[_0xee46[262]][confirmButtonText] ? this[_0xee46[262]][confirmButtonText] : null
+        ;var _0x2e5fx10 = this[clean_name](_0x2e5fxf);
+        return null != this[assets][_0x2e5fx10] ? this[assets][_0x2e5fx10] : null
     }
 };
-full_chip_format_currency = function(width, confirmButtonText) {
-    return (width / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2]) + readyState + language[crash_top_winners][photo]
+full_chip_format_currency = function(_0x2e5fxf, _0x2e5fx10) {
+    return (_0x2e5fxf / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2]) + ruby + language[setBusted][currency]
 }
 ,
-full_chip_format = function(width) {
-    return (width / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2]) + readyState + language[crash_top_winners][photo]
+full_chip_format = function(_0x2e5fxf) {
+    return (_0x2e5fxf / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2]) + ruby + language[setBusted][currency]
 }
 ,
-short_chip_format = function(width) {
-    return (width / 100)[formatMoney](0, MONEY_FORMAT[1], MONEY_FORMAT[2]) + readyState + language[crash_top_winners][photo]
+short_chip_format = function(_0x2e5fxf) {
+    return (_0x2e5fxf / 100)[formatMoney](0, MONEY_FORMAT[1], MONEY_FORMAT[2]) + ruby + language[setBusted][currency]
 }
 ,
-chip_format_no_symbol = function(width) {
-    return (width / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2])
+chip_format_no_symbol = function(_0x2e5fxf) {
+    return (_0x2e5fxf / 100)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2])
 }
 ,
-chip_format_no_symbol_no_dot = function(width) {
-    return (width / 100)[formatMoney](0, MONEY_FORMAT[1], MONEY_FORMAT[2])
+chip_format_no_symbol_no_dot = function(_0x2e5fxf) {
+    return (_0x2e5fxf / 100)[formatMoney](0, MONEY_FORMAT[1], MONEY_FORMAT[2])
 }
 ,
-amount_format = function(width) {
-    return parseInt(width)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2])
+amount_format = function(_0x2e5fxf) {
+    return parseInt(_0x2e5fxf)[formatMoney](MONEY_FORMAT[0], MONEY_FORMAT[1], MONEY_FORMAT[2])
 }
 ,
-Number[prototype][formatMoney] = function(width, confirmButtonText, amount) {
-    var font = this
-      , _0x2e5fx1c = (width = isNaN(width = Math[abs](width)) ? 2 : width,
-    confirmButtonText = null == confirmButtonText ? split : confirmButtonText,
-    amount = null == amount ? join : amount,
-    font < 0 ? . : null)
-      , y = parseInt(font = Math[abs](+font || 0)[.game-amount](width)) + null
-      , by = 3 < (by = y[players]) ? by % 3 : 0;
-    return _0x2e5fx1c + (by ? y[substr](0, by) + amount : null) + y[substr](by)[{name}](/(\d{3})(?=\d)/g, $1 + amount) + (width ? confirmButtonText + Math[abs](font - y)[.game-amount](width)[_0xee46[291]](2) : null)
+Number[prototype][formatMoney] = function(_0x2e5fxf, _0x2e5fx10, _0x2e5fx11) {
+    var _0x2e5fx12 = this
+      , _0x2e5fx1c = (_0x2e5fxf = isNaN(_0x2e5fxf = Math[abs](_0x2e5fxf)) ? 2 : _0x2e5fxf,
+    _0x2e5fx10 = null == _0x2e5fx10 ? <div class="crash-row crash- : _0x2e5fx10,
+    _0x2e5fx11 = null == _0x2e5fx11 ? </a></div><div class="clear"></div></div> : _0x2e5fx11,
+    _0x2e5fx12 < 0 ? - : null)
+      , _0x2e5fx13 = parseInt(_0x2e5fx12 = Math[abs](+_0x2e5fx12 || 0)[toFixed](_0x2e5fxf)) + null
+      , _0x2e5fx14 = 3 < (_0x2e5fx14 = _0x2e5fx13[players]) ? _0x2e5fx14 % 3 : 0;
+    return _0x2e5fx1c + (_0x2e5fx14 ? _0x2e5fx13[substr](0, _0x2e5fx14) + _0x2e5fx11 : null) + _0x2e5fx13[substr](_0x2e5fx14)[replace](/(\d{3})(?=\d)/g, $1 + _0x2e5fx11) + (_0x2e5fxf ? _0x2e5fx10 + Math[abs](_0x2e5fx12 - _0x2e5fx13)[toFixed](_0x2e5fxf)[_0xee46[291]](2) : null)
 }
 ,
-play_audio = function(width) {
+play_audio = function(_0x2e5fxf) {
     if (1 == mute_audios) {
         return !1
     }
-    ;var confirmButtonText;
-    ios == DEVICE_TYPE ? null != (confirmButtonText = new Media(GAME_FOLDER + assets/sounds/ + width + .mp3)) && (confirmButtonText[seekTo](0),
-    confirmButtonText[chat]()) : null != (confirmButtonText = document[getElementById](_0xee46[296] + width)) && 4 == confirmButtonText[readyState] && (confirmButtonText[_0xee46[299]] = 0,
-    confirmButtonText[chat]())
+    ;var _0x2e5fx10;
+    ios == DEVICE_TYPE ? null != (_0x2e5fx10 = new Media(GAME_FOLDER + assets/sounds/ + _0x2e5fxf + .mp3)) && (_0x2e5fx10[seekTo](0),
+    _0x2e5fx10[play]()) : null != (_0x2e5fx10 = document[getElementById](sound_ + _0x2e5fxf)) && 4 == _0x2e5fx10[readyState] && (_0x2e5fx10[currentTime] = 0,
+    _0x2e5fx10[play]())
 }
 ;
-var connection_time = (new Date)[load]();
-function getconnectionurl(width, confirmButtonText) {
-    if (1 != confirmButtonText) {
-        return null != (amount = getcookieforconnection(connfix)) && 2 <= parseInt(amount) ? width[{name}](ws://, wss://) : width
+var connection_time = (new Date)[legend]();
+function getconnectionurl(_0x2e5fxf, _0x2e5fx10) {
+    if (1 != _0x2e5fx10) {
+        return null != (_0x2e5fx11 = getcookieforconnection(connfix)) && 2 <= parseInt(_0x2e5fx11) ? _0x2e5fxf[replace](_0xee46[301], wss://) : _0x2e5fxf
     }
-    ;if (null == (amount = getcookieforconnection(connfix))) {
+    ;if (null == (_0x2e5fx11 = getcookieforconnection(connfix))) {
         return createcookieforconnection(connfix, 1),
-        width
+        _0x2e5fxf
     }
-    ;var amount = parseInt(amount);
-    return 4 <= (amount += 1) ? createcookieforconnection(connfix, 1) : createcookieforconnection(connfix, amount),
-    width
+    ;var _0x2e5fx11 = parseInt(_0x2e5fx11);
+    return 4 <= (_0x2e5fx11 += 1) ? createcookieforconnection(connfix, 1) : createcookieforconnection(connfix, _0x2e5fx11),
+    _0x2e5fxf
 }
-function createcookieforconnection(width, confirmButtonText) {
-    var amount = new Date;
-    amount[getTime](amount[load]() + 216e5);
-    var font = setTime + amount[toUTCString]();
-    document[toGMTString] = width + cookie + confirmButtonText + font + =
+function createcookieforconnection(_0x2e5fxf, _0x2e5fx10) {
+    var _0x2e5fx11 = new Date;
+    _0x2e5fx11[label](_0x2e5fx11[legend]() + 216e5);
+    var _0x2e5fx12 = meter + _0x2e5fx11[toUTCString]();
+    document[output] = _0x2e5fxf + main + _0x2e5fx10 + _0x2e5fx12 + mark
 }
-function getcookieforconnection(width) {
-    for (var confirmButtonText = width + cookie, amount = document[toGMTString][,](;), font = 0; font < amount[players]; font++) {
-        for (var _0x2e5fx1c = amount[font]; readyState == _0x2e5fx1c[charAt](0); ) {
-            _0x2e5fx1c = _0x2e5fx1c[substring](1, _0x2e5fx1c[players])
+function getcookieforconnection(_0x2e5fxf) {
+    for (var _0x2e5fx10 = _0x2e5fxf + main, _0x2e5fx11 = document[output][.crash-](time), _0x2e5fx12 = 0; _0x2e5fx12 < _0x2e5fx11[players]; _0x2e5fx12++) {
+        for (var _0x2e5fx1c = _0x2e5fx11[_0x2e5fx12]; ruby == _0x2e5fx1c[rt](0); ) {
+            _0x2e5fx1c = _0x2e5fx1c[rp](1, _0x2e5fx1c[players])
         }
-        ;if (0 == _0x2e5fx1c[indexOf](confirmButtonText)) {
-            return _0x2e5fx1c[substring](confirmButtonText[players], _0x2e5fx1c[players])
+        ;if (0 == _0x2e5fx1c[.chat-panel .container](_0x2e5fx10)) {
+            return _0x2e5fx1c[rp](_0x2e5fx10[players], _0x2e5fx1c[players])
         }
     }
     ;return null
 }
-socket_connect = function(confirmButtonText, amount) {
+socket_connect = function(_0x2e5fx10, _0x2e5fx11) {
     null != socket_connection && 1 == socket_connection[readyState] && (socket_connection[close](),
     socket_connection = null),
-    confirmButtonText = getconnectionurl(confirmButtonText, !1),
-    connection_time = (new Date)[load](),
-    (socket_connection = new WebSocket(confirmButtonText))[onopen] = function(width) {
-        null != amount && amount(!0),
-        amount = null
+    _0x2e5fx10 = getconnectionurl(_0x2e5fx10, !1),
+    connection_time = (new Date)[legend](),
+    (socket_connection = new WebSocket(_0x2e5fx10))[!= -1] = function(_0x2e5fxf) {
+        null != _0x2e5fx11 && _0x2e5fx11(!0),
+        _0x2e5fx11 = null
     }
     ,
-    socket_connection[onmessage] = function(width) {
-        var confirmButtonText = JSON[parse](width[crash_top_winners]);
-        data_from_socket(confirmButtonText)
+    socket_connection[mutes] = function(_0x2e5fxf) {
+        var _0x2e5fx10 = JSON[show](_0x2e5fxf[setBusted]);
+        data_from_socket(_0x2e5fx10)
     }
     ,
-    socket_connection[onclose] = function(width) {
-        (new Date)[load]() - connection_time < 1500 && getconnectionurl(confirmButtonText, !0),
+    socket_connection[.game-instruction] = function(_0x2e5fxf) {
+        (new Date)[legend]() - connection_time < 1500 && getconnectionurl(_0x2e5fx10, !0),
         fadein_screen(disconnect_screen)
     }
     ,
-    socket_connection[.profile_photo] = function(width) {
-        null != amount && amount(!1),
+    socket_connection[onerror] = function(_0x2e5fxf) {
+        null != _0x2e5fx11 && _0x2e5fx11(!1),
         fadein_screen(disconnect_screen)
     }
 }
@@ -832,19 +832,19 @@ socket_disconnect = function() {
     if (null == socket_connection || 1 != socket_connection[readyState]) {
         return !1
     }
-    ;socket_connection[close]()
+    ;socket_connection[userid]]()
 }
 ,
-socket_send = function(width) {
-    return null != socket_connection && 1 == socket_connection[readyState] && (socket_connection[disconnect_screen](JSON[stringify](width)),
+socket_send = function(_0x2e5fxf) {
+    return null != socket_connection && 1 == socket_connection[readyState] && (socket_connection[send](JSON[stringify](_0x2e5fxf)),
     !0)
 }
 ,
-connect_to_server = function(width) {
-    socket_connect(width, function(width) {
-        1 == width ? socket_send({
-            command: command,
-            uid: user_data[top_winners],
+connect_to_server = function(_0x2e5fxf) {
+    socket_connect(_0x2e5fxf, function(_0x2e5fxf) {
+        1 == _0x2e5fxf ? socket_send({
+            command: auth,
+            uid: user_data[uid],
             token: user_data[token]
         }) : fadein_screen(disconnect_screen)
     })
@@ -853,74 +853,74 @@ connect_to_server = function(width) {
 update_button = function() {
     $(val)[removeAttr](disabled, disabled),
     $(toFixed)[removeAttr](disabled, disabled),
-    $(.range-slide)[scrollHeight](disabled, !1),
-    $(.range-slide)[rangeslider](started, !0),
+    $(.range-slide)[prop](disabled, !1),
+    $(.range-slide)[rangeslider](update, !0),
     gameCanvas[cashin_amount] = 0,
-    last_win == game_data[game_screen] ? game_data[uid] ? ($(.place-bet)[c-yellow](place-bet-cashout),
-    $(.place-bet)[c-yellow](place-bet-passive),
-    $(.place-bet)[.users-list-container .usr-row](place-bet-cancel),
-    $(.place-bet)[current](language[crash_top_winners][crash_cancel]),
-    $(val)[src](disabled, disabled),
-    $(toFixed)[src](disabled, disabled),
-    $(.range-slide)[scrollHeight](disabled, !0),
-    $(.range-slide)[rangeslider](started, !0)) : ($(.place-bet)[c-yellow](place-bet-cashout),
-    $(.place-bet)[c-yellow](place-bet-passive),
-    $(.place-bet)[c-yellow](place-bet-cancel),
-    $(.place-bet)[current](language[crash_top_winners][crash_placebet])) : waiting == game_data[game_screen] && game_data[uid] ? (gameCanvas[cashin_amount] = game_data[cashin],
-    $(.place-bet)[c-yellow](place-bet-cancel),
-    $(.place-bet)[c-yellow](place-bet-passive),
-    $(.place-bet)[.users-list-container .usr-row](place-bet-cashout),
-    $(.place-bet)[current](language[crash_top_winners][crash_cashout] + <br><span class='cashout-amount-text'>0</span>),
-    $(val)[src](disabled, disabled),
-    $(toFixed)[src](disabled, disabled),
-    $(.range-slide)[scrollHeight](disabled, !0),
-    $(.range-slide)[rangeslider](started, !0)) : ($(.place-bet)[c-yellow](place-bet-cashout),
-    $(.place-bet)[c-yellow](place-bet-cancel),
-    $(.place-bet)[current](language[crash_top_winners][crash_placebet])),
-    game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>] && ($(.place-bet)[c-yellow](place-bet-cashout),
-    $(.place-bet)[c-yellow](place-bet-passive),
-    $(.place-bet)[.users-list-container .usr-row](place-bet-cancel),
-    $(.place-bet)[current](language[crash_top_winners][crash_cancel] + <br><span style='font-size: 12px;'> + language[crash_top_winners][crash_join_next] + .mute-user-button),
-    $(val)[src](disabled, disabled),
-    $(toFixed)[src](disabled, disabled),
-    $(.range-slide)[scrollHeight](disabled, !0),
-    $(.range-slide)[rangeslider](started, !0))
+    waiting == game_data[status] ? game_data[cashin] ? ($(.place-bet)[td](place-bet-cashout),
+    $(.place-bet)[td](place-bet-passive),
+    $(.place-bet)[table](place-bet-cancel),
+    $(.place-bet)[#mobile-users](language[setBusted][crash_cancel]),
+    $(val)[photo_image](disabled, disabled),
+    $(toFixed)[photo_image](disabled, disabled),
+    $(.range-slide)[prop](disabled, !0),
+    $(.range-slide)[rangeslider](update, !0)) : ($(.place-bet)[td](place-bet-cashout),
+    $(.place-bet)[td](place-bet-passive),
+    $(.place-bet)[td](place-bet-cancel),
+    $(.place-bet)[#mobile-users](language[setBusted][load])) : started == game_data[status] && game_data[cashin] ? (gameCanvas[cashin_amount] = game_data[amount],
+    $(.place-bet)[td](place-bet-cancel),
+    $(.place-bet)[td](place-bet-passive),
+    $(.place-bet)[table](place-bet-cashout),
+    $(.place-bet)[#mobile-users](language[setBusted][crash_cashout] + <br><span class='cashout-amount-text'>0</span>),
+    $(val)[photo_image](disabled, disabled),
+    $(toFixed)[photo_image](disabled, disabled),
+    $(.range-slide)[prop](disabled, !0),
+    $(.range-slide)[rangeslider](update, !0)) : ($(.place-bet)[td](place-bet-cashout),
+    $(.place-bet)[td](place-bet-cancel),
+    $(.place-bet)[#mobile-users](language[setBusted][load])),
+    game_data[autoplay] && ($(.place-bet)[td](place-bet-cashout),
+    $(.place-bet)[td](place-bet-passive),
+    $(.place-bet)[table](place-bet-cancel),
+    $(.place-bet)[#mobile-users](language[setBusted][crash_cancel] + <br><span style='font-size: 12px;'> + language[setBusted][crash_join_next] + </span>),
+    $(val)[photo_image](disabled, disabled),
+    $(toFixed)[photo_image](disabled, disabled),
+    $(.range-slide)[prop](disabled, !0),
+    $(.range-slide)[rangeslider](update, !0))
 }
 ,
 prepare_users_stats = function() {
-    if (last_win == game_data[game_screen]) {
-        $(.status-red-bar)[src]({
+    if (waiting == game_data[status]) {
+        $(.status-red-bar)[photo_image]({
             style: width: 0%;
         }),
-        $(.status-green-bar)[src]({
+        $(.status-green-bar)[photo_image]({
             style: width: 0%;
         }),
-        $(.status-yellow-bar)[src]({
+        $(.status-yellow-bar)[photo_image]({
             style: width: 100%;
         })
     } else {
-        if (waiting == game_data[game_screen]) {
-            var width = 100 - (_0x2e5fx1c = 0 == (font = (confirmButtonText = game_data[.h-col-4][players]) + (amount = game_data[push][players])) ? 0 : parseInt(100 * confirmButtonText / font));
-            $(.status-red-bar)[src]({
+        if (started == game_data[status]) {
+            var _0x2e5fxf = 100 - (_0x2e5fx1c = 0 == (_0x2e5fx12 = (_0x2e5fx10 = game_data[winners][players]) + (_0x2e5fx11 = game_data[push][players])) ? 0 : parseInt(100 * _0x2e5fx10 / _0x2e5fx12));
+            $(.status-red-bar)[photo_image]({
                 style: width: 0%;
             }),
-            $(.status-green-bar)[src]({
-                style: width: + _0x2e5fx1c + %;
+            $(.status-green-bar)[photo_image]({
+                style: width:  + _0x2e5fx1c + %;
             }),
-            $(.status-yellow-bar)[src]({
-                style: width: + width + %;
+            $(.status-yellow-bar)[photo_image]({
+                style: width:  + _0x2e5fxf + %;
             })
         } else {
-            if (update == game_data[game_screen]) {
-                var confirmButtonText, amount, font, _0x2e5fx1c = 100 - (width = 0 == (font = (confirmButtonText = game_data[.h-col-4][players]) + (amount = game_data[push][players])) ? 0 : parseInt(100 * amount / font));
-                $(.status-yellow-bar)[src]({
+            if (busted == game_data[status]) {
+                var _0x2e5fx10, _0x2e5fx11, _0x2e5fx12, _0x2e5fx1c = 100 - (_0x2e5fxf = 0 == (_0x2e5fx12 = (_0x2e5fx10 = game_data[winners][players]) + (_0x2e5fx11 = game_data[push][players])) ? 0 : parseInt(100 * _0x2e5fx11 / _0x2e5fx12));
+                $(.status-yellow-bar)[photo_image]({
                     style: width: 0%;
                 }),
-                $(.status-red-bar)[src]({
-                    style: width: + width + %;
+                $(.status-red-bar)[photo_image]({
+                    style: width:  + _0x2e5fxf + %;
                 }),
-                $(.status-green-bar)[src]({
-                    style: width: + _0x2e5fx1c + %;
+                $(.status-green-bar)[photo_image]({
+                    style: width:  + _0x2e5fx1c + %;
                 })
             }
         }
@@ -929,49 +929,49 @@ prepare_users_stats = function() {
 ,
 prepare_user_list = function() {
     prepare_users_stats();
-    var width = null;
-    if (last_win == game_data[game_screen]) {
-        var confirmButtonText = game_data[push][length](compareByAmount);
-        for (i in confirmButtonText) {
-            width = width + .usid- + (font = confirmButtonText[i])[top_winners] + <div class="c-yellow usr-row usid-" + font[top_winners] + data= + font[im_in_game] + "><div class="col col-1"> + chip_format_no_symbol(font[cashin]) + _0xee46[48]
+    var _0x2e5fxf = null;
+    if (waiting == game_data[status]) {
+        var _0x2e5fx10 = game_data[push][sort](compareByAmount);
+        for (i in _0x2e5fx10) {
+            _0x2e5fxf = _0x2e5fxf + <div class="c-yellow usr-row usid- + (_0x2e5fx12 = _0x2e5fx10[i])[uid] +  data= + _0x2e5fx12[uid] + _0xee46[46] + _0x2e5fx12[name] + _0xee46[47] + chip_format_no_symbol(_0x2e5fx12[amount]) + _0xee46[48]
         }
     } else {
-        if (waiting == game_data[game_screen]) {
-            confirmButtonText = game_data[push][length](compareByAmount);
-            for (i in confirmButtonText) {
-                width = width + .usid- + (font = confirmButtonText[i])[top_winners] + <div class="c-yellow usr-row usid-" + font[top_winners] + data= + font[im_in_game] + "><div class="col col-1"> + chip_format_no_symbol(font[cashin]) + _0xee46[48]
+        if (started == game_data[status]) {
+            _0x2e5fx10 = game_data[push][sort](compareByAmount);
+            for (i in _0x2e5fx10) {
+                _0x2e5fxf = _0x2e5fxf + <div class="c-yellow usr-row usid- + (_0x2e5fx12 = _0x2e5fx10[i])[uid] +  data= + _0x2e5fx12[uid] + _0xee46[46] + _0x2e5fx12[name] + _0xee46[47] + chip_format_no_symbol(_0x2e5fx12[amount]) + _0xee46[48]
             }
-            ;var amount = game_data[.h-col-4][length](compareByCashout);
-            for (i in amount) {
-                width = width + winners + (font = amount[i])[top_winners] + <div class="c-yellow usr-row usid-" + font[top_winners] + data= + font[im_in_game] + _0xee46[65] + (font[amount] / 100)[.game-amount](2) + _0xee46[66] + chip_format_no_symbol(font[cashin]) + _0xee46[67] + chip_format_no_symbol(font[.h-col-3] - font[cashin]) + _0xee46[68]
+            ;var _0x2e5fx11 = game_data[winners][sort](compareByCashout);
+            for (i in _0x2e5fx11) {
+                _0x2e5fxf = _0x2e5fxf + <div class="c-green usr-row usid- + (_0x2e5fx12 = _0x2e5fx11[i])[uid] +  data= + _0x2e5fx12[uid] + _0xee46[46] + _0x2e5fx12[name] + </div><div class="col col-2"> + (_0x2e5fx12[cashout] / 100)[toFixed](2) + </div><div class="col col-3"> + chip_format_no_symbol(_0x2e5fx12[amount]) + </div><div class="col col-5"> + chip_format_no_symbol(_0x2e5fx12[won] - _0x2e5fx12[amount]) + </div><div class="clear"></div></div>
             }
         } else {
-            if (update == game_data[game_screen]) {
-                confirmButtonText = game_data[push][length](compareByAmount);
-                for (i in confirmButtonText) {
-                    width = width + <div class="c-red usr-row usid-" + (font = confirmButtonText[i])[top_winners] + <div class="c-yellow usr-row usid-" + font[top_winners] + data= + font[im_in_game] + "><div class="col col-1"> + chip_format_no_symbol(font[cashin]) + _0xee46[48]
+            if (busted == game_data[status]) {
+                _0x2e5fx10 = game_data[push][sort](compareByAmount);
+                for (i in _0x2e5fx10) {
+                    _0x2e5fxf = _0x2e5fxf + <div class="c-red usr-row usid- + (_0x2e5fx12 = _0x2e5fx10[i])[uid] +  data= + _0x2e5fx12[uid] + _0xee46[46] + _0x2e5fx12[name] + _0xee46[47] + chip_format_no_symbol(_0x2e5fx12[amount]) + _0xee46[48]
                 }
-                ;amount = game_data[.h-col-4][length](compareByCashout);
-                for (i in amount) {
-                    var font;
-                    width = width + winners + (font = amount[i])[top_winners] + <div class="c-yellow usr-row usid-" + font[top_winners] + data= + font[im_in_game] + _0xee46[65] + (font[amount] / 100)[.game-amount](2) + _0xee46[66] + chip_format_no_symbol(font[cashin]) + _0xee46[67] + chip_format_no_symbol(font[.h-col-3] - font[cashin]) + _0xee46[68]
+                ;_0x2e5fx11 = game_data[winners][sort](compareByCashout);
+                for (i in _0x2e5fx11) {
+                    var _0x2e5fx12;
+                    _0x2e5fxf = _0x2e5fxf + <div class="c-green usr-row usid- + (_0x2e5fx12 = _0x2e5fx11[i])[uid] +  data= + _0x2e5fx12[uid] + _0xee46[46] + _0x2e5fx12[name] + </div><div class="col col-2"> + (_0x2e5fx12[cashout] / 100)[toFixed](2) + </div><div class="col col-3"> + chip_format_no_symbol(_0x2e5fx12[amount]) + </div><div class="col col-5"> + chip_format_no_symbol(_0x2e5fx12[won] - _0x2e5fx12[amount]) + </div><div class="clear"></div></div>
                 }
             }
         }
     }
-    ;$(is)[:visible](</div><div class="col col-5">-</div><div class="clear"></div></div>) ? ($(#desktop-users)[current](null),
-    $(children)[current](width)) : ($(children)[current](null),
-    $(#desktop-users)[current](width))
+    ;$(#desktop-right-panels)[is](:visible) ? ($(#mobile-users)[#mobile-users](null),
+    $(desktop-users)[#mobile-users](_0x2e5fxf)) : ($(desktop-users)[#mobile-users](null),
+    $(#mobile-users)[#mobile-users](_0x2e5fxf))
 }
 ;
 var MAX_SLIDER_RANGE = 20
   , LAST_BUTTON_CLICK_TIME = 0;
 $(document)[ready](function() {
-    function _0x2e5fx25(width, confirmButtonText) {
-        $(.cashout-amount-box)[c-yellow](error-box);
-        var amount = parseFloat(confirmButtonText);
-        $(toFixed)[cashout](amount[.game-amount](2)),
-        MAX_SLIDER_RANGE <= confirmButtonText && $(toFixed)[cashout](.cashout-amount)
+    function _0x2e5fx25(_0x2e5fxf, _0x2e5fx10) {
+        $(.cashout-amount-box)[td](error-box);
+        var _0x2e5fx11 = parseFloat(_0x2e5fx10);
+        $(toFixed)[cashout](_0x2e5fx11[toFixed](2)),
+        MAX_SLIDER_RANGE <= _0x2e5fx10 && $(toFixed)[cashout](.cashout-amount)
     }
     gameCanvas = new GameCanvas,
     gameCanvas[init](graph, {
@@ -979,125 +979,125 @@ $(document)[ready](function() {
         height: 350
     }),
     start_game(function() {
-        apiRequest(object == typeof API_URIS && null != API_URIS[command] ? API_URIS[command] : /api/user/casino/auth, {}, function(_0x2e5fx26, _0x2e5fx27) {
-            ok == _0x2e5fx26 ? (user_data[top_winners] = _0x2e5fx27[crash_top_winners][top_winners],
-            user_data[token] = _0x2e5fx27[crash_top_winners][token],
-            user_data[bets] = _0x2e5fx27[crash_top_winners][bets],
-            null != _0x2e5fx27[crash_top_winners][javascript] && eval(_0x2e5fx27[crash_top_winners][javascript]),
-            connect_to_server(_0x2e5fx27[crash_top_winners][address])) : fadein_screen(disconnect_screen)
+        apiRequest(object == typeof API_URIS && null != API_URIS[auth] ? API_URIS[auth] : /api/user/casino/auth, {}, function(_0x2e5fx26, _0x2e5fx27) {
+            ok == _0x2e5fx26 ? (user_data[uid] = _0x2e5fx27[setBusted][uid],
+            user_data[token] = _0x2e5fx27[setBusted][token],
+            user_data[bets] = _0x2e5fx27[setBusted][bets],
+            null != _0x2e5fx27[setBusted][javascript] && eval(_0x2e5fx27[setBusted][javascript]),
+            connect_to_server(_0x2e5fx27[setBusted][address])) : fadein_screen(disconnect_screen)
         })
     }),
-    $(.home_button)[start](function() {
-        top[location] = HOME_URL
+    $(.counting)[video](function() {
+        top[last_winner] = HOME_URL
     }),
-    $(.refresh_button)[start](function() {
-        top[location] = MAIN_URL
+    $(cashed_out)[video](function() {
+        top[last_winner] = MAIN_URL
     }),
-    $(#play_button)[start](function() {
+    $(.cashout-multiplier)[video](function() {
         socket_send({
-            command: cash_in
+            command: .current-multiplier
         })
     }),
-    $(cashout-button)[start](function() {
+    $(.bet-multiplier)[video](function() {
         socket_send({
-            command: game_status
+            command: cash_out
         })
     }),
-    $(val)[start](function() {
-        $(.game-amount-box)[c-yellow](error-box)
+    $(val)[video](function() {
+        $(set)[td](error-box)
     }),
-    $(toFixed)[start](function() {
-        $(.cashout-amount-box)[c-yellow](error-box)
+    $(toFixed)[video](function() {
+        $(.cashout-amount-box)[td](error-box)
     }),
     $(val)[keyup](function() {
-        $(.game-amount-box)[c-yellow](error-box);
-        var width = $(this)[cashout]()[,](split)[autoplay](null)[,](join)[autoplay](null);
-        if (null == width) {
+        $(set)[td](error-box);
+        var _0x2e5fxf = $(this)[cashout]()[.crash-](<div class="crash-row crash-)[hash](null)[.crash-](</a></div><div class="clear"></div></div>)[hash](null);
+        if (null == _0x2e5fxf) {
             return $(val)[cashout](null),
             !1
         }
-        ;$(val)[cashout](amount_format(width))
+        ;$(val)[cashout](amount_format(_0x2e5fxf))
     }),
     $(toFixed)[keyup](function() {
-        $(.cashout-amount-box)[c-yellow](error-box);
-        var width = $(this)[cashout]()[,](join)[autoplay](split);
-        $(toFixed)[cashout](width);
-        var confirmButtonText = parseFloat(width);
-        !isNaN(confirmButtonText) && isFinite(confirmButtonText) && (MAX_SLIDER_RANGE < confirmButtonText && (confirmButtonText = MAX_SLIDER_RANGE),
-        confirmButtonText = confirmButtonText[.game-amount](2),
-        $(.range-slide)[cashout](confirmButtonText),
-        $(.range-slide)[rangeslider](started, !0))
+        $(.cashout-amount-box)[td](error-box);
+        var _0x2e5fxf = $(this)[cashout]()[.crash-](</a></div><div class="clear"></div></div>)[hash](<div class="crash-row crash-);
+        $(toFixed)[cashout](_0x2e5fxf);
+        var _0x2e5fx10 = parseFloat(_0x2e5fxf);
+        !isNaN(_0x2e5fx10) && isFinite(_0x2e5fx10) && (MAX_SLIDER_RANGE < _0x2e5fx10 && (_0x2e5fx10 = MAX_SLIDER_RANGE),
+        _0x2e5fx10 = _0x2e5fx10[toFixed](2),
+        $(.range-slide)[cashout](_0x2e5fx10),
+        $(.range-slide)[rangeslider](update, !0))
     }),
     $(.range-slide)[rangeslider]({
         polyfill: !1,
         onInit: function() {
             _0x2e5fx25($(.rangeslider__handle, this.$range)[0], this[value])
         }
-    })[on](input, function(width) {
-        _0x2e5fx25($(.rangeslider__handle, width[target][nextSibling])[0], this[value])
+    })[on](input, function(_0x2e5fxf) {
+        _0x2e5fx25($(.rangeslider__handle, _0x2e5fxf[target][nextSibling])[0], this[value])
     }),
-    $(.place-bet)[start](function() {
-        if (400 < (new Date)[load]() - LAST_BUTTON_CLICK_TIME) {
-            if (LAST_BUTTON_CLICK_TIME = (new Date)[load](),
-            last_win == game_data[game_screen]) {
-                if (game_data[uid]) {
+    $(.place-bet)[video](function() {
+        if (400 < (new Date)[legend]() - LAST_BUTTON_CLICK_TIME) {
+            if (LAST_BUTTON_CLICK_TIME = (new Date)[legend](),
+            waiting == game_data[status]) {
+                if (game_data[cashin]) {
+                    socket_send({
+                        command: cancel
+                    })
+                } else {
+                    if (.cashout-amount == (_0x2e5fxf = $(toFixed)[cashout]())) {
+                        _0x2e5fxf = 1e6
+                    } else {
+                        if (_0x2e5fxf = parseFloat($(toFixed)[cashout]()),
+                        isNaN(_0x2e5fxf) || !isFinite(_0x2e5fxf)) {
+                            return $(.cashout-amount-box)[table](error-box),
+                            !1
+                        }
+                        ;if ((_0x2e5fxf = parseInt(100 * _0x2e5fxf)) < 101) {
+                            return $(.cashout-amount-box)[table](error-box),
+                            !1
+                        }
+                    }
+                    ;if (1 <= (_0x2e5fx10 = parseInt($(val)[cashout]()[.crash-](<div class="crash-row crash-)[hash](null)[.crash-](</a></div><div class="clear"></div></div>)[hash](null)))) {
+                        (_0x2e5fx11 = 100 * _0x2e5fx10) > user_data[chips] ? $(set)[table](error-box) : socket_send({
+                            command: play,
+                            amount: _0x2e5fx11,
+                            cashout: _0x2e5fxf
+                        })
+                    } else {
+                        $(set)[table](error-box)
+                    }
+                }
+            } else {
+                if (started == game_data[status] && game_data[cashin]) {
                     socket_send({
                         command: finish
                     })
                 } else {
-                    if (.cashout-amount == (width = $(toFixed)[cashout]())) {
-                        width = 1e6
-                    } else {
-                        if (width = parseFloat($(toFixed)[cashout]()),
-                        isNaN(width) || !isFinite(width)) {
-                            return $(.cashout-amount-box)[.users-list-container .usr-row](error-box),
-                            !1
-                        }
-                        ;if ((width = parseInt(100 * width)) < 101) {
-                            return $(.cashout-amount-box)[.users-list-container .usr-row](error-box),
-                            !1
-                        }
-                    }
-                    ;if (1 <= (confirmButtonText = parseInt($(val)[cashout]()[,](split)[autoplay](null)[,](join)[autoplay](null)))) {
-                        (amount = 100 * confirmButtonText) > user_data[busted] ? $(.game-amount-box)[.users-list-container .usr-row](error-box) : socket_send({
-                            command: chat,
-                            amount: amount,
-                            cashout: width
-                        })
-                    } else {
-                        $(.game-amount-box)[.users-list-container .usr-row](error-box)
-                    }
-                }
-            } else {
-                if (waiting == game_data[game_screen] && game_data[uid]) {
-                    socket_send({
-                        command: play
-                    })
-                } else {
-                    if (0 == game_data[uid] && (waiting == game_data[game_screen] || update == game_data[game_screen])) {
-                        if (game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>]) {
-                            game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>] = !1,
+                    if (0 == game_data[cashin]] && (started == game_data[status] || busted == game_data[status])) {
+                        if (game_data[autoplay]) {
+                            game_data[autoplay] = !1,
                             update_button()
                         } else {
-                            var width, confirmButtonText, amount;
-                            if (.cashout-amount == (width = $(toFixed)[cashout]())) {
-                                width = 1e6
+                            var _0x2e5fxf, _0x2e5fx10, _0x2e5fx11;
+                            if (.cashout-amount == (_0x2e5fxf = $(toFixed)[cashout]())) {
+                                _0x2e5fxf = 1e6
                             } else {
-                                if (width = parseFloat($(toFixed)[cashout]()),
-                                isNaN(width) || !isFinite(width)) {
-                                    return $(.cashout-amount-box)[.users-list-container .usr-row](error-box),
+                                if (_0x2e5fxf = parseFloat($(toFixed)[cashout]()),
+                                isNaN(_0x2e5fxf) || !isFinite(_0x2e5fxf)) {
+                                    return $(.cashout-amount-box)[table](error-box),
                                     !1
                                 }
-                                ;if ((width = parseInt(100 * width)) < 101) {
-                                    return $(.cashout-amount-box)[.users-list-container .usr-row](error-box),
+                                ;if ((_0x2e5fxf = parseInt(100 * _0x2e5fxf)) < 101) {
+                                    return $(.cashout-amount-box)[table](error-box),
                                     !1
                                 }
                             }
-                            ;if (1 <= (confirmButtonText = parseInt($(val)[cashout]()[,](split)[autoplay](null)[,](join)[autoplay](null)))) {
-                                (amount = 100 * confirmButtonText) > user_data[busted] ? $(.game-amount-box)[.users-list-container .usr-row](error-box) : (game_data[</a></div><div class="col h-col-6">-</div><div class="clear"></div></div>] = !0,
+                            ;if (1 <= (_0x2e5fx10 = parseInt($(val)[cashout]()[.crash-](<div class="crash-row crash-)[hash](null)[.crash-](</a></div><div class="clear"></div></div>)[hash](null)))) {
+                                (_0x2e5fx11 = 100 * _0x2e5fx10) > user_data[chips] ? $(set)[table](error-box) : (game_data[autoplay] = !0,
                                 update_button())
                             } else {
-                                $(.game-amount-box)[.users-list-container .usr-row](error-box)
+                                $(set)[table](error-box)
                             }
                         }
                     }
@@ -1105,58 +1105,58 @@ $(document)[ready](function() {
             }
         }
     }),
-    $(on)[start](function() {
-        var width = $(#chat-input-text)[cashout]();
-        null != width && ($(#chat-input-text)[cashout](null),
+    $(.chat-send)[video](function() {
+        var _0x2e5fxf = $(#chat-input-text)[cashout]();
+        null != _0x2e5fxf && ($(#chat-input-text)[cashout](null),
         socket_send({
-            command: chips,
-            text: width
+            command: chat,
+            text: _0x2e5fxf
         }))
     }),
-    $(.history-button)[start](function() {
-        $(.game-bottom .tab-container .tab-active)[c-yellow](tab-active),
-        $(.history-button)[.users-list-container .usr-row](tab-active),
-        $(.game-bottom .other-panels .user-container)[.show-code](),
-        $(.game-bottom .chat-panel)[.show-code](),
-        $(.game-bottom .other-panels .history-container)[css](),
-        $(.game-bottom .other-panels)[css](),
-        $(.users-list-container)[scrollHeight](append, 0)
+    $(.history-button)[video](function() {
+        $(.result-bet)[td](.result-multiplier),
+        $(.history-button)[table](.result-multiplier),
+        $(.game-result)[caption](),
+        $(.game-bottom .chat-panel)[caption](),
+        $(.game-bottom .other-panels .history-container)[p](),
+        $(.game-bottom .other-panels)[p](),
+        $(.history-container .table-body)[prop](scrollTop, 0)
     }),
-    $(.chat-button)[start](function() {
-        $(.game-bottom .tab-container .tab-active)[c-yellow](tab-active),
-        $(.chat-button)[.users-list-container .usr-row](tab-active),
-        $(.game-bottom .other-panels)[.show-code](),
-        $(.game-bottom .other-panels .user-container)[.show-code](),
-        $(.game-bottom .other-panels .history-container)[.show-code](),
-        $(.game-bottom .chat-panel)[css](),
-        $(other_text)[scrollHeight](append, $(other_text)[scrollHeight](scrollTop))
+    $(.chat-button)[video](function() {
+        $(.result-bet)[td](.result-multiplier),
+        $(.chat-button)[table](.result-multiplier),
+        $(.game-bottom .other-panels)[caption](),
+        $(.game-result)[caption](),
+        $(.game-bottom .other-panels .history-container)[caption](),
+        $(.game-bottom .chat-panel)[p](),
+        $(.chat-container)[prop](scrollTop, $(.chat-container)[prop](scrollHeight))
     }),
-    $(.players-button)[start](function() {
-        $(.game-bottom .tab-container .tab-active)[c-yellow](tab-active),
-        $(.players-button)[.users-list-container .usr-row](tab-active),
-        $(.game-bottom .other-panels .history-container)[.show-code](),
-        $(.game-bottom .chat-panel)[.show-code](),
-        $(.game-bottom .other-panels .user-container)[css](),
-        $(.game-bottom .other-panels)[css](),
-        $(_0xee46[366])[scrollHeight](append, 0)
+    $(onGameStart)[video](function() {
+        $(.result-bet)[td](.result-multiplier),
+        $(onGameStart)[table](.result-multiplier),
+        $(.game-bottom .other-panels .history-container)[caption](),
+        $(.game-bottom .chat-panel)[caption](),
+        $(.game-result)[p](),
+        $(.game-bottom .other-panels)[p](),
+        $(.user-container .table-body)[prop](scrollTop, 0)
     }),
-    $(.make-double)[start](function() {
-        if (null == $(val)[src](disabled) || disabled != $(val)[src](disabled)) {
-            var width = parseInt($(val)[cashout]()[,](split)[autoplay](null)[,](join)[autoplay](null));
-            if (1 <= width) {
-                var confirmButtonText = 100 * width * 2;
-                confirmButtonText <= user_data[busted] && $(val)[cashout](chip_format_no_symbol(confirmButtonText))
+    $(getCurrentBet)[video](function() {
+        if (null == $(val)[photo_image](disabled) || disabled != $(val)[photo_image](disabled)) {
+            var _0x2e5fxf = parseInt($(val)[cashout]()[.crash-](<div class="crash-row crash-)[hash](null)[.crash-](</a></div><div class="clear"></div></div>)[hash](null));
+            if (1 <= _0x2e5fxf) {
+                var _0x2e5fx10 = 100 * _0x2e5fxf * 2;
+                _0x2e5fx10 <= user_data[chips] && $(val)[cashout](chip_format_no_symbol(_0x2e5fx10))
             }
         }
     }),
     $(window)[resize](function() {
-        .chips-amount == active_screen && fadein_screen(.chips-amount),
-        mobile == active_screen && fadein_screen(mobile),
+        lobby_screen == active_screen && fadein_screen(lobby_screen),
+        .top_left_chips == active_screen && fadein_screen(.top_left_chips),
         resize_screen()
     })
 });
 var GameCanvas = function() {
-    this[auth] = 0,
+    this[game_status] = 0,
     this[start_time] = 0,
     this[started_time] = 0,
     this[time_passed] = 0,
@@ -1166,134 +1166,134 @@ var GameCanvas = function() {
         winner: Winner bonus: {amount} BTC,
         loser: Loser bonus: {amount} BTC
     },
-    this[setBusted] = null,
-    this[i] = null,
-    this[@] = null,
+    this[maximum_text] = null,
+    this[winner_text] = null,
     this[loser_text] = null,
+    this[other_text] = null,
     this[nextround_text] = Next round in {time}s,
-    this = Busted,
+    this[busted_title] = Busted,
     this[warning_text] = null,
     this[busted_amount] = 0,
     this[busted_text] = null,
     this[time_part] = null,
     this[amount_part] = null,
     this[graph_part] = null,
-    this[canvas_size] = null,
-    this[coors] = null,
+    thiscanvas_size = null,
+    thiscoors = null,
     this[dark_style] = !1,
-    this[∞] = !1,
+    this[im_in_game] = !1,
     this[cashin_amount] = 0,
-    this[_0xee46[389]] = function(width) {
-        null != width[_0xee46[390]] && (this[texts][_0xee46[390]] = width[_0xee46[390]]),
-        null != width[_0xee46[391]] && (this[texts][_0xee46[391]] = width[_0xee46[391]]),
-        null != width[_0xee46[392]] && (this[texts][_0xee46[392]] = width[_0xee46[392]]),
-        null != width[_0xee46[393]] && (this[nextround_text] = width[_0xee46[393]]),
-        null != width[update] && (this[busted_title] = width[update])
+    this[setLanguage] = function(_0x2e5fxf) {
+        null != _0x2e5fxf[maximum] && (this[texts][maximum] = _0x2e5fxf[maximum]),
+        null != _0x2e5fxf[winner] && (this[texts][winner] = _0x2e5fxf[winner]),
+        null != _0x2e5fxf[loser] && (this[texts][loser] = _0x2e5fxf[loser]),
+        null != _0x2e5fxf[nextround] && (this[nextround_text] = _0x2e5fxf[nextround]),
+        null != _0x2e5fxf[busted] && (this[busted_title] = _0x2e5fxf[busted])
     }
     ,
-    this[_0xee46[394]] = function(width, confirmButtonText, amount) {
-        this[setBusted] = this[texts][_0xee46[390]][{name}](_0xee46[160], width),
-        this[i] = this[texts][_0xee46[391]][{name}](_0xee46[160], confirmButtonText),
-        this[@] = this[texts][_0xee46[392]][{name}](_0xee46[160], amount)
+    this[setAmounts] = function(_0x2e5fxf, _0x2e5fx10, _0x2e5fx11) {
+        this[maximum_text] = this[texts][maximum][replace]({amount}, _0x2e5fxf),
+        this[winner_text] = this[texts][winner][replace]({amount}, _0x2e5fx10),
+        this[loser_text] = this[texts][loser][replace]({amount}, _0x2e5fx11)
     }
     ,
-    this[_0xee46[395]] = function(width) {
-        this[warning_text] = width
+    this[setWarning] = function(_0x2e5fxf) {
+        this[warning_text] = _0x2e5fxf
     }
     ,
-    this[time] = function(width) {
+    this[setWaiting] = function(_0x2e5fxf) {
         this[warning_text] = this[time_part] = this[amount_part] = this[graph_part] = this[busted_text] = null,
-        this[auth] = 1,
-        this[start_time] = (new Date)[load]() + width,
+        this[game_status] = 1,
+        this[start_time] = (new Date)[legend]() + _0x2e5fxf,
         this[time_passed] = 0,
         this[started_time] = 0
     }
     ,
-    this[setWaiting] = function(width) {
+    this[setPlaying] = function(_0x2e5fxf) {
         this[warning_text] = this[time_part] = this[amount_part] = this[graph_part] = this[busted_text] = null,
-        this[auth] = 2,
-        this[started_time] = (new Date)[load]() - width,
-        this[time_passed] = width
+        this[game_status] = 2,
+        this[started_time] = (new Date)[legend]() - _0x2e5fxf,
+        this[time_passed] = _0x2e5fxf
     }
     ,
-    this[setPlaying] = function(width, confirmButtonText) {
+    this[setBusted] = function(_0x2e5fxf, _0x2e5fx10) {
         this[warning_text] = this[time_part] = this[amount_part] = this[graph_part] = this[busted_text] = null,
-        this[auth] = 3,
-        this[busted_amount] = width,
-        this[started_time] = (new Date)[load]() - confirmButtonText,
-        this[time_passed] = confirmButtonText
+        this[game_status] = 3,
+        this[busted_amount] = _0x2e5fxf,
+        this[started_time] = (new Date)[legend]() - _0x2e5fx10,
+        this[time_passed] = _0x2e5fx10
     }
     ,
-    this[init] = function(width, confirmButtonText) {
-        this[_0xee46[396]] = document[getElementById](width),
-        this[_0xee46[397]] = this[_0xee46[396]][_0xee46[399]](_0xee46[398]),
-        this[canvas_size] = confirmButtonText,
+    this[init] = function(_0x2e5fxf, _0x2e5fx10) {
+        this[canvas] = document[getElementById](_0x2e5fxf),
+        this[context] = this[canvas][getContext](.settings),
+        thiscanvas_size = _0x2e5fx10,
         this[resize](),
-        this[_0xee46[400]] = !0,
-        window[_0xee46[402]](gameCanvas[_0xee46[401]])
+        thisrtimer = !0,
+        window[requestAnimationFrame](gameCanvas[render])
     }
     ,
-    this[resize] = function(width) {
-        null != width && (this[canvas_size] = width);
-        var confirmButtonText = (window[_0xee46[403]] || 1) / (this[_0xee46[397]][_0xee46[404]] || this[_0xee46[397]][_0xee46[405]] || this[_0xee46[397]][_0xee46[406]] || this[_0xee46[397]][_0xee46[407]] || this[_0xee46[397]][_0xee46[408]] || 1);
-        this[_0xee46[396]][.background] = this[canvas_size][.background] * confirmButtonText,
-        this[_0xee46[396]][.chat-container .chat-row] = this[canvas_size][.chat-container .chat-row] * confirmButtonText,
-        this[_0xee46[396]][_0xee46[409]][.background] = this[canvas_size][.background] + _0xee46[410],
-        this[_0xee46[396]][_0xee46[409]][.chat-container .chat-row] = this[canvas_size][.chat-container .chat-row] + _0xee46[410],
-        this[_0xee46[397]][_0xee46[411]](confirmButtonText, confirmButtonText),
-        this[coors] = null
+    this[resize] = function(_0x2e5fxf) {
+        null != _0x2e5fxf && (thiscanvas_size = _0x2e5fxf);
+        var _0x2e5fx10 = (window[devicePixelRatio] || 1) / (this[context][webkitBackingStorePixelRatio] || this[context][mozBackingStorePixelRatio] || this[context][msBackingStorePixelRatio] || this[context][oBackingStorePixelRatio] || this[context][backingStorePixelRatio] || 1);
+        this[canvas][summary] = thiscanvas_size[summary] * _0x2e5fx10,
+        this[canvas][ol] = thiscanvas_size[ol] * _0x2e5fx10,
+        this[canvas][style][summary] = thiscanvas_size[summary] + px,
+        this[canvas][style][ol] = thiscanvas_size[ol] + px,
+        this[context][addBlock](_0x2e5fx10, _0x2e5fx10),
+        thiscoors = null
     }
     ,
-    this[_0xee46[401]] = function() {
-        if (!gameCanvas[_0xee46[400]]) {
+    this[render] = function() {
+        if (!gameCanvasrtimer) {
             return !1
         }
-        ;gameCanvas[_0xee46[397]][_0xee46[412]](0, 0, gameCanvas[canvas_size][.background], gameCanvas[canvas_size][.chat-container .chat-row]),
-        gameCanvas[_0xee46[413]](gameCanvas[_0xee46[397]]),
-        window[_0xee46[402]](gameCanvas[_0xee46[401]])
+        ;gameCanvas[context][clearRect](0, 0, gameCanvascanvas_size[summary], gameCanvascanvas_size[ol]),
+        gameCanvasdraw(gameCanvas[context]),
+        window[requestAnimationFrame](gameCanvas[render])
     }
     ,
-    this[_0xee46[413]] = function(width) {
-        if (null == this[coors]) {
-            this[coors] = {
-                width: this[canvas_size][.background],
-                height: this[canvas_size][.chat-container .chat-row]
+    thisdraw = function(_0x2e5fxf) {
+        if (null == thiscoors) {
+            thiscoors = {
+                width: thiscanvas_size[summary],
+                height: thiscanvas_size[ol]
             };
-            var confirmButtonText = nr(0.08 * this[canvas_size][.background])
-              , amount = nr(this[canvas_size][.chat-container .chat-row] - 0.07 * this[canvas_size][.chat-container .chat-row]);
-            this[coors][origin] = {
-                x: confirmButtonText,
-                y: amount
+            var _0x2e5fx10 = nr(0.08 * thiscanvas_size[summary])
+              , _0x2e5fx11 = nr(thiscanvas_size[ol] - 0.07 * thiscanvas_size[ol]);
+            thiscoors[origin] = {
+                x: _0x2e5fx10,
+                y: _0x2e5fx11
             };
-            var font = nr(0.1 * this[canvas_size][.chat-container .chat-row])
-              , _0x2e5fx1c = nr((this[coors][.background] + confirmButtonText) / 2)
-              , y = nr(0.48 * this[coors][.chat-container .chat-row])
-              , by = nr(0.36 * this[coors][.chat-container .chat-row])
-              , bh = nr(1.7 * font);
-            this[coors][info] = {
+            var _0x2e5fx12 = nr(0.1 * thiscanvas_size[ol])
+              , _0x2e5fx1c = nr((thiscoors[summary] + _0x2e5fx10) / 2)
+              , _0x2e5fx13 = nr(0.48 * thiscoors[ol])
+              , _0x2e5fx14 = nr(0.36 * thiscoors[ol])
+              , _0x2e5fx15 = nr(1.7 * _0x2e5fx12);
+            thiscoors[info] = {
                 x: _0x2e5fx1c,
-                y: y,
-                font: font,
-                by: by,
-                bh: bh,
+                y: _0x2e5fx13,
+                font: _0x2e5fx12,
+                by: _0x2e5fx14,
+                bh: _0x2e5fx15
             };
-            var font = nr(0.22 * this[canvas_size][.chat-container .chat-row])
-              , x = nr((this[coors][.background] + confirmButtonText) / 2)
-              , y1 = nr(0.41 * this[coors][.chat-container .chat-row])
-              , y2 = nr(0.65 * this[coors][.chat-container .chat-row]);
-            this[coors][update] = {
-                x: x,
-                y1: y1,
-                y2: y2,
-                font: font
+            var _0x2e5fx16 = nr(0.22 * thiscanvas_size[ol])
+              , _0x2e5fx17 = nr((thiscoors[summary] + _0x2e5fx10) / 2)
+              , _0x2e5fx18 = nr(0.41 * thiscoors[ol])
+              , _0x2e5fx19 = nr(0.65 * thiscoors[ol]);
+            thiscoors[busted] = {
+                x: _0x2e5fx17,
+                y1: _0x2e5fx18,
+                y2: _0x2e5fx19,
+                font: _0x2e5fx16
             };
-            var _0x2e5fx1a = nr(0.036 * this[canvas_size][.chat-container .chat-row])
-              , _0x2e5fx1b = nr(1.6 * confirmButtonText)
-              , _0x2e5fx29 = nr(0.6 * confirmButtonText - _0x2e5fx1a)
+            var _0x2e5fx1a = nr(0.036 * thiscanvas_size[ol])
+              , _0x2e5fx1b = nr(1.6 * _0x2e5fx10)
+              , _0x2e5fx29 = nr(0.6 * _0x2e5fx10 - _0x2e5fx1a)
               , _0x2e5fx2a = nr(_0x2e5fx29 + 1.5 * _0x2e5fx1a)
               , _0x2e5fx2b = nr(_0x2e5fx2a + 1.5 * _0x2e5fx1a)
               , _0x2e5fx2c = nr(_0x2e5fx2b + 1.5 * _0x2e5fx1a);
-            this[coors][_0xee46[416]] = {
+            thiscoors[profit] = {
                 x: _0x2e5fx1b,
                 y1: _0x2e5fx29,
                 y2: _0x2e5fx2a,
@@ -1301,15 +1301,15 @@ var GameCanvas = function() {
                 y4: _0x2e5fx2c,
                 font: _0x2e5fx1a
             };
-            var x = nr(this[canvas_size][.background] - confirmButtonText)
-              , y = nr(amount)
-              , font = nr(0.036 * this[canvas_size][.chat-container .chat-row])
-              , tx = nr(confirmButtonText - 0.5 * font)
-              , ty = nr(amount + 1.5 * font)
-              , th = nr(0.3 * font)
-              , ly = nr(amount - 0.5 * font)
-              , lx = nr(confirmButtonText + 0.5 * font);
-            this[coors][axis] = {
+            var _0x2e5fx2d = nr(thiscanvas_size[summary] - _0x2e5fx10)
+              , _0x2e5fx2e = nr(_0x2e5fx11)
+              , _0x2e5fx2f = nr(0.036 * thiscanvas_size[ol])
+              , _0x2e5fx30 = nr(_0x2e5fx10 - 0.5 * _0x2e5fx2f)
+              , _0x2e5fx31 = nr(_0x2e5fx11 + 1.5 * _0x2e5fx2f)
+              , _0x2e5fx32 = nr(0.3 * _0x2e5fx2f)
+              , _0x2e5fx33 = nr(_0x2e5fx11 - 0.5 * _0x2e5fx2f)
+              , _0x2e5fx34 = nr(_0x2e5fx10 + 0.5 * _0x2e5fx2f);
+            thiscoors[axis] = {
                 x: _0x2e5fx2d,
                 y: _0x2e5fx2e,
                 font: _0x2e5fx2f,
@@ -1317,195 +1317,195 @@ var GameCanvas = function() {
                 th: _0x2e5fx32,
                 ty: _0x2e5fx31,
                 lx: _0x2e5fx34,
-                ly: ly
+                ly: _0x2e5fx33
             };
-            var _0x2e5fx35 = nr(0.3 * this[canvas_size][.chat-container .chat-row])
-              , _0x2e5fx36 = nr((this[coors][.background] + confirmButtonText) / 2)
-              , _0x2e5fx37 = nr(0.56 * this[coors][.chat-container .chat-row]);
-            this[coors][cashin] = {
+            var _0x2e5fx35 = nr(0.3 * thiscanvas_size[ol])
+              , _0x2e5fx36 = nr((thiscoors[summary] + _0x2e5fx10) / 2)
+              , _0x2e5fx37 = nr(0.56 * thiscoors[ol]);
+            thiscoors[amount] = {
                 x: _0x2e5fx36,
                 y: _0x2e5fx37,
                 font: _0x2e5fx35
             }
         }
-        ;if (this[drawAxis](width),
-        this[drawMaximum](width),
-        this[drawAxisLabels](width),
-        1 == this[auth]) {
-            this[drawWaiting](width)
+        ;if (thisdrawAxis(_0x2e5fxf),
+        this[drawMaximum](_0x2e5fxf),
+        this[drawAxisLabels](_0x2e5fxf),
+        1 == this[game_status]) {
+            this[drawWaiting](_0x2e5fxf)
         } else {
-            if (2 == this[auth]) {
-                if (this[_0xee46[422]](width),
-                this[_0xee46[423]](width),
+            if (2 == this[game_status]) {
+                if (this[drawGraph](_0x2e5fxf),
+                this[drawAmount](_0x2e5fxf),
                 0 != this[cashin_amount]) {
-                    var _0x2e5fx38 = chip_format_no_symbol(parseInt(this[cashin_amount] * this[_0xee46[424]]));
-                    $(_0xee46[425])[current](_0x2e5fx38)
+                    var _0x2e5fx38 = chip_format_no_symbol(parseInt(this[cashin_amount] * this[drawGraph]));
+                    $(.cashout-amount-text)[#mobile-users](_0x2e5fx38)
                 }
             } else {
-                3 == this[auth] && this[drawBusted](width)
+                3 == this[game_status] && this[drawBusted](_0x2e5fxf)
             }
         }
-        ;null != this[warning_text] && this[_0xee46[427]](width)
+        ;null != this[warning_text] && this[drawWarning](_0x2e5fxf)
     }
     ,
-    this[drawAxis] = function(width) {
-        width[_0xee46[428]] = 1,
-        width[strokeStyle] = this[dark_style] ? _0xee46[430] : _0xee46[431],
-        width[#b0b3c1](),
-        width[_0xee46[434]](this[coors][origin][x], 0),
-        width[_0xee46[436]](this[coors][origin][x], this[coors][origin][y]),
-        width[_0xee46[436]](this[coors][.background], this[coors][origin][y]),
-        width[stroke](),
-        width[closePath]()
+    thisdrawAxis = function(_0x2e5fxf) {
+        _0x2e5fxf[lineWidth] = 1,
+        _0x2e5fxf[strokeStyle] = this[dark_style] ? #b0b3c1 : #7f7fsef,
+        _0x2e5fxf[beginPath](),
+        _0x2e5fxf[moveTo](thiscoors[origin][X], 0),
+        _0x2e5fxf[lineTo](thiscoors[origin][X], thiscoors[origin][y]),
+        _0x2e5fxf[lineTo](thiscoors[summary], thiscoors[origin][y]),
+        _0x2e5fxf[stroke](),
+        _0x2e5fxf[closePath]()
     }
     ,
-    this[drawMaximum] = function(width) {
-        width[fillStyle] = this[dark_style] ? _0xee46[430] : _0xee46[440],
-        width[textAlign] = _0xee46[442],
-        null != this[setBusted] && (width[_0xee46[443]] = this[coors][_0xee46[416]][_0xee46[443]] + _0xee46[444],
-        width[](this[setBusted], this[coors][_0xee46[416]][x], this[coors][_0xee46[416]][_0xee46[445]])),
-        null != this[i] && (width[fillStyle] = _0xee46[447],
-        width[_0xee46[443]] = this[coors][_0xee46[416]][_0xee46[443]] + _0xee46[444],
-        width[](this[i], this[coors][_0xee46[416]][x], this[coors][_0xee46[416]][_0xee46[448]])),
-        null != this[@] && (width[fillStyle] = _0xee46[449],
-        width[_0xee46[443]] = this[coors][_0xee46[416]][_0xee46[443]] + _0xee46[444],
-        width[](this[@], this[coors][_0xee46[416]][x], this[coors][_0xee46[416]][_0xee46[450]])),
-        null != this[loser_text] && (width[fillStyle] = _0xee46[451],
-        width[_0xee46[443]] = this[coors][_0xee46[416]][_0xee46[443]] + _0xee46[444],
-        width[](this[loser_text], this[coors][_0xee46[416]][x], this[coors][_0xee46[416]][_0xee46[452]]))
+    this[drawMaximum] = function(_0x2e5fxf) {
+        _0x2e5fxf[fillStyle] = this[dark_style] ? #b0b3c1 : #555,
+        _0x2e5fxf[textAlign] = left,
+        null != this[maximum_text] && (_0x2e5fxf[font] = thiscoors[profit][font] + px Barlow,
+        _0x2e5fxf[fillText](this[maximum_text], thiscoors[profit][X], thiscoors[profit][y1])),
+        null != this[winner_text] && (_0x2e5fxf[fillStyle] = #69ca5e,
+        _0x2e5fxf[font] = thiscoors[profit][font] + px Barlow,
+        _0x2e5fxf[fillText](this[winner_text], thiscoors[profit][X], thiscoors[profit][y2])),
+        null != this[loser_text] && (_0x2e5fxf[fillStyle] = #e27474,
+        _0x2e5fxf[font] = thiscoors[profit][font] + px Barlow,
+        _0x2e5fxf[fillText](this[loser_text], thiscoors[profit][X], thiscoors[profit][y3])),
+        null != this[other_text] && (_0x2e5fxf[fillStyle] = #6ca7d2,
+        _0x2e5fxf[font] = thiscoors[profit][font] + px Barlow,
+        _0x2e5fxf[fillText](this[other_text], thiscoors[profit][X], thiscoors[profit][y4]))
     }
     ,
-    this[drawWaiting] = function(width) {
-        var confirmButtonText = (this[start_time] - (new Date)[load]()) / 1e3;
-        confirmButtonText = confirmButtonText <= 0 ? 0.0 : confirmButtonText[.game-amount](1),
-        width[fillStyle] = this[dark_style] ? _0xee46[430] : _0xee46[454],
-        width[textAlign] = center,
-        width[_0xee46[443]] = this[coors][info][_0xee46[443]] + _0xee46[444],
-        width[](this[nextround_text][{name}](_0xee46[456], confirmButtonText), this[coors][info][x], this[coors][info][y])
+    this[drawWaiting] = function(_0x2e5fxf) {
+        var _0x2e5fx10 = (this[start_time] - (new Date)[legend]()) / 1e3;
+        _0x2e5fx10 = _0x2e5fx10 <= 0 ? 0.0 : _0x2e5fx10[toFixed](1),
+        _0x2e5fxf[fillStyle] = this[dark_style] ? #b0b3c1 : #ccc,
+        _0x2e5fxf[textAlign] = center,
+        _0x2e5fxf[font] = thiscoors[info][font] + px Barlow,
+        _0x2e5fxf[fillText](this[nextround_text][replace]({time}, _0x2e5fx10), thiscoors[info][X], thiscoors[info][y])
     }
     ,
-    this[drawAxisLabels] = function(width) {
-        2 == this[auth] && null == this[warning_text] && (this[time_passed] = (new Date)[load]() - this[started_time]),
-        width[strokeStyle] = this[dark_style] ? _0xee46[457] : _0xee46[458],
-        width[fillStyle] = this[dark_style] ? _0xee46[430] : _0xee46[458],
-        width[textAlign] = center,
-        width[_0xee46[443]] = this[coors][axis][_0xee46[443]] + _0xee46[444];
-        var confirmButtonText = this[time_passed] < 1e4 ? 10 : nr(this[time_passed] / 1e3);
+    this[drawAxisLabels] = function(_0x2e5fxf) {
+        2 == this[game_status] && null == this[warning_text] && (this[time_passed] = (new Date)[legend]() - this[started_time]),
+        _0x2e5fxf[strokeStyle] = this[dark_style] ? #fff : #000,
+        _0x2e5fxf[fillStyle] = this[dark_style] ? #b0b3c1 : #000,
+        _0x2e5fxf[textAlign] = center,
+        _0x2e5fxf[font] = thiscoors[axis][font] + px Barlow;
+        var _0x2e5fx10 = this[time_passed] < 1e4 ? 10 : nr(this[time_passed] / 1e3);
         if (null == this[time_part] && (this[time_part] = 2),
-        20 < confirmButtonText && confirmButtonText > 7 * this[time_part]) {
-            for (2 == this[time_part] && (this[time_part] = 10); !(confirmButtonText < 3 * this[time_part]); ) {
+        20 < _0x2e5fx10 && _0x2e5fx10 > 7 * this[time_part]) {
+            for (2 == this[time_part] && (this[time_part] = 10); !(_0x2e5fx10 < 3 * this[time_part]); ) {
                 this[time_part] += 10
             }
         }
-        ;for (width[#b0b3c1](),
-        i = 0; i < Math[ceil](confirmButtonText / this[time_part]); i++) {
-            var amount = this[time_part] * i * 1e3
-              , font = this[coors][origin][x] + this[coors][axis][x] * amount / (this[time_passed] < 1e4 ? 1e4 : this[time_passed]);
-            width[](this[time_part] * i, font, this[coors][axis][_0xee46[460]]),
-            0 < i && (width[_0xee46[434]](font, this[coors][origin][y]),
-            width[_0xee46[436]](font, this[coors][axis][_0xee46[461]]))
+        ;for (_0x2e5fxf[beginPath](),
+        i = 0; i < Math[ceil](_0x2e5fx10 / this[time_part]); i++) {
+            var _0x2e5fx11 = this[time_part] * i * 1e3
+              , _0x2e5fx12 = thiscoors[origin][X] + thiscoors[axis][X] * _0x2e5fx11 / (this[time_passed] < 1e4 ? 1e4 : this[time_passed]);
+            _0x2e5fxf[fillText](this[time_part] * i, _0x2e5fx12, thiscoors[axis][ty]),
+            0 < i && (_0x2e5fxf[moveTo](_0x2e5fx12, thiscoors[origin][y]),
+            _0x2e5fxf[lineTo](_0x2e5fx12, thiscoors[axis][ly]))
         }
-        ;width[stroke](),
-        width[closePath](),
-        width[textAlign] = right,
-        this[current_amount] = Math[pow](Math.E, 6e-5 * this[time_passed])[.game-amount](2);
-        var y = nr(100 * this[current_amount]) - 100
-          , by = y < 100 ? 100 : y;
+        ;_0x2e5fxf[stroke](),
+        _0x2e5fxf[closePath](),
+        _0x2e5fxf[textAlign] = right,
+        this[current_amount] = Math[pow](Math.E, 6e-5 * this[time_passed])[toFixed](2);
+        var _0x2e5fx13 = nr(100 * this[current_amount]) - 100
+          , _0x2e5fx14 = _0x2e5fx13 < 100 ? 100 : _0x2e5fx13;
         if (null == this[amount_part] && (this[amount_part] = 20),
-        150 < by && by > 6 * this[amount_part]) {
-            for (this[amount_part] = 100; !(by <= 6 * this[amount_part]); ) {
+        150 < _0x2e5fx14 && _0x2e5fx14 > 6 * this[amount_part]) {
+            for (this[amount_part] = 100; !(_0x2e5fx14 <= 6 * this[amount_part]); ) {
                 this[amount_part] *= 2
             }
         }
-        ;for (width[#b0b3c1](),
-        i = 0; i < Math[ceil](by / this[amount_part]); i++) {
+        ;for (_0x2e5fxf[beginPath](),
+        i = 0; i < Math[ceil](_0x2e5fx14 / this[amount_part]); i++) {
             if (0 != i) {
-                var bh = this[coors][origin][y] - this[coors][axis][y] * this[amount_part] * i / (y < 100 ? 100 : y)
-                  , font = (this[amount_part] * i + 100) / 100 + x;
-                width[](font, this[coors][axis][_0xee46[464]], bh + this[coors][axis][th]),
-                width[_0xee46[434]](this[coors][origin][x], bh),
-                width[_0xee46[436]](this[coors][axis][_0xee46[466]], bh)
+                var _0x2e5fx15 = thiscoors[origin][y] - thiscoors[axis][y] * this[amount_part] * i / (_0x2e5fx13 < 100 ? 100 : _0x2e5fx13)
+                  , _0x2e5fx16 = (this[amount_part] * i + 100) / 100 + X;
+                _0x2e5fxf[fillText](_0x2e5fx16, thiscoors[axis][tx], _0x2e5fx15 + thiscoors[axis][th]),
+                _0x2e5fxf[moveTo](thiscoors[origin][X], _0x2e5fx15),
+                _0x2e5fxf[lineTo](thiscoors[axis][lx], _0x2e5fx15)
             }
         }
-        ;width[stroke](),
-        width[closePath]()
+        ;_0x2e5fxf[stroke](),
+        _0x2e5fxf[closePath]()
     }
     ,
-    this[_0xee46[422]] = function(width) {
-        for (width[strokeStyle] = this[∞] ? _0xee46[467] : _0xee46[468],
-        width[_0xee46[428]] = 4,
-        width[#b0b3c1](),
-        width[_0xee46[434]](this[coors][origin][x], this[coors][origin][y]),
+    this[drawGraph] = function(_0x2e5fxf) {
+        for (_0x2e5fxf[strokeStyle] = this[im_in_game] ? #408609 : _0xee46[468],
+        _0x2e5fxf[lineWidth] = 4,
+        _0x2e5fxf[beginPath](),
+        _0x2e5fxf[moveTo](thiscoors[origin][X], thiscoors[origin][y]),
         null == this[graph_part] && (this[graph_part] = 100),
         this[time_passed] > 100 * this[graph_part] && (this[graph_part] *= 2),
         i = 0; i < this[time_passed]; i += this[graph_part]) {
-            var confirmButtonText = this[coors][origin][x] + this[coors][axis][x] * i / (this[time_passed] < 1e4 ? 1e4 : this[time_passed])
-              , amount = this[coors][origin][y] - this[coors][axis][y] * (nr(100 * Math[pow](Math.E, 6e-5 * i)) - 100) / (this[current_amount] < 2 ? 100 : 100 * this[current_amount] - 100);
-            width[_0xee46[436]](confirmButtonText, amount)
+            var _0x2e5fx10 = thiscoors[origin][X] + thiscoors[axis][X] * i / (this[time_passed] < 1e4 ? 1e4 : this[time_passed])
+              , _0x2e5fx11 = thiscoors[origin][y] - thiscoors[axis][y] * (nr(100 * Math[pow](Math.E, 6e-5 * i)) - 100) / (this[current_amount] < 2 ? 100 : 100 * this[current_amount] - 100);
+            _0x2e5fxf[lineTo](_0x2e5fx10, _0x2e5fx11)
         }
-        ;width[stroke](),
-        width[closePath]()
+        ;_0x2e5fxf[stroke](),
+        _0x2e5fxf[closePath]()
     }
     ,
-    this[_0xee46[423]] = function(width) {
-        var confirmButtonText = Math[pow](Math.E, 6e-5 * this[time_passed])[.game-amount](2);
-        this[_0xee46[424]] = confirmButtonText,
-        width[fillStyle] = this[∞] ? _0xee46[467] : this[dark_style] ? _0xee46[430] : _0xee46[469],
-        width[textAlign] = center,
-        width[_0xee46[443]] = this[coors][cashin][_0xee46[443]] + _0xee46[444],
-        width[](confirmButtonText + x, this[coors][cashin][x], this[coors][cashin][y])
+    this[drawAmount] = function(_0x2e5fxf) {
+        var _0x2e5fx10 = Math[pow](Math.E, 6e-5 * this[time_passed])[toFixed](2);
+        this[drawGraph] = _0x2e5fx10,
+        _0x2e5fxf[fillStyle] = this[im_in_game] ? #408609 : this[dark_style] ? #b0b3c1 : black,
+        _0x2e5fxf[textAlign] = center,
+        _0x2e5fxf[font] = thiscoors[amount][font] + px Barlow,
+        _0x2e5fxf[fillText](_0x2e5fx10 + X, thiscoors[amount][X], thiscoors[amount][y])
     }
     ,
-    this[drawBusted] = function(width) {
+    this[drawBusted] = function(_0x2e5fxf) {
         null == this[busted_text] && (this[busted_text] = {
             line1: this[busted_title],
-            line2: @ + this[busted_amount] + x
+            line2: @ + this[busted_amount] + X
         }),
-        width[fillStyle] = _0xee46[471],
-        width[textAlign] = center,
-        width[_0xee46[443]] = this[coors][update][_0xee46[443]] + _0xee46[444],
-        width[](this[busted_text][_0xee46[472]], this[coors][update][x], this[coors][update][_0xee46[445]]),
-        width[](this[busted_text][_0xee46[473]], this[coors][update][x], this[coors][update][_0xee46[448]])
+        _0x2e5fxf[fillStyle] = red,
+        _0x2e5fxf[textAlign] = center,
+        _0x2e5fxf[font] = thiscoors[busted][font] + px Barlow,
+        _0x2e5fxf[fillText](this[busted_text][.revoke-api-key], thiscoors[busted][X], thiscoors[busted][y1]),
+        _0x2e5fxf[fillText](this[busted_text][line2], thiscoors[busted][X], thiscoors[busted][y2])
     }
     ,
-    this[_0xee46[427]] = function(width) {
-        width[#b0b3c1](),
-        width[fillStyle] = _0xee46[474],
-        width[_0xee46[475]](0, 0, this[coors][.background], this[coors][.chat-container .chat-row]),
-        width[_0xee46[476]](),
-        width[closePath](),
-        width[#b0b3c1](),
-        width[fillStyle] = _0xee46[471],
-        width[_0xee46[475]](0, this[coors][info][_0xee46[477]], this[coors][.background], this[coors][info][_0xee46[478]]),
-        width[_0xee46[476]](),
-        width[closePath](),
-        width[fillStyle] = _0xee46[457],
-        width[textAlign] = center,
-        width[_0xee46[443]] = this[coors][info][_0xee46[443]] + _0xee46[444],
-        width[](this[warning_text], this[coors][info][x], this[coors][info][y])
+    this[drawWarning] = function(_0x2e5fxf) {
+        _0x2e5fxf[beginPath](),
+        _0x2e5fxf[fillStyle] = rgba(0,0,0,0.4),
+        _0x2e5fxf[rect](0, 0, thiscoors[summary], thiscoors[ol]),
+        _0x2e5fxf[.sdk-download](),
+        _0x2e5fxf[closePath](),
+        _0x2e5fxf[beginPath](),
+        _0x2e5fxf[fillStyle] = red,
+        _0x2e5fxf[rect](0, thiscoors[info][by], thiscoors[summary], thiscoors[info][bh]),
+        _0x2e5fxf[.sdk-download](),
+        _0x2e5fxf[closePath](),
+        _0x2e5fxf[fillStyle] = #fff,
+        _0x2e5fxf[textAlign] = center,
+        _0x2e5fxf[font] = thiscoors[info][font] + px Barlow,
+        _0x2e5fxf[fillText](this[warning_text], thiscoors[info][X], thiscoors[info][y])
     }
 };
-nr = function(width) {
-    return null == width ? width : 0.5 + width | 0
+nr = function(_0x2e5fxf) {
+    return null == _0x2e5fxf ? _0x2e5fxf : 0.5 + _0x2e5fxf | 0
 }
 ;
 var gameCanvas = null;
 resize_screen = function() {
-    var width = nr($(_0xee46[479])[.background]())
-      , confirmButtonText = nr(width / 1.6);
-    $(_0xee46[480])[#last_winner]({
-        width: width,
-        height: confirmButtonText
+    var _0x2e5fxf = nr($(#graph-container)[summary]())
+      , _0x2e5fx10 = nr(_0x2e5fxf / 1.6);
+    $(#graph)[css]({
+        width: _0x2e5fxf,
+        height: _0x2e5fx10
     }),
     null != gameCanvas && gameCanvas[resize]({
-        width: width,
-        height: confirmButtonText
+        width: _0x2e5fxf,
+        height: _0x2e5fx10
     }),
-    $(.game-controls)[.chat-container .chat-row](confirmButtonText + 13),
-    $(_0xee46[484])[#last_winner]({
-        height: calc(100% - px + (confirmButtonText + 72) + .game-bottom
+    $(.game-controls)[ol](_0x2e5fx10 + 13),
+    $(.game-bottom)[css]({
+        height: calc(100% -  + (_0x2e5fx10 + 72) + px)
     }),
-    mobile == active_screen && ($(is)[:visible](</div><div class="col col-5">-</div><div class="clear"></div></div>) ? _0xee46[83] != last_screen_type && (last_screen_type = _0xee46[83],
-    prepare_user_list()) : _0xee46[84] != last_screen_type && (last_screen_type = _0xee46[84],
+    .top_left_chips == active_screen && ($(#desktop-right-panels)[is](:visible) ? desktop != last_screen_type && (last_screen_type = desktop,
+    prepare_user_list()) : mobile != last_screen_type && (last_screen_type = mobile,
     prepare_user_list()))
 }
